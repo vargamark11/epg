@@ -1,4 +1,3 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
 #  Saved by WG++ 03/05/2016
 
-sky.com	False	/	False	-62135600400	countryAKA	GB
