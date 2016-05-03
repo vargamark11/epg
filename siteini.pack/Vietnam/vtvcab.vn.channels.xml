@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/52.22 -- Jan van Straaten" site="vtvcab.vn">
+  <channels>
+    <channel update="i" site="vtvcab.vn" site_id="78" xmltv_id="VTVcab 1 - Giải trí TV">VTVcab 1 - Giải trí TV</channel>
+    <channel update="i" site="vtvcab.vn" site_id="79" xmltv_id="VTVcab 2 - Phim Việt">VTVcab 2 - Phim Việt</channel>
+    <channel update="i" site="vtvcab.vn" site_id="80" xmltv_id="VTVcab 3 - Thể thao TV">VTVcab 3 - Thể thao TV</channel>
+    <channel update="i" site="vtvcab.vn" site_id="81" xmltv_id="VTVcab 5 - E channel">VTVcab 5 - E channel</channel>
+    <channel update="i" site="vtvcab.vn" site_id="83" xmltv_id="VTVcab 6">VTVcab 6</channel>
+    <channel update="i" site="vtvcab.vn" site_id="84" xmltv_id="VTVcab 7 - D Dramas">VTVcab 7 - D Dramas</channel>
+    <channel update="i" site="vtvcab.vn" site_id="85" xmltv_id="VTVcab 8 - Bibi">VTVcab 8 - Bibi</channel>
+    <channel update="i" site="vtvcab.vn" site_id="87" xmltv_id="VTVcab 10 - O2TV">VTVcab 10 - O2TV</channel>
+    <channel update="i" site="vtvcab.vn" site_id="89" xmltv_id="VTVcab 12 - Style TV">VTVcab 12 - Style TV</channel>
+    <channel update="i" site="vtvcab.vn" site_id="90" xmltv_id="VTVcab 16 - Bóng đá TV">VTVcab 16 - Bóng đá TV</channel>
+    <channel update="i" site="vtvcab.vn" site_id="93" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="vtvcab.vn" site_id="95" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="vtvcab.vn" site_id="96" xmltv_id="Star Movies">Star Movies</channel>
+    <channel update="i" site="vtvcab.vn" site_id="97" xmltv_id="DIVA Universal">DIVA Universal</channel>
+    <channel update="i" site="vtvcab.vn" site_id="98" xmltv_id="Star World">Star World</channel>
+    <channel update="i" site="vtvcab.vn" site_id="99" xmltv_id="Australia Network">Australia Network</channel>
+    <channel update="i" site="vtvcab.vn" site_id="100" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="vtvcab.vn" site_id="101" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="vtvcab.vn" site_id="102" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="vtvcab.vn" site_id="103" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="vtvcab.vn" site_id="104" xmltv_id="Star Sports">Star Sports</channel>
+    <channel update="i" site="vtvcab.vn" site_id="105" xmltv_id="FOX sports">FOX sports</channel>
+    <channel update="i" site="vtvcab.vn" site_id="106" xmltv_id="FOX sports plus">FOX sports plus</channel>
+    <channel update="i" site="vtvcab.vn" site_id="108" xmltv_id="K+NS">K+NS</channel>
+    <channel update="i" site="vtvcab.vn" site_id="109" xmltv_id="Channel[5]">Channel[5]</channel>
+    <channel update="i" site="vtvcab.vn" site_id="110" xmltv_id="NGC">NGC</channel>
+    <channel update="i" site="vtvcab.vn" site_id="111" xmltv_id="NGC HD">NGC HD</channel>
+    <channel update="i" site="vtvcab.vn" site_id="112" xmltv_id="NGA (National Geographic Adventure)">NGA (National Geographic Adventure)</channel>
+    <channel update="i" site="vtvcab.vn" site_id="113" xmltv_id="NGW (National Geographic Wild)">NGW (National Geographic Wild)</channel>
+    <channel update="i" site="vtvcab.vn" site_id="114" xmltv_id="Kidsco">Kidsco</channel>
+    <channel update="i" site="vtvcab.vn" site_id="116" xmltv_id="K+1">K+1</channel>
+    <channel update="i" site="vtvcab.vn" site_id="117" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="vtvcab.vn" site_id="118" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="vtvcab.vn" site_id="119" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="vtvcab.vn" site_id="120" xmltv_id="Bóng đá TV HD">Bóng đá TV HD</channel>
+    <channel update="i" site="vtvcab.vn" site_id="121" xmltv_id="Thể thao TV HD">Thể thao TV HD</channel>
+    <channel update="i" site="vtvcab.vn" site_id="122" xmltv_id="K+PM">K+PM</channel>
+    <channel update="i" site="vtvcab.vn" site_id="123" xmltv_id="VTVcab 17 - Yeah1">VTVcab 17 - Yeah1</channel>
+    <channel update="i" site="vtvcab.vn" site_id="124" xmltv_id="VTVcab - Kênh 17">VTVcab - Kênh 17</channel>
+  </channels>
+</site>

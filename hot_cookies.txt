@@ -1,0 +1,6 @@
+#  Hot_Cookies, saved for the purpose of an actual WebGrab run
+#  Saved by WG++ 02/05/2016
+
+.imdb.com	False	/	False	3609701648	uu	BCYsejkHKWsfhl4KOHU3ylhXbrPqO0Wzzsrg2pkl17irlk4lki4xGCb0rXYJU8cLzWpNy_XG9TDs%0D%0AJFXABcjokUWtHLewt98c59OV0UkFacbG3WPuEAFt0nPt19CR4V4crkjgIDxIO8RXPOAMqaoRijcR%0D%0APoCr06KIWxgUD_uECgqyI6AliA6MfhgUiQrDm78jVi1CpJ3TeLLC89kdYs-MYyHV2sMP09ZkSiK4%0D%0A4qMfGsK80x3Zd0MS6_s3HKyJm1ojL-PiJ5E1ssFNKixI-DUM6z_XpA%0D%0A
+.imdb.com	False	/	False	3609701648	session-id	609-5589414-2557386
+.imdb.com	False	/	False	3609701648	session-id-time	1619901601

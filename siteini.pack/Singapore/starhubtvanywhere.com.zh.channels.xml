@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.53.15/0.01 -- Jan van Straaten" site="starhubtvanywhere.com">
+  <channels>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="801" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="805" xmltv_id="Phoenix Chinese Channel">Phoenix Chinese Channel</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="806" xmltv_id="Phoenix InfoNews Channel">Phoenix InfoNews Channel</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="807" xmltv_id="Shen Zhou News Channel">Shen Zhou News Channel</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="808" xmltv_id="TVBS NEWS">TVBS NEWS</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="809" xmltv_id="China Business Network TV">China Business Network TV</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="820" xmltv_id="ONE (English)">ONE (English)</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="821" xmltv_id="XING KONG">XING KONG</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="822" xmltv_id="STAR Chinese Channel">STAR Chinese Channel</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="823" xmltv_id="ONE">ONE</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="824" xmltv_id="ch M">ch M</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="825" xmltv_id="E City">E City</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="826" xmltv_id="E City (+2)">E City (+2)</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="827" xmltv_id="CTI Asia Channel">CTI Asia Channel</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="828" xmltv_id="TVBS ASIA">TVBS ASIA</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="829" xmltv_id="TVB 8">TVB 8</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="830" xmltv_id="Jiangsu Satellite Channel">Jiangsu Satellite Channel</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="832" xmltv_id="Dragon TV">Dragon TV</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="833" xmltv_id="Asia Travel">Asia Travel</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="836" xmltv_id="now Mango">now Mango</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="838" xmltv_id="TVBJ">TVBJ</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="845" xmltv_id="MTV China">MTV China</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="846" xmltv_id="KMTV">KMTV</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="847" xmltv_id="[V] Taiwan">[V] Taiwan</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="848" xmltv_id="[V] China">[V] China</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="851" xmltv_id="now Hairun">now Hairun</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="855" xmltv_id="VV Drama">VV Drama</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="856" xmltv_id="VV Drama (+3)">VV Drama (+3)</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="858" xmltv_id="TVB Classic">TVB Classic</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="859" xmltv_id="TVB Xing He">TVB Xing He</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="861" xmltv_id="now Baogu Movies">now Baogu Movies</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="866" xmltv_id="STAR Chinese Movies">STAR Chinese Movies</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="867" xmltv_id="STAR Chinese Movies Legend">STAR Chinese Movies Legend</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="868" xmltv_id="Celestial Movies">Celestial Movies</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="869" xmltv_id="Celestial Classic Movies">Celestial Classic Movies</channel>
+    <channel update="i" site="starhubtvanywhere.com.zh" site_id="876" xmltv_id="ONE HD">ONE HD</channel>
+  </channels>
+</site>

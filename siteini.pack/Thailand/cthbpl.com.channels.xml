@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="cthbpl.com">
+  <channels>
+  <!--documantaries-->
+    <channel update="i" site="cthbpl.com" site_id="47" xmltv_id="CI (CTH 157 SD)">CI (CTH 157 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="568" xmltv_id="DA VINCI LEARNING (CTH 159 SD)">DA VINCI LEARNING (CTH 159 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="48" xmltv_id="FYI (CTH 158 SD)">FYI (CTH 158 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1539" xmltv_id="NAT GEO MUSIC  (CTH 156 HD)">NAT GEO MUSIC  (CTH 156 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1537" xmltv_id="NAT GEO PEOPLE (CTH 155 HD)">NAT GEO PEOPLE (CTH 155 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="42" xmltv_id="NAT GEO WILD (CTH 154 SD / 10 HD)">NAT GEO WILD (CTH 154 SD / 10 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="8159" xmltv_id="NATIONAL GEOGRAPHIC CHANNEL HD (CTH 152 HD)">NATIONAL GEOGRAPHIC CHANNEL HD (CTH 152 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12341" xmltv_id="NATIONAL GEOGRAPHIC SD (CTH 151 SD)">NATIONAL GEOGRAPHIC SD (CTH 151 SD)</channel>
+	<!--education religion-->
+	<channel update="i" site="cthbpl.com" site_id="11742" xmltv_id="DHARMA TV (CTH 161 SD)">DHARMA TV (CTH 161 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11740" xmltv_id="SUKHOTHAI THAMMATHIRAT (CTH 160 SD)">SUKHOTHAI THAMMATHIRAT (CTH 160 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11744" xmltv_id="TV MUSLIM (CTH 163 SD)">TV MUSLIM (CTH 163 SD)</channel>
+	<!--Freetv news-->
+	<channel update="i" site="cthbpl.com" site_id="11758" xmltv_id="CHANNEL 3 (CTH 173 SD)">CHANNEL 3 (CTH 173 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12319" xmltv_id="CHANNEL 3 FAMILY (CTH 23 SD)">CHANNEL 3 FAMILY (CTH 23 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12317" xmltv_id="CHANNEL 3 HD (CTH 203 SD / 43 HD)">CHANNEL 3 HD (CTH 203 SD / 43 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12314" xmltv_id="CHANNEL 3 SD (CTH 38 SD)">CHANNEL 3 SD (CTH 38 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11756" xmltv_id="CHANNEL 7 (CTH 205 SD / 45 HD)">CHANNEL 7 (CTH 205 SD / 45 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11748" xmltv_id="MCOT (CTH 200 SD / 40 HD)">MCOT (CTH 200 SD / 40 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="15099" xmltv_id="MCOT 1 (CTH 174 SD)">MCOT 1 (CTH 174 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="15096" xmltv_id="MCOT WORLD (CTH 173 SD)">MCOT WORLD (CTH 173 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11752" xmltv_id="MONEY CHANNEL (CTH 172 SD)">MONEY CHANNEL (CTH 172 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12225" xmltv_id="NEW)TV (CTH 28 SD)">NEW)TV (CTH 28 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12305" xmltv_id="NEWS 1 (CTH 168 SD)">NEWS 1 (CTH 168 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12304" xmltv_id="PHA WAN MAI (CTH 167 SD)">PHA WAN MAI (CTH 167 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12302" xmltv_id="T NEWS (CTH 166 SD)">T NEWS (CTH 166 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12309" xmltv_id="T SPORT (CTH 74 SD)">T SPORT (CTH 74 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="402" xmltv_id="THAIRATH TV (CTH 202 SD / 42 HD)">THAIRATH TV (CTH 202 SD / 42 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12308" xmltv_id="TV 24 (169 SD)">TV 24 (169 SD)</channel>
+	<!--international-->
+	<channel update="i" site="cthbpl.com" site_id="11776" xmltv_id="ARIRANG (CTH 183 SD)">ARIRANG (CTH 183 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11773" xmltv_id="CCTV 4 (CTH 185 SD)">CCTV 4 (CTH 185 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11781" xmltv_id="CHANNEL NEWS ASIA (CTH 184 SD)">CHANNEL NEWS ASIA (CTH 184 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11778" xmltv_id="DW (CTH 192 SD)">DW (CTH 192 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11762" xmltv_id="EURO NEWS (CTH 191 SD)">EURO NEWS (CTH 191 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1555" xmltv_id="FOX NEWS (CTH 189 SD)">FOX NEWS (CTH 189 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11765" xmltv_id="FRANCE 24 (CTH 190 SD)">FRANCE 24 (CTH 190 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11770" xmltv_id="NHK WORLD TV (CTH 186 SD)">NHK WORLD TV (CTH 186 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1554" xmltv_id="SKY NEWS HD (CTH 188 HD)">SKY NEWS HD (CTH 188 HD)</channel>
+	<!--kids-->
+	<channel update="i" site="cthbpl.com" site_id="548" xmltv_id="ANIMAX (CTH 144 SD)">ANIMAX (CTH 144 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1524" xmltv_id="BABY TV (CTH 141 SD / 140 HD)">BABY TV (CTH 141 SD / 140 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11791" xmltv_id="BOOMERANG (CTH 145 SD)">BOOMERANG (CTH 145 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11789" xmltv_id="CARTOON CLUB (CTH 147 SD)">CARTOON CLUB (CTH 147 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11795" xmltv_id="GANG CARTOON (CTH 146 SD)">GANG CARTOON (CTH 146 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12258" xmltv_id="NICK JR (CTH 142 SD)">NICK JR (CTH 142 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="16859" xmltv_id="THE DREAMWORKS CHANNEL (CTH 139 HD)">THE DREAMWORKS CHANNEL (CTH 139 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="546" xmltv_id="TOONAMI (CTH 143 SD)">TOONAMI (CTH 143 SD)</channel>
+	<!--movies series-->
+	<channel update="i" site="cthbpl.com" site_id="454" xmltv_id="CELESTIAL CLASSIC MOVIES (CTH 88 SD)">CELESTIAL CLASSIC MOVIES (CTH 88 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="449" xmltv_id="CINEMA  (CTH 82 SD)">CINEMA  (CTH 82 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1153" xmltv_id="FOX ACTION MOVIES (CTH 81 SD / 80 HD)">FOX ACTION MOVIES (CTH 81 SD / 80 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="46" xmltv_id="FOX CRIME (CTH 3 SD / 102 HD)">FOX CRIME (CTH 3 SD / 102 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1156" xmltv_id="FOX FAMILY MOVIES (CTH 79 HD)">FOX FAMILY MOVIES (CTH 79 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="8341" xmltv_id="FOX MOVIES PREMIUM (CTH 78 HD)">FOX MOVIES PREMIUM (CTH 78 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1147" xmltv_id="FOX THAI (CTH 2 SD)">FOX THAI (CTH 2 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1149" xmltv_id="FX HD (CTH 103 SD / 101 HD)">FX HD (CTH 103 SD / 101 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11719" xmltv_id="GTH ONAIR (CTH 107 SD)">GTH ONAIR (CTH 107 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="448" xmltv_id="KIX (CTH 84 SD / 83 HD)">KIX (CTH 84 SD / 83 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11721" xmltv_id="M CHANNEL (CTH 89 SD)">M CHANNEL (CTH 89 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="459" xmltv_id="NOW DRAMA (CTH 97 SD)">NOW DRAMA (CTH 97 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="467" xmltv_id="SONY CHANNEL (CTH 98 SD)">SONY CHANNEL (CTH 98 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1469" xmltv_id="STAR CHINESE MOVIES (CTH 86 SD)">STAR CHINESE MOVIES (CTH 86 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12260" xmltv_id="STAR CHINESE MOVIES LEGEND (CTH 87 SD)">STAR CHINESE MOVIES LEGEND (CTH 87 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1467" xmltv_id="STAR WORLD (CTH 96 SD / 95 HD)">STAR WORLD (CTH 96 SD / 95 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="452" xmltv_id="THRILL (CTH 7 SD)">THRILL (CTH 7 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12256" xmltv_id="WARNER (CTH 106)">WARNER (CTH 106)</channel>
+    <channel update="i" site="cthbpl.com" site_id="9843" xmltv_id="ZEE NUNG (CTH 77 SD)">ZEE NUNG (CTH 77 SD)</channel>
+	<!--music-->
+	<channel update="i" site="cthbpl.com" site_id="11784" xmltv_id="40-50 CHANNEL (CTH 137 SD)">40-50 CHANNEL (CTH 137 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1545" xmltv_id="CHANNEL V THAILAND (CTH 127 SD)">CHANNEL V THAILAND (CTH 127 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1543" xmltv_id="VHD (CTH 129 SD / 126 HD)">VHD (CTH 129 SD / 126 HD)</channel>
+	<!--sports-->
+	<channel update="i" site="cthbpl.com" site_id="9856" xmltv_id="CTH WWE (CTH 69 HD)">CTH WWE (CTH 69 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="536" xmltv_id="FIGHT SPORTS (CTH 4 SD / 52 HD)">FIGHT SPORTS (CTH 4 SD / 52 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1158" xmltv_id="FOX SPORTS (CTH 54 SD / 47 HD)">FOX SPORTS (CTH 54 SD / 47 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1510" xmltv_id="FOX SPORTS 2 (CTH 48 SD)">FOX SPORTS 2 (CTH 48 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1515" xmltv_id="FOX SPORTS 3 (CTH 49 SD)">FOX SPORTS 3 (CTH 49 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1508" xmltv_id="FOX SPORTS NEWS  (CTH 73 SD)">FOX SPORTS NEWS  (CTH 73 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="9116" xmltv_id="GMM CLUB CHANNEL (CTH 66 SD)">GMM CLUB CHANNEL (CTH 66 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="9126" xmltv_id="GMM FOOTBALL EURO  (CTH 70 SD / 64 HD)">GMM FOOTBALL EURO  (CTH 70 SD / 64 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11725" xmltv_id="GMM FOOTBALL EXTRA (CTH 71 SD / 64 HD)">GMM FOOTBALL EXTRA (CTH 71 SD / 64 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="9118" xmltv_id="GMM FOOTBALL PLUS  (CTH 65 SD)">GMM FOOTBALL PLUS  (CTH 65 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11726" xmltv_id="GMM SPORT EXTREME (CTH 68 SD)">GMM SPORT EXTREME (CTH 68 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11727" xmltv_id="GMM SPORT PLUS (CTH 67 SD)">GMM SPORT PLUS (CTH 67 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="531" xmltv_id="SPORT SPIRITS (CTH 51 SD / 5 HD)">SPORT SPIRITS (CTH 51 SD / 5 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1563" xmltv_id="STADIUM 1 (CTH 211 SD / 56HD)">STADIUM 1 (CTH 211 SD / 56HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1565" xmltv_id="STADIUM 2 (CTH 212 SD / 57 HD)">STADIUM 2 (CTH 212 SD / 57 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1567" xmltv_id="STADIUM 3 (CTH 213 SD / 58 HD)">STADIUM 3 (CTH 213 SD / 58 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1568" xmltv_id="STADIUM 4 (CTH 214 SD / 59 HD)">STADIUM 4 (CTH 214 SD / 59 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1570" xmltv_id="STADIUM 5 (CTH 216 SD / 60 HD)">STADIUM 5 (CTH 216 SD / 60 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1571" xmltv_id="STADIUM 6 (CTH 216 SD / 61 HD)">STADIUM 6 (CTH 216 SD / 61 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11734" xmltv_id="STADIUM X (CTH 217 SD / 62 HD)">STADIUM X (CTH 217 SD / 62 HD)</channel>
+	<!--digital-->
+	<channel update="i" site="cthbpl.com" site_id="11816" xmltv_id="AMARIN TV (CTH 204 SD / 44 HD)">AMARIN TV (CTH 204 SD / 44 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12319" xmltv_id="CHANNEL 3 FAMILY (CTH 23 SD)">CHANNEL 3 FAMILY (CTH 23 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12317" xmltv_id="CHANNEL 3 HD (CTH 203 SD / 43 HD)">CHANNEL 3 HD (CTH 203 SD / 43 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12314" xmltv_id="CHANNEL 3 SD (CTH 38 SD)">CHANNEL 3 SD (CTH 38 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12225" xmltv_id="NEW)TV (CTH 28 SD)">NEW)TV (CTH 28 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="9130" xmltv_id="ONE HD (CTH 201 SD / 41 HD)">ONE HD (CTH 201 SD / 41 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="402" xmltv_id="THAIRATH TV (CTH 202 SD / 42 HD)">THAIRATH TV (CTH 202 SD / 42 HD)</channel>
+	<!--variety lifestyle-->
+	<channel update="i" site="cthbpl.com" site_id="11816" xmltv_id="AMARIN TV (CTH 204 SD / 44 HD)">AMARIN TV (CTH 204 SD / 44 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="12366" xmltv_id="BANG CHANNEL (CTH 123 SD)">BANG CHANNEL (CTH 123 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="1541" xmltv_id="CHANNEL M (CTH 128 SD / 125 HD)">CHANNEL M (CTH 128 SD / 125 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="9114" xmltv_id="CTH FAMILY GUIDE (CTH 1 SD)">CTH FAMILY GUIDE (CTH 1 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11799" xmltv_id="FAN TV (CTH 134 SD)">FAN TV (CTH 134 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="8920" xmltv_id="FOOD NETWORK ASIA (CTH 116 HD)">FOOD NETWORK ASIA (CTH 116 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="496" xmltv_id="NOW JELLI (CTH 116 SD)">NOW JELLI (CTH 116 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="498" xmltv_id="NOW LIFESTYLE ENTERTAINMENT (CTH 113 SD / 114 HD)">NOW LIFESTYLE ENTERTAINMENT (CTH 113 SD / 114 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="9130" xmltv_id="ONE HD (CTH 201 SD / 41 HD)">ONE HD (CTH 201 SD / 41 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11805" xmltv_id="PPTV HD (CTH 206 SD / 6 HD)">PPTV HD (CTH 206 SD / 6 HD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="494" xmltv_id="SMILE (CTH 8 SD)">SMILE (CTH 8 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11820" xmltv_id="SUPER บันเทิง (CTH 121 SD)">SUPER บันเทิง (CTH 121 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11818" xmltv_id="TGN (CTH 171 SD)">TGN (CTH 171 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11807" xmltv_id="THAI VISION (CTH 170 SD)">THAI VISION (CTH 170 SD)</channel>
+    <channel update="i" site="cthbpl.com" site_id="11803" xmltv_id="ลูกทุ่งซีทีเอช (CTH 131 SD / 130 HD)">ลูกทุ่งซีทีเอช (CTH 131 SD / 130 HD)</channel>
+  </channels>
+</site>

@@ -1,0 +1,159 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<site generator-info-name="WebGrab+Plus version 1.0.5 Beta -- Jan van Straaten" site="tvguide.dk">
+  <channels>
+    <channel update="i" site="tvguide.dk" site_id="DR1" xmltv_id="DR1">DR1</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV3" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvguide.dk" site_id="6%27eren" xmltv_id="6'eren">6'eren</channel>
+    <channel update="i" site="tvguide.dk" site_id="DR2" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="tvguide.dk" site_id="DRHD" xmltv_id="DRHD">DRHD</channel>
+    <channel update="i" site="tvguide.dk" site_id="DRK" xmltv_id="DRK">DRK</channel>
+    <channel update="i" site="tvguide.dk" site_id="DRRAMA" xmltv_id="DRRAMA">DRRAMA</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Zulu" xmltv_id="TV2 Zulu">TV2 Zulu</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV3plus" xmltv_id="TV3+">TV3+</channel>
+    <channel update="i" site="tvguide.dk" site_id="Kanal+5" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV3+Puls" xmltv_id="TV3 Puls">TV3 Puls</channel>
+    <channel update="i" site="tvguide.dk" site_id="Kanal+4" xmltv_id="Kanal 4">Kanal 4</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Charlie" xmltv_id="TV2 Charlie">TV2 Charlie</channel>
+    <channel update="i" site="tvguide.dk" site_id="DK4" xmltv_id="DK4">DK4</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal9" xmltv_id="Canal9">Canal9</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+First" xmltv_id="Canal Plus First">Canal Plus First</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Comedy" xmltv_id="Canal Plus Comedy">Canal Plus Comedy</channel>
+    <channel update="i" site="tvguide.dk" site_id="Hallmark" xmltv_id="Hallmark">Hallmark</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Film+HD" xmltv_id="Canal Plus Film HD">Canal Plus Film HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Drama" xmltv_id="Canal Plus Drama">Canal Plus Drama</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Action" xmltv_id="Canal Plus Action">Canal Plus Action</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Classic" xmltv_id="TV1000 Classic">TV1000 Classic</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Family" xmltv_id="TV1000 Family">TV1000 Family</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Action" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Nordic" xmltv_id="TV1000 Nordic">TV1000 Nordic</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Hits" xmltv_id="Canal Plus Hits">Canal Plus Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+HD" xmltv_id="TV1000 HD">TV1000 HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Film" xmltv_id="TV2 Film">TV2 Film</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+2" xmltv_id="Canal Plus Sport 2">Canal Plus Sport 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+HD" xmltv_id="Canal Plus Sport HD">Canal Plus Sport HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+1" xmltv_id="Canal Plus Sport 1">Canal Plus Sport 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="Eurosport+2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="Viasat+Golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+Extra" xmltv_id="Canal Plus Sport Extra">Canal Plus Sport Extra</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Sport+HD" xmltv_id="TV2 Sport HD">TV2 Sport HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Sport" xmltv_id="TV2 Sport">TV2 Sport</channel>
+    <channel update="i" site="tvguide.dk" site_id="Eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="tvguide.dk" site_id="Animal+Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvguide.dk" site_id="National+Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tvguide.dk" site_id="Viasat+Explorer" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="tvguide.dk" site_id="Viasat+Nature%26%2347%3BCrime" xmltv_id="Viasat Nature/Crime">Viasat Nature/Crime</channel>
+    <channel update="i" site="tvguide.dk" site_id="Viasat+History" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tvguide.dk" site_id="Discovery+Civilisation" xmltv_id="Discovery Civilisation">Discovery Civilisation</channel>
+    <channel update="i" site="tvguide.dk" site_id="Discovery+Science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvguide.dk" site_id="Discovery+Travel" xmltv_id="Discovery Travel">Discovery Travel</channel>
+    <channel update="i" site="tvguide.dk" site_id="Discovery+Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvguide.dk" site_id="Disney" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="tvguide.dk" site_id="Cartoon+Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tvguide.dk" site_id="MTV+HD" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+News" xmltv_id="TV2 News">TV2 News</channel>
+    <channel update="i" site="tvguide.dk" site_id="0" xmltv_id="Udenlandsk TV">Udenlandsk TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="BBC+World" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tvguide.dk" site_id="BBC+Entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="tvguide.dk" site_id="BBC+Lifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="tvguide.dk" site_id="BBC+HD" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4SPORTSE" xmltv_id="TV4SPORTSE">TV4SPORTSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4GULDSE" xmltv_id="TV4GULDSE">TV4GULDSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4KOMEDISE" xmltv_id="TV4KOMEDISE">TV4KOMEDISE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4SCIFICTIONSE" xmltv_id="TV4SCIFICTIONSE">TV4SCIFICTIONSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="ansse" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvguide.dk" site_id="ansdhse" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="dscse" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="tvguide.dk" site_id="dschdse" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="discovery_worldse" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="tvguide.dk" site_id="discovery_sciencese" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvguide.dk" site_id="discovery_travelse" xmltv_id="Discovery Travel &amp;living">Discovery Travel &amp;living</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV3SE" xmltv_id="TV3SE">TV3SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV6SE" xmltv_id="TV6SE">TV6SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV8SE" xmltv_id="TV8SE">TV8SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="ZTVSE" xmltv_id="ZTVSE">ZTVSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATSPORTSE" xmltv_id="VIASATSPORTSE">VIASATSPORTSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATSPORTHDSE" xmltv_id="VIASATSPORTHDSE">VIASATSPORTHDSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATFOTBOLLSE" xmltv_id="VIASATFOTBOLLSE">VIASATFOTBOLLSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATHOCKEYSE" xmltv_id="VIASATHOCKEYSE">VIASATHOCKEYSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATGOLFSE" xmltv_id="VIASATGOLFSE">VIASATGOLFSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATMOTORSE" xmltv_id="VIASATMOTORSE">VIASATMOTORSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000SE" xmltv_id="TV1000SE">TV1000SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000ACTIONSE" xmltv_id="TV1000ACTIONSE">TV1000ACTIONSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000CLASSICSE" xmltv_id="TV1000CLASSICSE">TV1000CLASSICSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000DRAMASE" xmltv_id="TV1000DRAMASE">TV1000DRAMASE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000FAMILYSE" xmltv_id="TV1000FAMILYSE">TV1000FAMILYSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000HDSE" xmltv_id="TV1000HDSE">TV1000HDSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000NORDICSE" xmltv_id="TV1000NORDICSE">TV1000NORDICSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATEXPLORERSE" xmltv_id="VIASATEXPLORERSE">VIASATEXPLORERSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATHISTORYSE" xmltv_id="VIASATHISTORYSE">VIASATHISTORYSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="VIASATNATURECRIMESE" xmltv_id="VIASATNATURECRIMESE">VIASATNATURECRIMESE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSFIRSTSE" xmltv_id="CANALPLUSFIRSTSE">CANALPLUSFIRSTSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSHITSSE" xmltv_id="CANALPLUSHITSSE">CANALPLUSHITSSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSACTIONSE" xmltv_id="CANALPLUSACTIONSE">CANALPLUSACTIONSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSDRAMASE" xmltv_id="CANALPLUSDRAMASE">CANALPLUSDRAMASE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSCOMMEDYSE" xmltv_id="CANALPLUSCOMMEDYSE">CANALPLUSCOMMEDYSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSSPORT1SE" xmltv_id="CANALPLUSSPORT1SE">CANALPLUSSPORT1SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSSPORT2SE" xmltv_id="CANALPLUSSPORT2SE">CANALPLUSSPORT2SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSSPORTEXSE" xmltv_id="CANALPLUSSPORTEXSE">CANALPLUSSPORTEXSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSFILMHDSE" xmltv_id="CANALPLUSFILMHDSE">CANALPLUSFILMHDSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSSPORTHDSE" xmltv_id="CANALPLUSSPORTHDSE">CANALPLUSSPORTHDSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="CANALPLUSSPORTHWESE" xmltv_id="CANALPLUSSPORTHWESE">CANALPLUSSPORTHWESE</channel>
+    <channel update="i" site="tvguide.dk" site_id="EUROSPORTSE" xmltv_id="EUROSPORTSE">EUROSPORTSE</channel>
+    <channel update="i" site="tvguide.dk" site_id="EUROSPORT2SE" xmltv_id="EUROSPORT2SE">EUROSPORT2SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4+Fakta" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV400" xmltv_id="TV400">TV400</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4+Film" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4+Plus" xmltv_id="TV4 Plus">TV4 Plus</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV4" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="tvguide.dk" site_id="SVT1" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="tvguide.dk" site_id="SVT2" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="tvguide.dk" site_id="SVTHD" xmltv_id="SVTHD">SVTHD</channel>
+    <channel update="i" site="tvguide.dk" site_id="SVTWORLD" xmltv_id="SVTWORLD">SVTWORLD</channel>
+    <channel update="i" site="tvguide.dk" site_id="SVT+Barnkanalen" xmltv_id="SVT Barnkanalen">SVT Barnkanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="SVT24" xmltv_id="SVT24">SVT24</channel>
+    <channel update="i" site="tvguide.dk" site_id="Kanal+5+Sverige" xmltv_id="Kanal 5 Sverige">Kanal 5 Sverige</channel>
+    <channel update="i" site="tvguide.dk" site_id="KANAL9SE" xmltv_id="KANAL9SE">KANAL9SE</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Norge" xmltv_id="TV2 Norge">TV2 Norge</channel>
+    <channel update="i" site="tvguide.dk" site_id="NRK1" xmltv_id="NRK1">NRK1</channel>
+    <channel update="i" site="tvguide.dk" site_id="NRK2" xmltv_id="NRK2">NRK2</channel>
+    <channel update="i" site="tvguide.dk" site_id="NRK3" xmltv_id="NRK3">NRK3</channel>
+    <channel update="i" site="tvguide.dk" site_id="NRK+Super+TV" xmltv_id="NRK Super TV">NRK Super TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Norge+Nyhetskanalen" xmltv_id="TV2 Norge Nyhetskanalen">TV2 Norge Nyhetskanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Norge+Zebra" xmltv_id="TV2 Norge Zebra">TV2 Norge Zebra</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Norge+Filmkanalen" xmltv_id="TV2 Norge Filmkanalen">TV2 Norge Filmkanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Norge+Sport" xmltv_id="TV2 Norge Sport">TV2 Norge Sport</channel>
+    <channel update="i" site="tvguide.dk" site_id="Sat+1" xmltv_id="Sat 1">Sat 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="Pro+Sieben" xmltv_id="Pro Sieben">Pro Sieben</channel>
+    <channel update="i" site="tvguide.dk" site_id="RTL" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tvguide.dk" site_id="ARD+1" xmltv_id="ARD 1">ARD 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tvguide.dk" site_id="0" xmltv_id="Film kanaler">Film kanaler</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+First" xmltv_id="Canal Plus First">Canal Plus First</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Comedy" xmltv_id="Canal Plus Comedy">Canal Plus Comedy</channel>
+    <channel update="i" site="tvguide.dk" site_id="Hallmark" xmltv_id="Hallmark">Hallmark</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Film+HD" xmltv_id="Canal Plus Film HD">Canal Plus Film HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Drama" xmltv_id="Canal Plus Drama">Canal Plus Drama</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Action" xmltv_id="Canal Plus Action">Canal Plus Action</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Classic" xmltv_id="TV1000 Classic">TV1000 Classic</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Family" xmltv_id="TV1000 Family">TV1000 Family</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Action" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+Nordic" xmltv_id="TV1000 Nordic">TV1000 Nordic</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Hits" xmltv_id="Canal Plus Hits">Canal Plus Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV1000+HD" xmltv_id="TV1000 HD">TV1000 HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Film" xmltv_id="TV2 Film">TV2 Film</channel>
+    <channel update="i" site="tvguide.dk" site_id="0" xmltv_id="Sports kanaler">Sports kanaler</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+2" xmltv_id="Canal Plus Sport 2">Canal Plus Sport 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+HD" xmltv_id="Canal Plus Sport HD">Canal Plus Sport HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+1" xmltv_id="Canal Plus Sport 1">Canal Plus Sport 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="Eurosport+2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="Viasat+Golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="Canal+Plus+Sport+Extra" xmltv_id="Canal Plus Sport Extra">Canal Plus Sport Extra</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Sport+HD" xmltv_id="TV2 Sport HD">TV2 Sport HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="TV2+Sport" xmltv_id="TV2 Sport">TV2 Sport</channel>
+    <channel update="i" site="tvguide.dk" site_id="Eurosport" xmltv_id="Eurosport">Eurosport</channel>
+  </channels>
+</site>

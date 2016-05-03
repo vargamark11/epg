@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/47 -- Jan van Straaten" site="tv.ua">
+  <channels>
+    <channel update="i" site="tv.ua" site_id="2" xmltv_id="1 + 1">1 + 1</channel>
+    <channel update="i" site="tv.ua" site_id="188" xmltv_id="1+1 international">1+1 international</channel>
+    <channel update="i" site="tv.ua" site_id="2175" xmltv_id="11 канал">11 канал</channel>
+    <channel update="i" site="tv.ua" site_id="6" xmltv_id="2+2">2+2</channel>
+    <channel update="i" site="tv.ua" site_id="2111" xmltv_id="24 Doc">24 Doc</channel>
+    <channel update="i" site="tv.ua" site_id="2112" xmltv_id="24 телеканал новин">24 телеканал новин</channel>
+    <channel update="i" site="tv.ua" site_id="10043" xmltv_id="2T">2T</channel>
+    <channel update="i" site="tv.ua" site_id="2173" xmltv_id="34 Канал">34 Канал</channel>
+    <channel update="i" site="tv.ua" site_id="2113" xmltv_id="365 Дней">365 Дней</channel>
+    <channel update="i" site="tv.ua" site_id="13" xmltv_id="5 КАНАЛ">5 КАНАЛ</channel>
+    <channel update="i" site="tv.ua" site_id="2174" xmltv_id="51 канал">51 канал</channel>
+    <channel update="i" site="tv.ua" site_id="2114" xmltv_id="7 ТВ">7 ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="130" xmltv_id="7 ТВ_(2)">7 ТВ_(2)</channel>
+    <channel update="i" site="tv.ua" site_id="2176" xmltv_id="9 канал">9 канал</channel>
+    <channel update="i" site="tv.ua" site_id="108" xmltv_id="AJARA TV">AJARA TV</channel>
+    <channel update="i" site="tv.ua" site_id="707" xmltv_id="AlJazeera">AlJazeera</channel>
+    <channel update="i" site="tv.ua" site_id="144" xmltv_id="AMEDIA">AMEDIA</channel>
+    <channel update="i" site="tv.ua" site_id="10031" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tv.ua" site_id="1336" xmltv_id="Animal Planet Украина">Animal Planet Украина</channel>
+    <channel update="i" site="tv.ua" site_id="10017" xmltv_id="A-One">A-One</channel>
+    <channel update="i" site="tv.ua" site_id="2115" xmltv_id="ATR">ATR</channel>
+    <channel update="i" site="tv.ua" site_id="173" xmltv_id="AXN SciFi">AXN SciFi</channel>
+    <channel update="i" site="tv.ua" site_id="10006" xmltv_id="BBC PRIME">BBC PRIME</channel>
+    <channel update="i" site="tv.ua" site_id="10004" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
+    <channel update="i" site="tv.ua" site_id="10015" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
+    <channel update="i" site="tv.ua" site_id="136" xmltv_id="BRIDGE TV">BRIDGE TV</channel>
+    <channel update="i" site="tv.ua" site_id="682" xmltv_id="Cartoon+TCM">Cartoon+TCM</channel>
+    <channel update="i" site="tv.ua" site_id="10003" xmltv_id="CNL">CNL</channel>
+    <channel update="i" site="tv.ua" site_id="690" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tv.ua" site_id="94" xmltv_id="CTC">CTC</channel>
+    <channel update="i" site="tv.ua" site_id="1337" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="tv.ua" site_id="21" xmltv_id="DISCOVERY">DISCOVERY</channel>
+    <channel update="i" site="tv.ua" site_id="2128" xmltv_id="Discovery Russia">Discovery Russia</channel>
+    <channel update="i" site="tv.ua" site_id="10008" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel update="i" site="tv.ua" site_id="1239" xmltv_id="Discovery Travel and Living">Discovery Travel and Living</channel>
+    <channel update="i" site="tv.ua" site_id="10007" xmltv_id="DISCOVERY WORLD">DISCOVERY WORLD</channel>
+    <channel update="i" site="tv.ua" site_id="199" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="tv.ua" site_id="200" xmltv_id="Diva Universal">Diva Universal</channel>
+    <channel update="i" site="tv.ua" site_id="10014" xmltv_id="DRIVE">DRIVE</channel>
+    <channel update="i" site="tv.ua" site_id="2166" xmltv_id="DSF">DSF</channel>
+    <channel update="i" site="tv.ua" site_id="706" xmltv_id="DW-TV">DW-TV</channel>
+    <channel update="i" site="tv.ua" site_id="1226" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="tv.ua" site_id="48" xmltv_id="ENTER-ФИЛЬМ">ENTER-ФИЛЬМ</channel>
+    <channel update="i" site="tv.ua" site_id="2179" xmltv_id="EnTV(Энергодар)">EnTV(Энергодар)</channel>
+    <channel update="i" site="tv.ua" site_id="10032" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel update="i" site="tv.ua" site_id="10030" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel update="i" site="tv.ua" site_id="24" xmltv_id="EUROSPORT">EUROSPORT</channel>
+    <channel update="i" site="tv.ua" site_id="10034" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel update="i" site="tv.ua" site_id="10035" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="tv.ua" site_id="714" xmltv_id="f men">f men</channel>
+    <channel update="i" site="tv.ua" site_id="713" xmltv_id="FASHION TV EUROPE">FASHION TV EUROPE</channel>
+    <channel update="i" site="tv.ua" site_id="678" xmltv_id="Fine Living Network">Fine Living Network</channel>
+    <channel update="i" site="tv.ua" site_id="10027" xmltv_id="FOOT SCHOOL TV">FOOT SCHOOL TV</channel>
+    <channel update="i" site="tv.ua" site_id="178" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="tv.ua" site_id="179" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="tv.ua" site_id="667" xmltv_id="France 24 EN">France 24 EN</channel>
+    <channel update="i" site="tv.ua" site_id="686" xmltv_id="FRANCE 24 FR">FRANCE 24 FR</channel>
+    <channel update="i" site="tv.ua" site_id="1900" xmltv_id="Gamma">Gamma</channel>
+    <channel update="i" site="tv.ua" site_id="9" xmltv_id="ICTV">ICTV</channel>
+    <channel update="i" site="tv.ua" site_id="1338" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="tv.ua" site_id="27" xmltv_id="JETIX">JETIX</channel>
+    <channel update="i" site="tv.ua" site_id="11" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="tv.ua" site_id="10045" xmltv_id="KidsCo">KidsCo</channel>
+    <channel update="i" site="tv.ua" site_id="10041" xmltv_id="Kiko">Kiko</channel>
+    <channel update="i" site="tv.ua" site_id="687" xmltv_id="M1">M1</channel>
+    <channel update="i" site="tv.ua" site_id="10011" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="tv.ua" site_id="161" xmltv_id="MGM">MGM</channel>
+    <channel update="i" site="tv.ua" site_id="10033" xmltv_id="MOTORS TV">MOTORS TV</channel>
+    <channel update="i" site="tv.ua" site_id="2116" xmltv_id="MTV Rus">MTV Rus</channel>
+    <channel update="i" site="tv.ua" site_id="688" xmltv_id="MTV Украина">MTV Украина</channel>
+    <channel update="i" site="tv.ua" site_id="10026" xmltv_id="MUSIC BOX UA">MUSIC BOX UA</channel>
+    <channel update="i" site="tv.ua" site_id="10046" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tv.ua" site_id="10005" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="tv.ua" site_id="1119" xmltv_id="NewsOne">NewsOne</channel>
+    <channel update="i" site="tv.ua" site_id="114" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="tv.ua" site_id="2117" xmltv_id="O2tv">O2tv</channel>
+    <channel update="i" site="tv.ua" site_id="10047" xmltv_id="OK">OK</channel>
+    <channel update="i" site="tv.ua" site_id="683" xmltv_id="O-TV">O-TV</channel>
+    <channel update="i" site="tv.ua" site_id="2165" xmltv_id="Polonia">Polonia</channel>
+    <channel update="i" site="tv.ua" site_id="2164" xmltv_id="Polsat">Polsat</channel>
+    <channel update="i" site="tv.ua" site_id="2118" xmltv_id="PRO ВСЕ">PRO ВСЕ</channel>
+    <channel update="i" site="tv.ua" site_id="10044" xmltv_id="QTV">QTV</channel>
+    <channel update="i" site="tv.ua" site_id="2119" xmltv_id="R1">R1</channel>
+    <channel update="i" site="tv.ua" site_id="1115" xmltv_id="Real Estate TV">Real Estate TV</channel>
+    <channel update="i" site="tv.ua" site_id="120" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="tv.ua" site_id="139" xmltv_id="RU TV">RU TV</channel>
+    <channel update="i" site="tv.ua" site_id="1222" xmltv_id="Russian Travel Guide TV">Russian Travel Guide TV</channel>
+    <channel update="i" site="tv.ua" site_id="138" xmltv_id="SARAFAN">SARAFAN</channel>
+    <channel update="i" site="tv.ua" site_id="194" xmltv_id="Sony entertainment">Sony entertainment</channel>
+    <channel update="i" site="tv.ua" site_id="10040" xmltv_id="Svit">Svit</channel>
+    <channel update="i" site="tv.ua" site_id="192" xmltv_id="Syfy Universal">Syfy Universal</channel>
+    <channel update="i" site="tv.ua" site_id="174" xmltv_id="TBi">TBi</channel>
+    <channel update="i" site="tv.ua" site_id="1118" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="tv.ua" site_id="111" xmltv_id="TCM_(2)">TCM_(2)</channel>
+    <channel update="i" site="tv.ua" site_id="2120" xmltv_id="Teen TV">Teen TV</channel>
+    <channel update="i" site="tv.ua" site_id="666" xmltv_id="Tehno 24">Tehno 24</channel>
+    <channel update="i" site="tv.ua" site_id="708" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="tv.ua" site_id="2121" xmltv_id="TLC (Discovery)">TLC (Discovery)</channel>
+    <channel update="i" site="tv.ua" site_id="10010" xmltv_id="travel channel">travel channel</channel>
+    <channel update="i" site="tv.ua" site_id="10002" xmltv_id="TV 5">TV 5</channel>
+    <channel update="i" site="tv.ua" site_id="45" xmltv_id="TV XXI">TV XXI</channel>
+    <channel update="i" site="tv.ua" site_id="135" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="tv.ua" site_id="196" xmltv_id="TV1000 Action_(2)">TV1000 Action_(2)</channel>
+    <channel update="i" site="tv.ua" site_id="158" xmltv_id="TV1000 Rus">TV1000 Rus</channel>
+    <channel update="i" site="tv.ua" site_id="127" xmltv_id="TVCi (ТВЦ МЕЖДУНАРОДНЫЙ)">TVCi (ТВЦ МЕЖДУНАРОДНЫЙ)</channel>
+    <channel update="i" site="tv.ua" site_id="2167" xmltv_id="TVP1">TVP1</channel>
+    <channel update="i" site="tv.ua" site_id="2168" xmltv_id="TVP2">TVP2</channel>
+    <channel update="i" site="tv.ua" site_id="703" xmltv_id="UBC">UBC</channel>
+    <channel update="i" site="tv.ua" site_id="1444" xmltv_id="Ukrainian Fashion Channel">Ukrainian Fashion Channel</channel>
+    <channel update="i" site="tv.ua" site_id="191" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="tv.ua" site_id="681" xmltv_id="VH1 EUROPE">VH1 EUROPE</channel>
+    <channel update="i" site="tv.ua" site_id="128" xmltv_id="VIASAT EXPLORER">VIASAT EXPLORER</channel>
+    <channel update="i" site="tv.ua" site_id="129" xmltv_id="VIASAT HISTORY">VIASAT HISTORY</channel>
+    <channel update="i" site="tv.ua" site_id="201" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tv.ua" site_id="1116" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel update="i" site="tv.ua" site_id="10024" xmltv_id="WEDDING TV">WEDDING TV</channel>
+    <channel update="i" site="tv.ua" site_id="1335" xmltv_id="World Fashion Channel">World Fashion Channel</channel>
+    <channel update="i" site="tv.ua" site_id="10021" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="tv.ua" site_id="2123" xmltv_id="ZIK">ZIK</channel>
+    <channel update="i" site="tv.ua" site_id="679" xmltv_id="ZONE REALITY">ZONE REALITY</channel>
+    <channel update="i" site="tv.ua" site_id="110" xmltv_id="Zone Romantica">Zone Romantica</channel>
+    <channel update="i" site="tv.ua" site_id="1334" xmltv_id="Zooпарк">Zooпарк</channel>
+    <channel update="i" site="tv.ua" site_id="1231" xmltv_id="Авто+">Авто+</channel>
+    <channel update="i" site="tv.ua" site_id="2126" xmltv_id="Бабай ТБ">Бабай ТБ</channel>
+    <channel update="i" site="tv.ua" site_id="2162" xmltv_id="Беларусь-РТР">Беларусь-РТР</channel>
+    <channel update="i" site="tv.ua" site_id="2160" xmltv_id="Бел-ТВ">Бел-ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="1230" xmltv_id="Боец ТВ">Боец ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="2155" xmltv_id="БТ">БТ</channel>
+    <channel update="i" site="tv.ua" site_id="2177" xmltv_id="Буг-тв">Буг-тв</channel>
+    <channel update="i" site="tv.ua" site_id="2124" xmltv_id="Бульвар ТВ">Бульвар ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="1240" xmltv_id="Вести">Вести</channel>
+    <channel update="i" site="tv.ua" site_id="2125" xmltv_id="Время">Время</channel>
+    <channel update="i" site="tv.ua" site_id="10028" xmltv_id="ГЛАС">ГЛАС</channel>
+    <channel update="i" site="tv.ua" site_id="2122" xmltv_id="ГТРК Крым">ГТРК Крым</channel>
+    <channel update="i" site="tv.ua" site_id="2127" xmltv_id="ГТРК Севастополь">ГТРК Севастополь</channel>
+    <channel update="i" site="tv.ua" site_id="10039" xmltv_id="Гумор ТБ">Гумор ТБ</channel>
+    <channel update="i" site="tv.ua" site_id="10009" xmltv_id="Дамский клуб (ТДК)">Дамский клуб (ТДК)</channel>
+    <channel update="i" site="tv.ua" site_id="680" xmltv_id="Детский">Детский</channel>
+    <channel update="i" site="tv.ua" site_id="195" xmltv_id="Детский_(2)">Детский_(2)</channel>
+    <channel update="i" site="tv.ua" site_id="153" xmltv_id="Детский Мир">Детский Мир</channel>
+    <channel update="i" site="tv.ua" site_id="175" xmltv_id="Дом Кино">Дом Кино</channel>
+    <channel update="i" site="tv.ua" site_id="1232" xmltv_id="Еврокино">Еврокино</channel>
+    <channel update="i" site="tv.ua" site_id="2129" xmltv_id="Живи">Живи</channel>
+    <channel update="i" site="tv.ua" site_id="2130" xmltv_id="Жиса (Крым)">Жиса (Крым)</channel>
+    <channel update="i" site="tv.ua" site_id="2172" xmltv_id="Запорожье">Запорожье</channel>
+    <channel update="i" site="tv.ua" site_id="10013" xmltv_id="ЗДОРОВОЕ ТЕЛЕВИДЕНИЕ">ЗДОРОВОЕ ТЕЛЕВИДЕНИЕ</channel>
+    <channel update="i" site="tv.ua" site_id="2132" xmltv_id="Знание">Знание</channel>
+    <channel update="i" site="tv.ua" site_id="2131" xmltv_id="Зоо ТВ">Зоо ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="2133" xmltv_id="Иллюзион+">Иллюзион+</channel>
+    <channel update="i" site="tv.ua" site_id="1229" xmltv_id="Индия ТВ">Индия ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="4" xmltv_id="ИНТЕР">ИНТЕР</channel>
+    <channel update="i" site="tv.ua" site_id="187" xmltv_id="ИНТЕР +">ИНТЕР +</channel>
+    <channel update="i" site="tv.ua" site_id="2134" xmltv_id="Интересное ТВ">Интересное ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="2189" xmltv_id="ИРТА">ИРТА</channel>
+    <channel update="i" site="tv.ua" site_id="2135" xmltv_id="ИТВ (Крым)">ИТВ (Крым)</channel>
+    <channel update="i" site="tv.ua" site_id="12" xmltv_id="К1">К1</channel>
+    <channel update="i" site="tv.ua" site_id="3" xmltv_id="К2">К2</channel>
+    <channel update="i" site="tv.ua" site_id="2137" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="tv.ua" site_id="10" xmltv_id="КИЕВ">КИЕВ</channel>
+    <channel update="i" site="tv.ua" site_id="2136" xmltv_id="Кино Плюс (НТВ-Плюс)">Кино Плюс (НТВ-Плюс)</channel>
+    <channel update="i" site="tv.ua" site_id="2138" xmltv_id="Киномания">Киномания</channel>
+    <channel update="i" site="tv.ua" site_id="2140" xmltv_id="Кинопоказ">Кинопоказ</channel>
+    <channel update="i" site="tv.ua" site_id="167" xmltv_id="КОМЕДИЯ-ТВ">КОМЕДИЯ-ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="116" xmltv_id="КРТ">КРТ</channel>
+    <channel update="i" site="tv.ua" site_id="44" xmltv_id="КУЛЬТУРА">КУЛЬТУРА</channel>
+    <channel update="i" site="tv.ua" site_id="2141" xmltv_id="Кухня ТВ">Кухня ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="1113" xmltv_id="КХЛ">КХЛ</channel>
+    <channel update="i" site="tv.ua" site_id="2158" xmltv_id="Лад">Лад</channel>
+    <channel update="i" site="tv.ua" site_id="2190" xmltv_id="ЛКТ">ЛКТ</channel>
+    <channel update="i" site="tv.ua" site_id="2191" xmltv_id="ЛКТ-premium">ЛКТ-premium</channel>
+    <channel update="i" site="tv.ua" site_id="2192" xmltv_id="ЛОТ">ЛОТ</channel>
+    <channel update="i" site="tv.ua" site_id="2142" xmltv_id="Малятко ТВ">Малятко ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="10025" xmltv_id="МАТЬ И ДИТЯ">МАТЬ И ДИТЯ</channel>
+    <channel update="i" site="tv.ua" site_id="190" xmltv_id="Маххі ТВ">Маххі ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="140" xmltv_id="МЕГА">МЕГА</channel>
+    <channel update="i" site="tv.ua" site_id="172" xmltv_id="МЕНЮ-ТВ">МЕНЮ-ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="170" xmltv_id="Мир">Мир</channel>
+    <channel update="i" site="tv.ua" site_id="168" xmltv_id="МНОГОТВ">МНОГОТВ</channel>
+    <channel update="i" site="tv.ua" site_id="1223" xmltv_id="Моя планета">Моя планета</channel>
+    <channel update="i" site="tv.ua" site_id="2188" xmltv_id="МТМ">МТМ</channel>
+    <channel update="i" site="tv.ua" site_id="2143" xmltv_id="Мультимания">Мультимания</channel>
+    <channel update="i" site="tv.ua" site_id="165" xmltv_id="НАШЕ КИНО (кабель)">НАШЕ КИНО (кабель)</channel>
+    <channel update="i" site="tv.ua" site_id="2144" xmltv_id="Наше Любимое Кино">Наше Любимое Кино</channel>
+    <channel update="i" site="tv.ua" site_id="2145" xmltv_id="Неаполь (Крым)">Неаполь (Крым)</channel>
+    <channel update="i" site="tv.ua" site_id="39" xmltv_id="НОВЫЙ КАНАЛ">НОВЫЙ КАНАЛ</channel>
+    <channel update="i" site="tv.ua" site_id="159" xmltv_id="НОСТАЛЬГИЯ">НОСТАЛЬГИЯ</channel>
+    <channel update="i" site="tv.ua" site_id="10012" xmltv_id="НСТ">НСТ</channel>
+    <channel update="i" site="tv.ua" site_id="685" xmltv_id="НСТВ">НСТВ</channel>
+    <channel update="i" site="tv.ua" site_id="2146" xmltv_id="НТА">НТА</channel>
+    <channel update="i" site="tv.ua" site_id="65" xmltv_id="НТВ">НТВ</channel>
+    <channel update="i" site="tv.ua" site_id="37" xmltv_id="НТВ+ ДЕТСКИЙ МИР">НТВ+ ДЕТСКИЙ МИР</channel>
+    <channel update="i" site="tv.ua" site_id="181" xmltv_id="НТВ+ КИНО СОЮЗ">НТВ+ КИНО СОЮЗ</channel>
+    <channel update="i" site="tv.ua" site_id="19" xmltv_id="НТВ+ КИНОКЛУБ">НТВ+ КИНОКЛУБ</channel>
+    <channel update="i" site="tv.ua" site_id="180" xmltv_id="НТВ+ КИНОХИТ">НТВ+ КИНОХИТ</channel>
+    <channel update="i" site="tv.ua" site_id="20" xmltv_id="НТВ+ НАШЕ КИНО">НТВ+ НАШЕ КИНО</channel>
+    <channel update="i" site="tv.ua" site_id="182" xmltv_id="НТВ+ НАШЕ НОВОЕ КИНО">НТВ+ НАШЕ НОВОЕ КИНО</channel>
+    <channel update="i" site="tv.ua" site_id="43" xmltv_id="НТВ+ ПРЕМЬЕРА">НТВ+ ПРЕМЬЕРА</channel>
+    <channel update="i" site="tv.ua" site_id="22" xmltv_id="НТВ+ СПОРТ">НТВ+ СПОРТ</channel>
+    <channel update="i" site="tv.ua" site_id="1225" xmltv_id="НТВ+ПЛЮС Наш Футбол">НТВ+ПЛЮС Наш Футбол</channel>
+    <channel update="i" site="tv.ua" site_id="2193" xmltv_id="НТВ-Беларусь">НТВ-Беларусь</channel>
+    <channel update="i" site="tv.ua" site_id="46" xmltv_id="НТВ-МИР">НТВ-МИР</channel>
+    <channel update="i" site="tv.ua" site_id="1227" xmltv_id="НТВ-ПЛЮС Баскетбол">НТВ-ПЛЮС Баскетбол</channel>
+    <channel update="i" site="tv.ua" site_id="1224" xmltv_id="НТВ-ПЛЮС Спорт Онлайн">НТВ-ПЛЮС Спорт Онлайн</channel>
+    <channel update="i" site="tv.ua" site_id="1228" xmltv_id="НТВ-ПЛЮС Теннис">НТВ-ПЛЮС Теннис</channel>
+    <channel update="i" site="tv.ua" site_id="122" xmltv_id="НТН">НТН</channel>
+    <channel update="i" site="tv.ua" site_id="2159" xmltv_id="ОНТ">ОНТ</channel>
+    <channel update="i" site="tv.ua" site_id="10036" xmltv_id="ОХОТА И РЫБАЛКА">ОХОТА И РЫБАЛКА</channel>
+    <channel update="i" site="tv.ua" site_id="2147" xmltv_id="Охотник и рыболов">Охотник и рыболов</channel>
+    <channel update="i" site="tv.ua" site_id="183" xmltv_id="Парк развлечений">Парк развлечений</channel>
+    <channel update="i" site="tv.ua" site_id="10038" xmltv_id="ПЕРВЫЙ АВТОМОБИЛЬНЫЙ">ПЕРВЫЙ АВТОМОБИЛЬНЫЙ</channel>
+    <channel update="i" site="tv.ua" site_id="10001" xmltv_id="ПЕРВЫЙ ДЕЛОВОЙ">ПЕРВЫЙ ДЕЛОВОЙ</channel>
+    <channel update="i" site="tv.ua" site_id="186" xmltv_id="Первый канал ВС Европа">Первый канал ВС Европа</channel>
+    <channel update="i" site="tv.ua" site_id="145" xmltv_id="ПЕРВЫЙ НАЦИОНАЛЬНЫЙ">ПЕРВЫЙ НАЦИОНАЛЬНЫЙ</channel>
+    <channel update="i" site="tv.ua" site_id="1" xmltv_id="ПЕРШИЙ">ПЕРШИЙ</channel>
+    <channel update="i" site="tv.ua" site_id="2148" xmltv_id="Петербург-5">Петербург-5</channel>
+    <channel update="i" site="tv.ua" site_id="157" xmltv_id="Пиксель-ТВ">Пиксель-ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="10042" xmltv_id="Планета">Планета</channel>
+    <channel update="i" site="tv.ua" site_id="164" xmltv_id="Планета -- Спорт Украина">Планета -- Спорт Украина</channel>
+    <channel update="i" site="tv.ua" site_id="104" xmltv_id="ПЛЮСПЛЮС">ПЛЮСПЛЮС</channel>
+    <channel update="i" site="tv.ua" site_id="701" xmltv_id="РАДА">РАДА</channel>
+    <channel update="i" site="tv.ua" site_id="700" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="tv.ua" site_id="26" xmltv_id="РЕН ТВ">РЕН ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="193" xmltv_id="Ретро">Ретро</channel>
+    <channel update="i" site="tv.ua" site_id="10016" xmltv_id="РЕТРО ТВ">РЕТРО ТВ</channel>
+    <channel update="i" site="tv.ua" site_id="2149" xmltv_id="Ровеньки">Ровеньки</channel>
+    <channel update="i" site="tv.ua" site_id="107" xmltv_id="РОМАНТИКА">РОМАНТИКА</channel>
+    <channel update="i" site="tv.ua" site_id="2150" xmltv_id="Россия /РТР">Россия /РТР</channel>
+    <channel update="i" site="tv.ua" site_id="1333" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="tv.ua" site_id="712" xmltv_id="РТР ПЛАНЕТА">РТР ПЛАНЕТА</channel>
+    <channel update="i" site="tv.ua" site_id="184" xmltv_id="РТР Планета Спутник">РТР Планета Спутник</channel>
+    <channel update="i" site="tv.ua" site_id="185" xmltv_id="РТР Спорт">РТР Спорт</channel>
+    <channel update="i" site="tv.ua" site_id="81" xmltv_id="РТР-Планета (кабель)">РТР-Планета (кабель)</channel>
+    <channel update="i" site="tv.ua" site_id="10018" xmltv_id="РУССКИЙ ЭКСТРИМ">РУССКИЙ ЭКСТРИМ</channel>
+    <channel update="i" site="tv.ua" site_id="10022" xmltv_id="СОВЕРШЕННО СЕКРЕТНО">СОВЕРШЕННО СЕКРЕТНО</channel>
+    <channel update="i" site="tv.ua" site_id="2151" xmltv_id="Спас">Спас</channel>
+    <channel update="i" site="tv.ua" site_id="166" xmltv_id="Спорт 1">Спорт 1</channel>
+    <channel update="i" site="tv.ua" site_id="10020" xmltv_id="СПОРТ-2">СПОРТ-2</channel>
+    <channel update="i" site="tv.ua" site_id="5" xmltv_id="СТБ">СТБ</channel>
+    <channel update="i" site="tv.ua" site_id="2161" xmltv_id="СТВ">СТВ</channel>
+    <channel update="i" site="tv.ua" site_id="162" xmltv_id="ТВ3 РОССИЯ">ТВ3 РОССИЯ</channel>
+    <channel update="i" site="tv.ua" site_id="2169" xmltv_id="ТВ-5">ТВ-5</channel>
+    <channel update="i" site="tv.ua" site_id="2170" xmltv_id="ТВ-5 Спорт">ТВ-5 Спорт</channel>
+    <channel update="i" site="tv.ua" site_id="35" xmltv_id="ТВ-ЦЕНТР">ТВ-ЦЕНТР</channel>
+    <channel update="i" site="tv.ua" site_id="109" xmltv_id="ТЕЛЕКЛУБ">ТЕЛЕКЛУБ</channel>
+    <channel update="i" site="tv.ua" site_id="10037" xmltv_id="ТЕЛЕНЯНЯ">ТЕЛЕНЯНЯ</channel>
+    <channel update="i" site="tv.ua" site_id="8" xmltv_id="ТЕТ">ТЕТ</channel>
+    <channel update="i" site="tv.ua" site_id="2152" xmltv_id="ТК Донбасс">ТК Донбасс</channel>
+    <channel update="i" site="tv.ua" site_id="41" xmltv_id="ТНТ">ТНТ</channel>
+    <channel update="i" site="tv.ua" site_id="7" xmltv_id="ТОНИС">ТОНИС</channel>
+    <channel update="i" site="tv.ua" site_id="9116" xmltv_id="ТРК &quot;Эра">ТРК "Эра</channel>
+    <channel update="i" site="tv.ua" site_id="2171" xmltv_id="ТРК Алекс">ТРК Алекс</channel>
+    <channel update="i" site="tv.ua" site_id="197" xmltv_id="ТРК Футбол">ТРК Футбол</channel>
+    <channel update="i" site="tv.ua" site_id="93" xmltv_id="УКРАИНА">УКРАИНА</channel>
+    <channel update="i" site="tv.ua" site_id="10019" xmltv_id="УСАДЬБА">УСАДЬБА</channel>
+    <channel update="i" site="tv.ua" site_id="2153" xmltv_id="УТР">УТР</channel>
+    <channel update="i" site="tv.ua" site_id="684" xmltv_id="ФЕНИКС-АРТ">ФЕНИКС-АРТ</channel>
+    <channel update="i" site="tv.ua" site_id="1114" xmltv_id="Футбол+">Футбол+</channel>
+    <channel update="i" site="tv.ua" site_id="11114" xmltv_id="ХОККЕЙ">ХОККЕЙ</channel>
+    <channel update="i" site="tv.ua" site_id="2178" xmltv_id="Чернигов">Чернигов</channel>
+    <channel update="i" site="tv.ua" site_id="2154" xmltv_id="Черноморка (Крым)">Черноморка (Крым)</channel>
+    <channel update="i" site="tv.ua" site_id="10029" xmltv_id="ШКОЛЬНИК ТВ">ШКОЛЬНИК ТВ</channel>
+  </channels>
+</site>

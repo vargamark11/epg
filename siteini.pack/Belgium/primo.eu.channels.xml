@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/32 -- Jan van Straaten" site="primo.eu">
+  <channels>
+    <channel update="i" site="primo.eu" site_id="één" xmltv_id="één">één</channel>
+    <channel update="i" site="primo.eu" site_id="Ketnet" xmltv_id="Ketnet">Ketnet</channel>
+    <channel update="i" site="primo.eu" site_id="Canvas" xmltv_id="Canvas">Canvas</channel>
+    <channel update="i" site="primo.eu" site_id="VTM" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="primo.eu" site_id="2BE" xmltv_id="2BE">2BE</channel>
+    <channel update="i" site="primo.eu" site_id="Vier" xmltv_id="Vier">Vier</channel>
+    <channel update="i" site="primo.eu" site_id="Vijf" xmltv_id="Vijf">Vijf</channel>
+    <channel update="i" site="primo.eu" site_id="Vitaya" xmltv_id="Vitaya">Vitaya</channel>
+    <channel update="i" site="primo.eu" site_id="ACHT" xmltv_id="ACHT">ACHT</channel>
+    <channel update="i" site="primo.eu" site_id="EEN+Plus" xmltv_id="EEN Plus">EEN Plus</channel>
+    <channel update="i" site="primo.eu" site_id="Ketnet+Plus" xmltv_id="Ketnet Plus">Ketnet Plus</channel>
+    <channel update="i" site="primo.eu" site_id="Canvas+Plus" xmltv_id="Canvas Plus">Canvas Plus</channel>
+    <channel update="i" site="primo.eu" site_id="TMF" xmltv_id="TMF">TMF</channel>
+    <channel update="i" site="primo.eu" site_id="JIM+TV" xmltv_id="JIM TV">JIM TV</channel>
+    <channel update="i" site="primo.eu" site_id="VTM+Kzoom" xmltv_id="VTM Kzoom">VTM Kzoom</channel>
+    <channel update="i" site="primo.eu" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="primo.eu" site_id="Kanaal+Z" xmltv_id="Kanaal Z">Kanaal Z</channel>
+    <channel update="i" site="primo.eu" site_id="EXQI+intro" xmltv_id="EXQI intro">EXQI intro</channel>
+    <channel update="i" site="primo.eu" site_id="Discovery+Channel+Vlaanderen" xmltv_id="Discovery Channel Vlaanderen">Discovery Channel Vlaanderen</channel>
+    <channel update="i" site="primo.eu" site_id="ATV" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="primo.eu" site_id="TV+Brussel" xmltv_id="TV Brussel">TV Brussel</channel>
+    <channel update="i" site="primo.eu" site_id="Ring+TV" xmltv_id="Ring TV">Ring TV</channel>
+    <channel update="i" site="primo.eu" site_id="TV+Limburg" xmltv_id="TV Limburg">TV Limburg</channel>
+    <channel update="i" site="primo.eu" site_id="TV+Oost+Vlaanderen" xmltv_id="TV Oost Vlaanderen">TV Oost Vlaanderen</channel>
+    <channel update="i" site="primo.eu" site_id="AVS" xmltv_id="AVS">AVS</channel>
+    <channel update="i" site="primo.eu" site_id="RTV" xmltv_id="RTV">RTV</channel>
+    <channel update="i" site="primo.eu" site_id="ROB+TV" xmltv_id="ROB TV">ROB TV</channel>
+    <channel update="i" site="primo.eu" site_id="Focus+WTV" xmltv_id="Focus WTV">Focus WTV</channel>
+    <channel update="i" site="primo.eu" site_id="Liberty+tv" xmltv_id="Liberty tv">Liberty tv</channel>
+    <channel update="i" site="primo.eu" site_id="Nederland+1" xmltv_id="Nederland 1">Nederland 1</channel>
+    <channel update="i" site="primo.eu" site_id="Nederland+2" xmltv_id="Nederland 2">Nederland 2</channel>
+    <channel update="i" site="primo.eu" site_id="Nederland+3" xmltv_id="Nederland 3">Nederland 3</channel>
+    <channel update="i" site="primo.eu" site_id="BVN" xmltv_id="BVN">BVN</channel>
+    <channel update="i" site="primo.eu" site_id="NET+5" xmltv_id="NET 5">NET 5</channel>
+    <channel update="i" site="primo.eu" site_id="RTL4" xmltv_id="RTL4">RTL4</channel>
+    <channel update="i" site="primo.eu" site_id="RTL5" xmltv_id="RTL5">RTL5</channel>
+    <channel update="i" site="primo.eu" site_id="RTL7" xmltv_id="RTL7">RTL7</channel>
+    <channel update="i" site="primo.eu" site_id="RTL+8" xmltv_id="RTL 8">RTL 8</channel>
+    <channel update="i" site="primo.eu" site_id="SBS6" xmltv_id="SBS6">SBS6</channel>
+    <channel update="i" site="primo.eu" site_id="FOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="primo.eu" site_id="la+deux" xmltv_id="la deux">la deux</channel>
+    <channel update="i" site="primo.eu" site_id="RTL+-+TVI" xmltv_id="RTL - TVI">RTL - TVI</channel>
+    <channel update="i" site="primo.eu" site_id="Club+RTL" xmltv_id="Club RTL">Club RTL</channel>
+    <channel update="i" site="primo.eu" site_id="TF1" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="primo.eu" site_id="France+2" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="primo.eu" site_id="France+3" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="primo.eu" site_id="ARTE" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="primo.eu" site_id="TV5" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="primo.eu" site_id="ARD" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="primo.eu" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="primo.eu" site_id="WDR" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="primo.eu" site_id="SWR" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="primo.eu" site_id="RTL+(Duits)" xmltv_id="RTL (Duits)">RTL (Duits)</channel>
+    <channel update="i" site="primo.eu" site_id="BBC+One" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="primo.eu" site_id="BBC+Two" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="primo.eu" site_id="BBC+World" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="primo.eu" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="primo.eu" site_id="ITV" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="primo.eu" site_id="RAI" xmltv_id="RAI">RAI</channel>
+    <channel update="i" site="primo.eu" site_id="TRT+Turk" xmltv_id="TRT Turk">TRT Turk</channel>
+    <channel update="i" site="primo.eu" site_id="TVE+Int" xmltv_id="TVE Int">TVE Int</channel>
+    <channel update="i" site="primo.eu" site_id="Cartoon+Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="primo.eu" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="primo.eu" site_id="Jetix" xmltv_id="Jetix">Jetix</channel>
+    <channel update="i" site="primo.eu" site_id="TCM" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="primo.eu" site_id="TRACE" xmltv_id="TRACE">TRACE</channel>
+    <channel update="i" site="primo.eu" site_id="Eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="primo.eu" site_id="Primesport" xmltv_id="Primesport">Primesport</channel>
+    <channel update="i" site="primo.eu" site_id="Primesport2" xmltv_id="Primesport2">Primesport2</channel>
+    <channel update="i" site="primo.eu" site_id="Prime+Star" xmltv_id="Prime Star">Prime Star</channel>
+    <channel update="i" site="primo.eu" site_id="Prime+Action" xmltv_id="Prime Action">Prime Action</channel>
+    <channel update="i" site="primo.eu" site_id="Prime+Series" xmltv_id="Prime Series">Prime Series</channel>
+    <channel update="i" site="primo.eu" site_id="Prime+Family" xmltv_id="Prime Family">Prime Family</channel>
+    <channel update="i" site="primo.eu" site_id="Discovery+Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="primo.eu" site_id="National+Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="primo.eu" site_id="Animal+planet" xmltv_id="Animal planet">Animal planet</channel>
+    <channel update="i" site="primo.eu" site_id="Euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="primo.eu" site_id="Fashion+TV" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="primo.eu" site_id="Star" xmltv_id="Star">Star</channel>
+    <channel update="i" site="primo.eu" site_id="Vitaliteit" xmltv_id="Vitaliteit">Vitaliteit</channel>
+    <channel update="i" site="primo.eu" site_id="Fezztival" xmltv_id="Fezztival">Fezztival</channel>
+    <channel update="i" site="primo.eu" site_id="E!+Entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="primo.eu" site_id="11+(Belgacom)" xmltv_id="11 (Belgacom)">11 (Belgacom)</channel>
+  </channels>
+</site>

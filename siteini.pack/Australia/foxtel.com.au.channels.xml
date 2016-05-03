@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.25 -- Jan van Straaten" site="foxtel.com.au">
+  <channels>
+    <channel update="i" site="foxtel.com.au" site_id="151" xmltv_id="Channel 9 Melbourne">Channel 9 Melbourne</channel>
+    <channel update="i" site="foxtel.com.au" site_id="548" xmltv_id="TVH!TS">TVH!TS</channel>
+    <channel update="i" site="foxtel.com.au" site_id="146" xmltv_id="ABC VIC">ABC VIC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="17" xmltv_id="UKTV">UKTV</channel>
+    <channel update="i" site="foxtel.com.au" site_id="160" xmltv_id="SBS ONE Melbourne">SBS ONE Melbourne</channel>
+    <channel update="i" site="foxtel.com.au" site_id="19" xmltv_id="Arena">Arena</channel>
+    <channel update="i" site="foxtel.com.au" site_id="18" xmltv_id="The LifeStyle Channel">The LifeStyle Channel</channel>
+    <channel update="i" site="foxtel.com.au" site_id="188" xmltv_id="Channel 7 Melbourne">Channel 7 Melbourne</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8" xmltv_id="FOX8">FOX8</channel>
+    <channel update="i" site="foxtel.com.au" site_id="174" xmltv_id="Channel 10 Melbourne">Channel 10 Melbourne</channel>
+    <channel update="i" site="foxtel.com.au" site_id="222" xmltv_id="GREATS">GREATS</channel>
+    <channel update="i" site="foxtel.com.au" site_id="21" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="foxtel.com.au" site_id="6" xmltv_id="FOX Classics">FOX Classics</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20" xmltv_id="SoHo">SoHo</channel>
+    <channel update="i" site="foxtel.com.au" site_id="179" xmltv_id="showcase">showcase</channel>
+    <channel update="i" site="foxtel.com.au" site_id="555" xmltv_id="BoxSets">BoxSets</channel>
+    <channel update="i" site="foxtel.com.au" site_id="553" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="foxtel.com.au" site_id="231" xmltv_id="13TH STREET">13TH STREET</channel>
+    <channel update="i" site="foxtel.com.au" site_id="336" xmltv_id="FX">FX</channel>
+    <channel update="i" site="foxtel.com.au" site_id="22" xmltv_id="The Comedy Channel">The Comedy Channel</channel>
+    <channel update="i" site="foxtel.com.au" site_id="334" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel update="i" site="foxtel.com.au" site_id="546" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="foxtel.com.au" site_id="39" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="foxtel.com.au" site_id="87" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="foxtel.com.au" site_id="233" xmltv_id="Style">Style</channel>
+    <channel update="i" site="foxtel.com.au" site_id="90" xmltv_id="LifeStyle FOOD">LifeStyle FOOD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="322" xmltv_id="LifeStyle Home">LifeStyle Home</channel>
+    <channel update="i" site="foxtel.com.au" site_id="232" xmltv_id="LifeStyle YOU">LifeStyle YOU</channel>
+    <channel update="i" site="foxtel.com.au" site_id="95" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="568" xmltv_id="Arts">Arts</channel>
+    <channel update="i" site="foxtel.com.au" site_id="97" xmltv_id="Bio.">Bio.</channel>
+    <channel update="i" site="foxtel.com.au" site_id="139" xmltv_id="ABC2/KIDS VIC">ABC2/KIDS VIC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="261" xmltv_id="7TWO Melbourne">7TWO Melbourne</channel>
+    <channel update="i" site="foxtel.com.au" site_id="266" xmltv_id="GO! Melbourne">GO! Melbourne</channel>
+    <channel update="i" site="foxtel.com.au" site_id="230" xmltv_id="ELEVEN">ELEVEN</channel>
+    <channel update="i" site="foxtel.com.au" site_id="166" xmltv_id="SBS 2 VIC">SBS 2 VIC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="522" xmltv_id="NITV">NITV</channel>
+    <channel update="i" site="foxtel.com.au" site_id="549" xmltv_id="TVH!TS +2">TVH!TS +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="108" xmltv_id="UKTV+2">UKTV+2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="109" xmltv_id="Arena +2">Arena +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="112" xmltv_id="LifeStyle +2">LifeStyle +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="110" xmltv_id="FOX8+2">FOX8+2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="236" xmltv_id="GREATS + 2">GREATS + 2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="545" xmltv_id="Universal +2">Universal +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="113" xmltv_id="FOX Classics+2">FOX Classics+2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="132" xmltv_id="SoHo +2">SoHo +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="4" xmltv_id="showcase +2">showcase +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="317" xmltv_id="13th STREET +2">13th STREET +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="356" xmltv_id="FX +2">FX +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="111" xmltv_id="Comedy Ch +2">Comedy Ch +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="547" xmltv_id="Syfy +2">Syfy +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="234" xmltv_id="Lifestyle FOOD +2">Lifestyle FOOD +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="235" xmltv_id="LifeStyle YOU +2">LifeStyle YOU +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="318" xmltv_id="TLC +2">TLC +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="42" xmltv_id="TVSN">TVSN</channel>
+    <channel update="i" site="foxtel.com.au" site_id="120" xmltv_id="EXPO">EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="117" xmltv_id="ACC">ACC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="119" xmltv_id="Aurora">Aurora</channel>
+    <channel update="i" site="foxtel.com.au" site_id="566" xmltv_id="Daystar">Daystar</channel>
+    <channel update="i" site="foxtel.com.au" site_id="565" xmltv_id="Arena HD">Arena HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="320" xmltv_id="LifeStyle HD">LifeStyle HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="203" xmltv_id="7mate HD">7mate HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="240" xmltv_id="FOX8 HD">FOX8 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="208" xmltv_id="GEM HD">GEM HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="213" xmltv_id="One HD">One HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="564" xmltv_id="Universal HD">Universal HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="241" xmltv_id="SoHo HD">SoHo HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="243" xmltv_id="showcase HD">showcase HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="556" xmltv_id="BoxSet HD">BoxSet HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="554" xmltv_id="BBC First HD">BBC First HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="560" xmltv_id="13th Street HD">13th Street HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="337" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="335" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="544" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="218" xmltv_id="SBS HD">SBS HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="569" xmltv_id="Arts HD">Arts HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="242" xmltv_id="Premiere HD">Premiere HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="517" xmltv_id="Masterpiece HD">Masterpiece HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="551" xmltv_id="Disney Movies HD">Disney Movies HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="515" xmltv_id="Family HD">Family HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="244" xmltv_id="Action HD">Action HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="513" xmltv_id="Comedy HD">Comedy HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="514" xmltv_id="Romance HD">Romance HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="516" xmltv_id="Thriller HD">Thriller HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="558" xmltv_id="World Movies HD">World Movies HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="562" xmltv_id="Fox Sports News HD">Fox Sports News HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="238" xmltv_id="Fox Sports 1 HD">Fox Sports 1 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="239" xmltv_id="Fox Sports 2 HD">Fox Sports 2 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="196" xmltv_id="Fox Sports 3 HD">Fox Sports 3 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="331" xmltv_id="Fox Footy HD">Fox Footy HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="561" xmltv_id="Fox Sports 4 HD">Fox Sports 4 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="312" xmltv_id="Fox Sports 5 HD">Fox Sports 5 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="193" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="319" xmltv_id="ESPN2 HD">ESPN2 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="559" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="194" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="192" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="563" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="310" xmltv_id="BBC Knowledge HD">BBC Knowledge HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="311" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="3" xmltv_id="Premiere">Premiere</channel>
+    <channel update="i" site="foxtel.com.au" site_id="520" xmltv_id="Masterpiece">Masterpiece</channel>
+    <channel update="i" site="foxtel.com.au" site_id="550" xmltv_id="Disney Movies">Disney Movies</channel>
+    <channel update="i" site="foxtel.com.au" site_id="518" xmltv_id="Family">Family</channel>
+    <channel update="i" site="foxtel.com.au" site_id="248" xmltv_id="Action">Action</channel>
+    <channel update="i" site="foxtel.com.au" site_id="249" xmltv_id="Comedy">Comedy</channel>
+    <channel update="i" site="foxtel.com.au" site_id="250" xmltv_id="Romance">Romance</channel>
+    <channel update="i" site="foxtel.com.au" site_id="519" xmltv_id="Thriller">Thriller</channel>
+    <channel update="i" site="foxtel.com.au" site_id="29" xmltv_id="Premiere +2">Premiere +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="527" xmltv_id="Action +2">Action +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="526" xmltv_id="Family +2">Family +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="570" xmltv_id="Disney Mov +2">Disney Mov +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="11" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="foxtel.com.au" site_id="36" xmltv_id="WORLD MOVIES">WORLD MOVIES</channel>
+    <channel update="i" site="foxtel.com.au" site_id="126" xmltv_id="Fox Sports News">Fox Sports News</channel>
+    <channel update="i" site="foxtel.com.au" site_id="9" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
+    <channel update="i" site="foxtel.com.au" site_id="10" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="133" xmltv_id="Fox Sports 3">Fox Sports 3</channel>
+    <channel update="i" site="foxtel.com.au" site_id="330" xmltv_id="Fox Footy">Fox Footy</channel>
+    <channel update="i" site="foxtel.com.au" site_id="93" xmltv_id="Fox Sports 4">Fox Sports 4</channel>
+    <channel update="i" site="foxtel.com.au" site_id="307" xmltv_id="Fox Sports 5">Fox Sports 5</channel>
+    <channel update="i" site="foxtel.com.au" site_id="13" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="foxtel.com.au" site_id="321" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="254" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="foxtel.com.au" site_id="92" xmltv_id="Eurosportnews">Eurosportnews</channel>
+    <channel update="i" site="foxtel.com.au" site_id="43" xmltv_id="SKY Racing">SKY Racing</channel>
+    <channel update="i" site="foxtel.com.au" site_id="285" xmltv_id="SKY Racing 2">SKY Racing 2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="286" xmltv_id="SKY Tbred Cent">SKY Tbred Cent</channel>
+    <channel update="i" site="foxtel.com.au" site_id="30" xmltv_id="SKY News Live">SKY News Live</channel>
+    <channel update="i" site="foxtel.com.au" site_id="183" xmltv_id="SKY News Business">SKY News Business</channel>
+    <channel update="i" site="foxtel.com.au" site_id="35" xmltv_id="SKY Weather">SKY Weather</channel>
+    <channel update="i" site="foxtel.com.au" site_id="31" xmltv_id="FOX News">FOX News</channel>
+    <channel update="i" site="foxtel.com.au" site_id="32" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="foxtel.com.au" site_id="15" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="foxtel.com.au" site_id="14" xmltv_id="The History Channel">The History Channel</channel>
+    <channel update="i" site="foxtel.com.au" site_id="223" xmltv_id="BBC Knowledge">BBC Knowledge</channel>
+    <channel update="i" site="foxtel.com.au" site_id="118" xmltv_id="Crime">Crime</channel>
+    <channel update="i" site="foxtel.com.au" site_id="48" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="foxtel.com.au" site_id="256" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="foxtel.com.au" site_id="94" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="foxtel.com.au" site_id="257" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="foxtel.com.au" site_id="258" xmltv_id="Discovery Turbo +2">Discovery Turbo +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="98" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="foxtel.com.au" site_id="255" xmltv_id="Discovery +2">Discovery +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="315" xmltv_id="Nat Geo +2">Nat Geo +2</channel>
+    <channel update="i" site="foxtel.com.au" site_id="198" xmltv_id="ABC News24 HD">ABC News24 HD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="33" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="225" xmltv_id="A-PAC">A-PAC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="2" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="foxtel.com.au" site_id="34" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
+    <channel update="i" site="foxtel.com.au" site_id="354" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="foxtel.com.au" site_id="355" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="foxtel.com.au" site_id="541" xmltv_id="CCTV-9 Doco">CCTV-9 Doco</channel>
+    <channel update="i" site="foxtel.com.au" site_id="542" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="foxtel.com.au" site_id="567" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="foxtel.com.au" site_id="5" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="foxtel.com.au" site_id="100" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="foxtel.com.au" site_id="224" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="foxtel.com.au" site_id="24" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="foxtel.com.au" site_id="552" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="foxtel.com.au" site_id="124" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="foxtel.com.au" site_id="25" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="foxtel.com.au" site_id="85" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="foxtel.com.au" site_id="557" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="foxtel.com.au" site_id="281" xmltv_id="ABC3 Melbourne">ABC3 Melbourne</channel>
+    <channel update="i" site="foxtel.com.au" site_id="37" xmltv_id="Channel [V]">Channel [V]</channel>
+    <channel update="i" site="foxtel.com.au" site_id="101" xmltv_id="[V] Hits">[V] Hits</channel>
+    <channel update="i" site="foxtel.com.au" site_id="38" xmltv_id="MAX">MAX</channel>
+    <channel update="i" site="foxtel.com.au" site_id="543" xmltv_id="Smooth">Smooth</channel>
+    <channel update="i" site="foxtel.com.au" site_id="308" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="foxtel.com.au" site_id="102" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="foxtel.com.au" site_id="103" xmltv_id="CMC">CMC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="45" xmltv_id="Antenna Pacific">Antenna Pacific</channel>
+    <channel update="i" site="foxtel.com.au" site_id="44" xmltv_id="RAI ITALIA">RAI ITALIA</channel>
+  </channels>
+</site>

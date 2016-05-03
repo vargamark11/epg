@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" site="locatetv.com">
+  <channels>
+    <channel update="i" site="locatetv.com" site_id="/listings/wabc-abc" xmltv_id="WABC (ABC)">WABC (ABC)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wcbs-cbs" xmltv_id="WCBS (CBS)">WCBS (CBS)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnyw-fox" xmltv_id="WNYW (FOX)">WNYW (FOX)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnbc-nbc" xmltv_id="WNBC (NBC)">WNBC (NBC)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wpix-cw" xmltv_id="WPIX (CW)">WPIX (CW)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnjn-pbs" xmltv_id="WNJN (PBS)">WNJN (PBS)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/and-e-network" xmltv_id="A&amp;E Network">A&amp;E Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bbc-america" xmltv_id="BBC America">BBC America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bet" xmltv_id="BET">BET</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cbs-college-sports-network" xmltv_id="CBS Sports Network">CBS Sports Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cspan" xmltv_id="CSPAN">CSPAN</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cspan2" xmltv_id="CSPAN2">CSPAN2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cable-news-network" xmltv_id="Cable News Network">Cable News Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/chiller" xmltv_id="Chiller">Chiller</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-xd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/e-entertainment-television" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espnu" xmltv_id="ESPNU">ESPNU</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/food-network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/history" xmltv_id="History">History</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/independent-film-channel" xmltv_id="IFC">IFC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/lifetime" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/lifetime-real-women" xmltv_id="Lifetime Real Women">Lifetime Real Women</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msnbc" xmltv_id="MSNBC">MSNBC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv-music-television" xmltv_id="MTV - Music Television">MTV - Music Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv2-music-television" xmltv_id="MTV2: Music Television">MTV2: Music Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/oxygen" xmltv_id="Oxygen">Oxygen</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/spike-tv" xmltv_id="Spike TV">Spike TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sundance-channel" xmltv_id="SundanceTV">SundanceTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-land" xmltv_id="TV Land">TV Land</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/discovery-channel" xmltv_id="The Discovery Channel">The Discovery Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/weather-channel" xmltv_id="The Weather Channel">The Weather Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/turner-broadcasting-system" xmltv_id="Turner Broadcasting System">Turner Broadcasting System</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/turner-classic-movies" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/turner-network-tv" xmltv_id="Turner Network TV">Turner Network TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/usa-network" xmltv_id="USA Network">USA Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wabcdt2-wabc-dt2" xmltv_id="WABCDT2">WABCDT2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/we-tv" xmltv_id="WE tv">WE tv</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wlnydt-wlny-dt" xmltv_id="WLNYDT">WLNYDT</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wmbcdt6-wmbc-dt6-azteca-america" xmltv_id="WMBCDT6 (Azteca America)">WMBCDT6 (Azteca America)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnju-telemundo" xmltv_id="WNJU (TELEMUNDO)">WNJU (TELEMUNDO)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wpxn-ion" xmltv_id="WPXN (ION)">WPXN (ION)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wwor-tv-channel-9-local-new-york-mynetworktv" xmltv_id="WWOR TV Channel 9 (Local New York) (MyNetworkTV)">WWOR TV Channel 9 (Local New York) (MyNetworkTV)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wxtv-univision" xmltv_id="WXTV (Univision)">WXTV (Univision)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/trutv" xmltv_id="truTV">truTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/abc-family" xmltv_id="ABC Family">ABC Family</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bloomberg-business-television" xmltv_id="Bloomberg Business Television">Bloomberg Business Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bravo" xmltv_id="Bravo">Bravo</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cnbc" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/centric" xmltv_id="Centric">Centric</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cooking-channel" xmltv_id="Cooking Channel">Cooking Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/country-music-television" xmltv_id="Country Music Television">Country Music Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-xd-en-espanol" xmltv_id="Disney XD en Español">Disney XD en Español</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/do-it-yourself-network" xmltv_id="Do-It-Yourself Network">Do-It-Yourself Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn2" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn2-hd" xmltv_id="ESPN2 HD">ESPN2 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espnews" xmltv_id="ESPNEWS">ESPNEWS</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espnhd" xmltv_id="ESPNHD">ESPNHD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-westerns" xmltv_id="Encore Westerns">Encore Westerns</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/style" xmltv_id="Esquire">Esquire</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fx" xmltv_id="FX">FX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-business" xmltv_id="Fox Business">Fox Business</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fuse" xmltv_id="Fuse">Fuse</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gsn" xmltv_id="GSN">GSN</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/history-international" xmltv_id="H2">H2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo2" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hln-formerly-headline-news" xmltv_id="HLN (Formerly Headline News)">HLN (Formerly Headline News)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hallmark-channel" xmltv_id="Hallmark Channel">Hallmark Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/home-shopping-network" xmltv_id="Home Shopping Network">Home Shopping Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/logo" xmltv_id="LOGO">LOGO</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mlb-network" xmltv_id="MLB Network">MLB Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/madison-square-garden-high-definition" xmltv_id="MSG HD Zone 1">MSG HD Zone 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msg-plus" xmltv_id="MSG Plus Zone 1">MSG Plus Zone 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/madison-square-garden-network" xmltv_id="MSG Zone 1">MSG Zone 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/oprah-winfrey-network" xmltv_id="Oprah Winfrey Network">Oprah Winfrey Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/pbs-kids-sprout" xmltv_id="PBS Kids Sprout">PBS Kids Sprout</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sho-2" xmltv_id="SHO 2">SHO 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sportsnet-ny" xmltv_id="Sportsnet NY">Sportsnet NY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sportsnet-ny-hd" xmltv_id="Sportsnet NY HD">Sportsnet NY HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-one" xmltv_id="TV ONE">TV ONE</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/biography-channel" xmltv_id="The Biography Channel">The Biography Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/discovery-kids" xmltv_id="The Hub">The Hub</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/learning-channel" xmltv_id="The Learning Channel">The Learning Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vh1-video-hits-one" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wgn-america" xmltv_id="WGN America">WGN America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnbcdt2-wnbc-dt2" xmltv_id="WNBCDT2">WNBCDT2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnye" xmltv_id="WNYE">WNYE</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wpixdt2-wpix-dt2" xmltv_id="WPIXDT2">WPIXDT2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/aande-hd-east" xmltv_id="A&amp;E Network HD East">A&amp;E Network HD East</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/military-channel" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/channel-one-russia-worldwide-network" xmltv_id="Channel One Russia Worldwide Network">Channel One Russia Worldwide Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/discovery-en-espanol" xmltv_id="Discovery en Español">Discovery en Español</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn-classic" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn-deportes" xmltv_id="ESPN Deportes">ESPN Deportes</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore" xmltv_id="Encore">Encore</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-love" xmltv_id="Encore Classic">Encore Classic</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-wam" xmltv_id="Encore Family">Encore Family</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/eternal-word-television-network" xmltv_id="Eternal Word Television Network">Eternal Word Television Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-soccer-channel" xmltv_id="FXX">FXX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/food-hd" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-sports-en-espanol" xmltv_id="Fox Deportes">Fox Deportes</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fuel-tv" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-comedy" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-family" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-latino" xmltv_id="HBO Latino">HBO Latino</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-zone" xmltv_id="HBO Zone">HBO Zone</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/history-channel-en-espanol" xmltv_id="HISTORY CHANNEL EN ESPAÑOL">HISTORY CHANNEL EN ESPAÑOL</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/home-and-garden-television" xmltv_id="Home &amp; Garden Television">Home &amp; Garden Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hgtv-hd-hghd" xmltv_id="Home &amp; Garden Television HD (HGHD)">Home &amp; Garden Television HD (HGHD)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-tv" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nflnet" xmltv_id="NFL NETWORK">NFL NETWORK</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nfl-network-hd" xmltv_id="NFL Network HD">NFL Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/national-geographic-channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/national-geographic-hd" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nicktoons-network" xmltv_id="Nicktoons Network">Nicktoons Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/outermax" xmltv_id="OuterMAX">OuterMAX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ovation-tv" xmltv_id="Ovation TV">Ovation TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/qvc" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/rai-italia" xmltv_id="RAI Italia">RAI Italia</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/science-channel" xmltv_id="Science">Science</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime/5129" xmltv_id="Showtime">Showtime</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-beyond" xmltv_id="Showtime Beyond">Showtime Beyond</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-next" xmltv_id="Showtime Next">Showtime Next</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-showcase" xmltv_id="Showtime Showcase">Showtime Showcase</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-kids" xmltv_id="Starz Kids">Starz Kids</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-games-network" xmltv_id="TV Games Network">TV Games Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-japan" xmltv_id="TV Japan">TV Japan</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv5monde-etats-unis" xmltv_id="TV5MONDE Etats Unis">TV5MONDE Etats Unis</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/golf-channel" xmltv_id="The Golf Channel">The Golf Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/travel-channel" xmltv_id="The Travel Channel">The Travel Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tnthd-tnt-hd" xmltv_id="Turner Network TV HD">Turner Network TV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/universal-hd" xmltv_id="Universal HD">Universal HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hd-theater" xmltv_id="Velocity">Velocity</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wmbc" xmltv_id="WMBC">WMBC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wrnndt-wrnn-dt" xmltv_id="WRNNDT">WRNNDT</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/yankees-entertainment-and-sports-network" xmltv_id="Yankees Entertainment &amp; Sports Network">Yankees Entertainment &amp; Sports Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/5-starmax" xmltv_id="5 StarMAX">5 StarMAX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/actionmax" xmltv_id="ActionMAX">ActionMAX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/antenna-satellite-tv-greece" xmltv_id="Antenna 20 Years">Antenna 20 Years</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cnn-international" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cti-zhong-tian-channel" xmltv_id="CTI Zhong Tian Channel">CTI Zhong Tian Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cine-mexicano-us-feed" xmltv_id="Cine Mexicano US Feed">Cine Mexicano US Feed</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cinemax" xmltv_id="CineMAX">CineMAX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cinemax-hd" xmltv_id="CineMAX HD">CineMAX HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/dominicana" xmltv_id="DOMINICANA">DOMINICANA</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/planet-green" xmltv_id="Destination America">Destination America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ecuavisa-international" xmltv_id="Ecuavisa International">Ecuavisa International</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-action" xmltv_id="Encore Action">Encore Action</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-drama" xmltv_id="Encore Black">Encore Black</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-mystery" xmltv_id="Encore Suspense">Encore Suspense</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-movie-channel" xmltv_id="FX Movie Channel">FX Movie Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-news-channel" xmltv_id="Fox News Channel">Fox News Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gma-pinoy-tv" xmltv_id="GMA Pinoy TV">GMA Pinoy TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/galavision-cable-network" xmltv_id="Galavision Cable Network">Galavision Cable Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-signature" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/inspiration-network" xmltv_id="INSP">INSP</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/la-familia-cosmovision" xmltv_id="La Familia Cosmovision">La Familia Cosmovision</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/lifetime-movie-network" xmltv_id="Lifetime Movie Network">Lifetime Movie Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv-hits-u-s" xmltv_id="MTV Hits (U.S.)">MTV Hits (U.S.)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/atmax" xmltv_id="MaxLatino">MaxLatino</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/moremax" xmltv_id="MoreMAX">MoreMAX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wmax" xmltv_id="MovieMax">MovieMax</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mun2" xmltv_id="Mun2">Mun2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/reelzchannel" xmltv_id="ReelzChannel">ReelzChannel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/star-plus-us" xmltv_id="STAR PLUS US">STAR PLUS US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/shopnbc/6093" xmltv_id="ShopHQ">ShopHQ</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-extreme" xmltv_id="Showtime Extreme">Showtime Extreme</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-familyzone" xmltv_id="Showtime Familyzone">Showtime Familyzone</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-women" xmltv_id="Showtime Women">Showtime Women</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sorpresa" xmltv_id="Sorpresa">Sorpresa</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz" xmltv_id="Starz">Starz</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-cinema" xmltv_id="Starz Cinema">Starz Cinema</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-comedy" xmltv_id="Starz Comedy">Starz Comedy</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-edge" xmltv_id="Starz Edge">Starz Edge</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-in-black" xmltv_id="Starz in Black">Starz in Black</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tve-america-television-espanola" xmltv_id="TVE America Television Española">TVE America Television Española</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/telemicro-internacional" xmltv_id="Telemicro Internacional">Telemicro Internacional</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tennis-channel" xmltv_id="Tennis Channel">Tennis Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movie-channel" xmltv_id="The Movie Channel">The Movie Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movie-channel-extra" xmltv_id="The Movie Channel Extra">The Movie Channel Extra</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/word-network" xmltv_id="The Word Network">The Word Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/thrillermax" xmltv_id="ThrillerMAX">ThrillerMAX</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv-tres" xmltv_id="Tr3s: MTV, Musica y Mas">Tr3s: MTV, Musica y Mas</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/trinity-broadcasting-network" xmltv_id="Trinity Broadcasting Network">Trinity Broadcasting Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/venemovies" xmltv_id="ViendoMovies">ViendoMovies</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wapa-america" xmltv_id="WAPA America">WAPA America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/current-tv" xmltv_id="Al Jazeera America">Al Jazeera America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bravo-hd" xmltv_id="Bravo HD">Bravo HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cctv4-china-central-tv" xmltv_id="CCTV4--China Central TV">CCTV4--China Central TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cnn-hd" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cspan3" xmltv_id="CSPAN3">CSPAN3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/discovery-familia-en-espanol" xmltv_id="Discovery Familia En Español">Discovery Familia En Español</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fx-hd" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-1" xmltv_id="GAME 1">GAME 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-10" xmltv_id="GAME 10">GAME 10</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-11" xmltv_id="GAME 11">GAME 11</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-12" xmltv_id="GAME 12">GAME 12</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-13" xmltv_id="GAME 13">GAME 13</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-14" xmltv_id="GAME 14">GAME 14</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-2" xmltv_id="GAME 2">GAME 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-3" xmltv_id="GAME 3">GAME 3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-4" xmltv_id="GAME 4">GAME 4</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-5" xmltv_id="GAME 5">GAME 5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-6" xmltv_id="GAME 6">GAME 6</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-7" xmltv_id="GAME 7">GAME 7</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-8" xmltv_id="GAME 8">GAME 8</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-9" xmltv_id="GAME 9">GAME 9</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd" xmltv_id="Game HD">Game HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/history-hd" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/jewelry-television-by-acn" xmltv_id="Jewelry Television">Jewelry Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/la-tele-novela-network" xmltv_id="La Tele Novela Network">La Tele Novela Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mgm-hd" xmltv_id="MGM HD">MGM HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv-jams" xmltv_id="MTV Jams">MTV Jams</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-1" xmltv_id="NBA League Pass 1">NBA League Pass 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-10" xmltv_id="NBA League Pass 10">NBA League Pass 10</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-2" xmltv_id="NBA League Pass 2">NBA League Pass 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-3" xmltv_id="NBA League Pass 3">NBA League Pass 3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-4" xmltv_id="NBA League Pass 4">NBA League Pass 4</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-5" xmltv_id="NBA League Pass 5">NBA League Pass 5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-6" xmltv_id="NBA League Pass 6">NBA League Pass 6</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-7" xmltv_id="NBA League Pass 7">NBA League Pass 7</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-8" xmltv_id="NBA League Pass 8">NBA League Pass 8</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-league-pass-9" xmltv_id="NBA League Pass 9">NBA League Pass 9</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nhl-network/9729" xmltv_id="NHL Network">NHL Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/rede-globo-tv-internacional" xmltv_id="Rede Globo TV Internacional">Rede Globo TV Internacional</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/set-asia-international" xmltv_id="SET - Asia International">SET - Asia International</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/saigon-broadcasting-network" xmltv_id="Saigon Broadcasting Network">Saigon Broadcasting Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/smithsonian-hd-network" xmltv_id="Smithsonian HD Network">Smithsonian HD Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/syfy-hd" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tbs-hd" xmltv_id="TBS HD">TBS HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-asia" xmltv_id="TV Asia">TV Asia</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/discovery-channel-hd" xmltv_id="The Discovery Channel HD">The Discovery Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/learning-channel-hd" xmltv_id="The Learning Channel HD">The Learning Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/usa-network-hd" xmltv_id="USA Network HD">USA Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/zee-tv-usa-inc" xmltv_id="Zee TV USA, Inc.">Zee TV USA, Inc.</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/abc-family-channel-hd" xmltv_id="ABC Family HD">ABC Family HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hdnet" xmltv_id="AXS TV">AXS TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bbc-america-hd" xmltv_id="BBC America HD">BBC America HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bet-hd" xmltv_id="BET HD">BET HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cnbc-hd" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cartoon-network-hd" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cine-latino-us" xmltv_id="Cine Latino US">Cine Latino US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sleuth" xmltv_id="Cloo">Cloo</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/crime-and-investigation-network" xmltv_id="Crime &amp; Investigation Network">Crime &amp; Investigation Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/daystar-television-network" xmltv_id="Daystar Television Network">Daystar Television Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-channel-hd" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-junior-us" xmltv_id="Disney Junior US">Disney Junior US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-college-sports-pacific" xmltv_id="Fox College Sports (Pacific)">Fox College Sports (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-college-sports-atlantic" xmltv_id="Fox College Sports - Atlantic">Fox College Sports - Atlantic</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-college-sports-central" xmltv_id="Fox College Sports - Central">Fox College Sports - Central</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-news-channel-hd" xmltv_id="Fox News Channel HD">Fox News Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-soccer-plus" xmltv_id="Fox Soccer Plus">Fox Soccer Plus</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-sports-1" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/utilisima-us-hispanic" xmltv_id="FoxLife US">FoxLife US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gol-tv" xmltv_id="GOL TV">GOL TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/goltv-english" xmltv_id="GOLTV (English)">GOLTV (English)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-2-hd" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-comedy-hd" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-family-hd" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hallmark-movie-channel" xmltv_id="Hallmark Movie Channel">Hallmark Movie Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msg-plus-hd" xmltv_id="MSG Plus HD Zone 1">MSG Plus HD Zone 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msnbc-hd" xmltv_id="MSNBC HD">MSNBC HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv-music-television-hd" xmltv_id="MTV - Music Television HD">MTV - Music Television HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mc49" xmltv_id="Music Choice: Classical Masterpieces">Music Choice: Classical Masterpieces</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/music-choice-university" xmltv_id="Music Choice: Dance/EDM">Music Choice: Dance/EDM</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mc48" xmltv_id="Music Choice: Easy Listening">Music Choice: Easy Listening</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mc50" xmltv_id="Music Choice: Light Classical">Music Choice: Light Classical</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mc47" xmltv_id="Music Choice: Singers &amp; Swing">Music Choice: Singers &amp; Swing</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nba-tv-hdtv" xmltv_id="NBA TV HDTV">NBA TV HDTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nfl-redzone" xmltv_id="NFL RedZone">NFL RedZone</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/national-geographic-wild/13619" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nickelodeon-pacific" xmltv_id="Nickelodeon (Pacific)">Nickelodeon (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/outdoor-channel-hd" xmltv_id="Outdoor Channel HD">Outdoor Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/palladia" xmltv_id="PALLADIA">PALLADIA</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/retroplex" xmltv_id="RetroPlex">RetroPlex</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/spike-tv-hd" xmltv_id="Spike TV HD">Spike TV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/teen-nick" xmltv_id="Teen Nick">Teen Nick</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/travel-channel-hd" xmltv_id="The Travel Channel HD">The Travel Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/weather-channel-hd" xmltv_id="The Weather Channel HD">The Weather Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vh1-hd" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnywdt2-wnyw-dt2-mynetworktv" xmltv_id="WNYWDT2">WNYWDT2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wpixdt3-wpix-dt3" xmltv_id="WPIXDT3">WPIXDT3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/yes-network-hd-24-7-feed" xmltv_id="Yes Network HD (24/7 feed)">Yes Network HD (24/7 feed)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wealth-tv-hd" xmltv_id="A Wealth of Entertainment HD">A Wealth of Entertainment HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bbc-world" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bandamax-us-feed" xmltv_id="BandaMax US Feed">BandaMax US Feed</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cctv-news" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cmt-pure-country" xmltv_id="CMT Pure Country">CMT Pure Country</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cnbc-world" xmltv_id="CNBC World">CNBC World</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/canal-sur" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/centroamerica-tv" xmltv_id="Centroamerica TV">Centroamerica TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/de-pelicula" xmltv_id="De Pelicula">De Pelicula</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/de-pelicula-clasico" xmltv_id="De Pelicula Clasico">De Pelicula Clasico</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fit-tv" xmltv_id="Discovery Fit and Health">Discovery Fit and Health</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/etbn-enlace-usa" xmltv_id="ETBN Enlace USA">ETBN Enlace USA</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ewtn-espanol" xmltv_id="EWTN Español">EWTN Español</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/flix" xmltv_id="Flix">Flix</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/great-american-country" xmltv_id="Great American Country">Great American Country</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hitn" xmltv_id="HITN">HITN</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/horseracing-tv" xmltv_id="HRTV">HRTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hallmark-movie-channel-hd" xmltv_id="Hallmark Movie Channel HD">Hallmark Movie Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/here-tv" xmltv_id="Here TV">Here TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/indieplex" xmltv_id="IndiePlex">IndiePlex</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/jus-punjabi" xmltv_id="Jus Punjabi">Jus Punjabi</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/lifetime-movie-network-hd" xmltv_id="Lifetime Movie Network HD">Lifetime Movie Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor034" xmltv_id="Local Origination - LOOR034">Local Origination - LOOR034</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mbc-america" xmltv_id="MBC America">MBC America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/imaginasian-tv" xmltv_id="MNET">MNET</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/phoenix-satellite-tv" xmltv_id="Phoenix Satellite TV">Phoenix Satellite TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/halogen" xmltv_id="Pivot">Pivot</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-colombia" xmltv_id="RCN Nuestra Tele">RCN Nuestra Tele</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-hd" xmltv_id="Showtime HD">Showtime HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-pay-per-view-1" xmltv_id="Sports Pay-Per-View 1">Sports Pay-Per-View 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-pay-per-view-2" xmltv_id="Sports Pay-Per-View 2">Sports Pay-Per-View 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-pay-per-view-3" xmltv_id="Sports Pay-Per-View 3">Sports Pay-Per-View 3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-pay-per-view-4" xmltv_id="Sports Pay-Per-View 4">Sports Pay-Per-View 4</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-pay-per-view-5" xmltv_id="Sports Pay-Per-View 5">Sports Pay-Per-View 5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-pay-per-view-6" xmltv_id="Sports Pay-Per-View 6">Sports Pay-Per-View 6</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-hd" xmltv_id="Starz HD">Starz HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/supercanal-dominican" xmltv_id="SuperCanal (Dominican)">SuperCanal (Dominican)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvn-chile-internacional" xmltv_id="TV Chile Internacional">TV Chile Internacional</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-guide-network" xmltv_id="TV Guide Network">TV Guide Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvbe" xmltv_id="TVBE">TVBE</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/telehit-usa-feed" xmltv_id="Telehit USA feed">Telehit USA feed</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/filipino-channel" xmltv_id="The Filipino Channel (Pacific)">The Filipino Channel (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/israeli-network" xmltv_id="The Israeli Network">The Israeli Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movie-channel-hd" xmltv_id="The Movie Channel HD">The Movie Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/pentagon-channel" xmltv_id="The Pentagon Channel">The Pentagon Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gospel-music-channel" xmltv_id="UP">UP</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wfme" xmltv_id="WNYJ">WNYJ</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wsah-formerly-wbpt" xmltv_id="WZME">WZME</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv-u" xmltv_id="mtv-U">mtv-U</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/si-tv" xmltv_id="nuvoTV">nuvoTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/5-starmax-hd-east" xmltv_id="5 StarMAX HD East">5 StarMAX HD East</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/amc-hd" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/actionmax-hd-east" xmltv_id="ActionMAX HD">ActionMAX HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cbs-college-sports-network-hd" xmltv_id="CBS Sports Network HD">CBS Sports Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/country-music-television-hd" xmltv_id="Country Music Television HD">Country Music Television HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/planet-green-hd" xmltv_id="Destination America HD">Destination America HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-xd-hd" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/e-entertainment-television-hd" xmltv_id="E! Entertainment Television HD">E! Entertainment Television HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn-university-hd" xmltv_id="ESPN University HD">ESPN University HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espnews-hd" xmltv_id="ESPNEWS HD">ESPNEWS HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-hd" xmltv_id="Encore HD">Encore HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-business-hd" xmltv_id="Fox Business HD">Fox Business HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fuse-hd" xmltv_id="Fuse HD">Fuse HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-latino-hd" xmltv_id="HBO Latino HD">HBO Latino HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-signature-hd" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-zone-hd" xmltv_id="HBO Zone HD">HBO Zone HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/independent-film-channel-hd" xmltv_id="IFC HD">IFC HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/latv-networks" xmltv_id="LATV Networks">LATV Networks</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/lifetime-hd" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/liquidation-channel" xmltv_id="Liquidation Channel">Liquidation Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mlb-network-hd" xmltv_id="MLB Network HD">MLB Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mavtv-hd" xmltv_id="MavTV HD">MavTV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/atmax-hd-east" xmltv_id="MaxLatino HD">MaxLatino HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/moremax-hd" xmltv_id="MoreMax HD">MoreMax HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wmax-hd-east" xmltv_id="MovieMax HD">MovieMax HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nhl-network-hd" xmltv_id="NHL Network HD">NHL Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/outermax-hd" xmltv_id="OuterMAX HD">OuterMAX HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/qvc-hd" xmltv_id="QVC HD">QVC HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/retirement-living" xmltv_id="RLTV">RLTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/rtr-planeta" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sho-2-hd" xmltv_id="SHO 2 HD">SHO 2 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sho-2-hd-pacific" xmltv_id="SHO 2 HD (Pacific)">SHO 2 HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/science-channel-hd" xmltv_id="Science Channel HD">Science Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-extreme-hd" xmltv_id="Showtime Extreme HD">Showtime Extreme HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-showcase-hd" xmltv_id="Showtime Showcase HD">Showtime Showcase HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-showcase-hd-pacific" xmltv_id="Showtime Showcase HD (Pacific)">Showtime Showcase HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-comedy-hd" xmltv_id="Starz Comedy HD">Starz Comedy HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-edge-hd" xmltv_id="Starz Edge HD">Starz Edge HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-kids-hd" xmltv_id="Starz Kids HD">Starz Kids HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd" xmltv_id="TEAM HD">TEAM HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-polonia" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/biography-channel-hd" xmltv_id="The Biography Channel HD">The Biography Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/golf-channel-hd" xmltv_id="The Golf Channel HD">The Golf Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movie-channel-extra-hd" xmltv_id="The Movie Channel Extra HD">The Movie Channel Extra HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tennis-channel-hd" xmltv_id="The Tennis Channel HD">The Tennis Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/thrillermax-hd-east" xmltv_id="ThrillerMAX HD">ThrillerMAX HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vh1-soul" xmltv_id="VH1 Soul">VH1 Soul</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/veria" xmltv_id="Veria Living TV">Veria Living TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/we-tv-hd" xmltv_id="WE tv HD">WE tv HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wgn-sat-hd" xmltv_id="WGN America HD">WGN America HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/colors-us" xmltv_id="AAPKA Colors US">AAPKA Colors US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/boomerang-en-espanol" xmltv_id="Boomerang En Español">Boomerang En Español</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cooking-channel-hd" xmltv_id="Cooking Channel HD">Cooking Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/deutsche-welle-amerika" xmltv_id="Deutsche Welle Amerika">Deutsche Welle Amerika</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-westerns-pacific" xmltv_id="Encore Westerns (Pacific)">Encore Westerns (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epix-east" xmltv_id="Epix East">Epix East</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fearnet" xmltv_id="FEARnet">FEARnet</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-soccer-channel-hd" xmltv_id="FXX HD">FXX HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-sports-1-hd" xmltv_id="Fox Sports 1 HD">Fox Sports 1 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fusion" xmltv_id="Fusion">Fusion</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd-3" xmltv_id="GAME HD 3">GAME HD 3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd-4" xmltv_id="GAME HD 4">GAME HD 4</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd-5" xmltv_id="GAME HD 5">GAME HD 5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd-6" xmltv_id="GAME HD 6">GAME HD 6</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd-7" xmltv_id="GAME HD 7">GAME HD 7</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd-8" xmltv_id="GAME HD 8">GAME HD 8</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd-9" xmltv_id="GAME HD 9">GAME HD 9</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/game-hd2" xmltv_id="Game HD2">Game HD2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gran-cine" xmltv_id="Gran Cine">Gran Cine</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-pacific" xmltv_id="HBO (Pacific)">HBO (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-hd-pacific" xmltv_id="HBO HD (Pacific)">HBO HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo2-pacific" xmltv_id="HBO2 (Pacific)">HBO2 (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/home-shopping-network-hd" xmltv_id="Home Shopping Network HD">Home Shopping Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/investigation-discovery-hd" xmltv_id="Investigation Discovery HD">Investigation Discovery HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mtv2-music-television-hd" xmltv_id="MTV2: Music Television HD">MTV2: Music Television HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/music-choice-swrv" xmltv_id="Music Choice: Play">Music Choice: Play</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/versus-hockey-black-out" xmltv_id="NBC Sports Network Hockey Black Out">NBC Sports Network Hockey Black Out</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nfl-redzone-hd" xmltv_id="NFL RedZone HD">NFL RedZone HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nat-geo-mundo" xmltv_id="Nat Geo Mundo">Nat Geo Mundo</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/national-geographic-wild-hd" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/oxygen-hd" xmltv_id="Oxygen HD">Oxygen HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/pasiones-tv-us" xmltv_id="Pasiones TV US">Pasiones TV US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/rfd-tv" xmltv_id="RFD TV">RFD TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sho-2-pacific" xmltv_id="SHO 2 (Pacific)">SHO 2 (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/semillitas" xmltv_id="Semillitas">Semillitas</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sonlife-broadcasting-network" xmltv_id="SonLife Broadcasting Network">SonLife Broadcasting Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-2" xmltv_id="TEAM HD 2">TEAM HD 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-3" xmltv_id="TEAM HD 3">TEAM HD 3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-4" xmltv_id="TEAM HD 4">TEAM HD 4</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-5" xmltv_id="TEAM HD 5">TEAM HD 5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-land-hd" xmltv_id="TV Land HD">TV Land HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tele-el-salvador" xmltv_id="Tele El Salvador">Tele El Salvador</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/univision-deportes-network" xmltv_id="Univision Deportes Network">Univision Deportes Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/univision-tl-novelas" xmltv_id="Univision TL Novelas">Univision TL Novelas</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wasald-wasa-ld" xmltv_id="WASALD (WASA-LD)">WASALD (WASA-LD)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wrnndt2-wrnn-dt2" xmltv_id="WRNNDT2">WRNNDT2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wwordt3" xmltv_id="WWORDT3">WWORDT3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/xhaw-canal-12" xmltv_id="XHAW Canal 12">XHAW Canal 12</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bein-sport-hd" xmltv_id="beIN Sports HD">beIN Sports HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/trutv-hd" xmltv_id="truTV HD">truTV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/3-angels-broadcasting-network" xmltv_id="3 Angels Broadcasting Network">3 Angels Broadcasting Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wealth-tv" xmltv_id="A Wealth of Entertainment">A Wealth of Entertainment</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/y-m-sports" xmltv_id="A y M Sports">A y M Sports</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/actionmax-pacific" xmltv_id="ActionMAX (Pacific)">ActionMAX (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/byu-tv" xmltv_id="BYU-TV">BYU-TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/xeipn-us-feed-canal-once" xmltv_id="Canal Once">Canal Once</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cinemax-pacific" xmltv_id="CineMAX (Pacific)">CineMAX (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cinemax-hd-pacific" xmltv_id="CineMAX HD (Pacific)">CineMAX HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-pacific" xmltv_id="Encore (Pacific)">Encore (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-action-pacific" xmltv_id="Encore Action (Pacific)">Encore Action (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-drama-pacific" xmltv_id="Encore Black (Pacific)">Encore Black (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-love-pacific" xmltv_id="Encore Classic (Pacific)">Encore Classic (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-mystery-pacific" xmltv_id="Encore Suspense (Pacific)">Encore Suspense (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/familynet" xmltv_id="FamilyNet">FamilyNet</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/flix-pacific" xmltv_id="Flix (Pacific)">Flix (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-comedy-pacific" xmltv_id="HBO Comedy (Pacific)">HBO Comedy (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-family-pacific" xmltv_id="HBO Family (Pacific)">HBO Family (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-latino-pacific-feed" xmltv_id="HBO Latino (Pacific)">HBO Latino (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-signature-pacific" xmltv_id="HBO Signature (Pacific)">HBO Signature (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-zone-pacific" xmltv_id="HBO Zone (Pacific)">HBO Zone (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hdnet-movies" xmltv_id="HDNet Movies">HDNet Movies</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/jc-tv" xmltv_id="JUCE-TV">JUCE-TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor024" xmltv_id="Local Origination - LOOR024">Local Origination - LOOR024</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor026" xmltv_id="Local Origination - LOOR026">Local Origination - LOOR026</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor028" xmltv_id="Local Origination - LOOR028">Local Origination - LOOR028</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor030" xmltv_id="Local Origination - LOOR030">Local Origination - LOOR030</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/military-history-channel" xmltv_id="Military History Channel">Military History Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/moremax-pacific" xmltv_id="MoreMAX (Pacific)">MoreMAX (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/new-tang-dynasty-tv" xmltv_id="New Tang Dynasty TV">New Tang Dynasty TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ritmoson-us-feed" xmltv_id="Ritmoson US feed">Ritmoson US feed</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sbs-tv-korea" xmltv_id="SBS TV Korea">SBS TV Korea</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-pacific" xmltv_id="Showtime (Pacific)">Showtime (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-beyond-pacific" xmltv_id="Showtime Beyond (Pacific)">Showtime Beyond (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-extreme-pacific" xmltv_id="Showtime Extreme (Pacific)">Showtime Extreme (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-familyzone-pacific" xmltv_id="Showtime Familyzone (Pacific)">Showtime Familyzone (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-hd-pacific" xmltv_id="Showtime HD (Pacific)">Showtime HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-next-pacific" xmltv_id="Showtime Next (Pacific)">Showtime Next (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-showcase-pacific" xmltv_id="Showtime Showcase (Pacific)">Showtime Showcase (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-women-pacific" xmltv_id="Showtime Women (Pacific)">Showtime Women (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/smile-of-a-child-network" xmltv_id="Smile of a Child Network">Smile of a Child Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-pacific" xmltv_id="Starz (Pacific)">Starz (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-edge-pacific" xmltv_id="Starz Edge (Pacific)">Starz Edge (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/church-channel" xmltv_id="The Church Channel">The Church Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movie-channel-pacific" xmltv_id="The Movie Channel (Pacific)">The Movie Channel (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movie-channel-extra-pacific" xmltv_id="The Movie Channel Extra (Pacific)">The Movie Channel Extra (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sportsman-channel" xmltv_id="The Sportsman Channel">The Sportsman Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/thrillermax-pacific" xmltv_id="ThrillerMAX (Pacific)">ThrillerMAX (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wfty-telefutura" xmltv_id="WFTY">WFTY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wmnb-russian-tv-rtn-tv" xmltv_id="WMNB Russian TV (RTN TV)">WMNB Russian TV (RTN TV)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/xeimt-international-us-feed" xmltv_id="XEIMT International (US feed)">XEIMT International (US feed)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/armenian-public-channel" xmltv_id="Armenian Public Channel">Armenian Public Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/art-america" xmltv_id="Art America">Art America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bn-tv" xmltv_id="BN TV">BN TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/big-ten-network-hd" xmltv_id="Big Ten HD">Big Ten HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/big-ten-network" xmltv_id="Big Ten Network">Big Ten Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/big-ten-network-overflow" xmltv_id="Big Ten Network Overflow">Big Ten Network Overflow</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cnn-en-espanol-mexico-and-us" xmltv_id="CNN En Español- Mexico and US">CNN En Español- Mexico and US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cambodian-channel-ctn" xmltv_id="Cambodian Channel CTN">Cambodian Channel CTN</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cbeebies-tv" xmltv_id="Cbeebies TV">Cbeebies TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cine-estelar" xmltv_id="Cine Estelar">Cine Estelar</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cine-nostalgia" xmltv_id="Cine Nostalgia">Cine Nostalgia</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/dominican-view" xmltv_id="Dominican View">Dominican View</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epix-hd" xmltv_id="Epix HD">Epix HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo2-hd-pacific" xmltv_id="HBO 2 HD (Pacific)">HBO 2 HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-comedy-hd-pacific" xmltv_id="HBO Comedy HD (Pacific)">HBO Comedy HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-family-hd-pacific" xmltv_id="HBO Family HD (Pacific)">HBO Family HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-latino-hd-pacific" xmltv_id="HBO Latino HD (Pacific)">HBO Latino HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-signature-hd-pacific" xmltv_id="HBO Signature HD (Pacific)">HBO Signature HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-zone-hd-pacific" xmltv_id="HBO Zone HD (Pacific)">HBO Zone HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/discovery-kids-hd" xmltv_id="HUB HD">HUB HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/infinito-us-feed" xmltv_id="Infinito US Feed">Infinito US Feed</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/kuwait-tv" xmltv_id="Kuwait TV">Kuwait TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor032" xmltv_id="Local Origination - LOOR032">Local Origination - LOOR032</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor033" xmltv_id="Local Origination - LOOR033">Local Origination - LOOR033</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor035" xmltv_id="Local Origination - LOOR035">Local Origination - LOOR035</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor036" xmltv_id="Local Origination - LOOR036">Local Origination - LOOR036</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor037" xmltv_id="Local Origination - LOOR037">Local Origination - LOOR037</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor038" xmltv_id="Local Origination - LOOR038">Local Origination - LOOR038</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor039" xmltv_id="Local Origination - LOOR039">Local Origination - LOOR039</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor040" xmltv_id="Local Origination - LOOR040">Local Origination - LOOR040</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor042" xmltv_id="Local Origination - LOOR042">Local Origination - LOOR042</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor043" xmltv_id="Local Origination - LOOR043">Local Origination - LOOR043</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor044" xmltv_id="Local Origination - LOOR044">Local Origination - LOOR044</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor045" xmltv_id="Local Origination - LOOR045">Local Origination - LOOR045</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor046" xmltv_id="Local Origination - LOOR046">Local Origination - LOOR046</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor047" xmltv_id="Local Origination - LOOR047">Local Origination - LOOR047</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor499" xmltv_id="Local Origination - LOOR499">Local Origination - LOOR499</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mega-tv" xmltv_id="Mega TV">Mega TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/moremax-hd-pacific" xmltv_id="MoreMax HD (Pacific)">MoreMax HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/prosiebensat1-produktion" xmltv_id="ProSiebenSat1 Produktion">ProSiebenSat1 Produktion</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sino-tv" xmltv_id="SINO TV">SINO TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-extreme-hd-pacific" xmltv_id="Showtime Extreme HD (Pacific)">Showtime Extreme HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/smithsonian-network" xmltv_id="Smithsonian Network">Smithsonian Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/teleritmo" xmltv_id="Teleritmo">Teleritmo</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gospel-network" xmltv_id="The Gospel Network">The Gospel Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wpxndt2-wpxn-dt2" xmltv_id="WPXNDT2">WPXNDT2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wpxndt3-wpxn-dt3" xmltv_id="WPXNDT3">WPXNDT3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/weatherscan-local-network" xmltv_id="WeatherScan Local Network">WeatherScan Local Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/world-fishing-network-us" xmltv_id="World Fishing Network (US)">World Fishing Network (US)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/world-fishing-network-hd-us" xmltv_id="World Fishing Network HD (US)">World Fishing Network HD (US)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/alerta-tv-network" xmltv_id="Alerta TV Network">Alerta TV Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/barker-channel-vod" xmltv_id="Barker Channel VOD">Barker Channel VOD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/big-ten-network-overflow-2" xmltv_id="Big Ten Network Overflow 2">Big Ten Network Overflow 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cars-tv" xmltv_id="Cars TV">Cars TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cine-sony-television" xmltv_id="Cine Sony Television">Cine Sony Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cinemoi-us" xmltv_id="Cinemoi US">Cinemoi US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/comedy-tv/18715" xmltv_id="Comedy.TV">Comedy.TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epix-hd-2" xmltv_id="EPIX 2 HD">EPIX 2 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn-deportes-hd" xmltv_id="ESPN Deportes HD">ESPN Deportes HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-espanol" xmltv_id="Encore Español">Encore Español</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/entertainment-studios-tv" xmltv_id="Entertainment Studios.TV">Entertainment Studios.TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios-on-demand" xmltv_id="FiOS On Demand">FiOS On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios-quantum" xmltv_id="FiOS Quantum">FiOS Quantum</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios-tv-information" xmltv_id="FiOS TV Information">FiOS TV Information</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/foro-tv-us-feed" xmltv_id="Foro TV US Feed">Foro TV US Feed</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/globecast-rsc1-romania" xmltv_id="Globecast RSC1 Romania">Globecast RSC1 Romania</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/longhorn-network" xmltv_id="Longhorn Network HD">Longhorn Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/milenio-tv" xmltv_id="Milenio TV">Milenio TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/my-destination-tv" xmltv_id="My Destination TV">My Destination TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nbc-sports-network-hockey-black-out-hd" xmltv_id="NBC Sports Network Hockey Black Out HD">NBC Sports Network Hockey Black Out HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/new-england-sports-network-national" xmltv_id="New England Sports Network National">New England Sports Network National</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/one-world-sports" xmltv_id="One World Sports">One World Sports</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/pets-tv" xmltv_id="Pets TV">Pets TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/halogen-hd" xmltv_id="Pivot HD">Pivot HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/protv-international" xmltv_id="ProTV International">ProTV International</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/recipe-tv" xmltv_id="Recipe TV">Recipe TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sony-movie-channel-hd" xmltv_id="Sony Movie Channel HD">Sony Movie Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-guide-network-hd" xmltv_id="TV Guide Network HD">TV Guide Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-japan-hd" xmltv_id="TV Japan HD">TV Japan HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/telecare-tv" xmltv_id="Telecare TV">Telecare TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tyc-sports-international" xmltv_id="TyC Sports International">TyC Sports International</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-cine" xmltv_id="Ultra Cine">Ultra Cine</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-clasico" xmltv_id="Ultra Clasico">Ultra Clasico</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-documentary" xmltv_id="Ultra Documentary">Ultra Documentary</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-fiesta" xmltv_id="Ultra Fiesta">Ultra Fiesta</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-film" xmltv_id="Ultra Film">Ultra Film</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-kidz" xmltv_id="Ultra Kidz">Ultra Kidz</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-luna" xmltv_id="Ultra Luna">Ultra Luna</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-macho" xmltv_id="Ultra Macho">Ultra Macho</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ultra-mex" xmltv_id="Ultra Mex">Ultra Mex</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/universal-sports-hd" xmltv_id="Universal Sports HD">Universal Sports HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/univision-deportes-network-hd" xmltv_id="Univision Deportes Network HD">Univision Deportes Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vme-kids" xmltv_id="Vme Kids">Vme Kids</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wdvbcd2-wdvb-cd2" xmltv_id="WDVBCD2 (WDVB-CD2)">WDVBCD2 (WDVB-CD2)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wfty-dt-wfty-dt-telefutura" xmltv_id="WFTYDT">WFTYDT</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wnjudt2" xmltv_id="WNJUDT2">WNJUDT2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wpxold-wpxo-ld" xmltv_id="WPXOLD (WPXO-LD)">WPXOLD (WPXO-LD)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wrnndt5" xmltv_id="WRNNDT5">WRNNDT5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/xhawdt" xmltv_id="XHAWDT">XHAWDT</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bein-sport-en-espanol-hd" xmltv_id="beIN Sports En Español HD">beIN Sports En Español HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/art-cable" xmltv_id="ART Cable">ART Cable</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/al-jazeera-america-hd" xmltv_id="Al Jazeera America HD">Al Jazeera America HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/antena-3-internacional-hd" xmltv_id="Antena 3 Internacional HD">Antena 3 Internacional HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/arouse" xmltv_id="Arouse">Arouse</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/boomerang-latin-america" xmltv_id="Boomerang Latin America">Boomerang Latin America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/caracol-international" xmltv_id="CARACOL INTERNATIONAL">CARACOL INTERNATIONAL</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cuny" xmltv_id="CUNY">CUNY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn-goal-line-and-buzzer-beater-hd" xmltv_id="ESPN Goal Line &amp; Buzzer Beater HD">ESPN Goal Line &amp; Buzzer Beater HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios-learning-on-demand" xmltv_id="FiOS Learning on Demand">FiOS Learning on Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios-premiums" xmltv_id="FiOS Premiums">FiOS Premiums</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/france-24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/itv-gold-indian-channel" xmltv_id="ITV Gold (Indian Channel)">ITV Gold (Indian Channel)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/in-demand-hdpv-hd-events" xmltv_id="In Demand PPVHD (HD Events)">In Demand PPVHD (HD Events)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/star-one-us" xmltv_id="LIFE OK US">LIFE OK US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor016" xmltv_id="Local Origination - LOOR016">Local Origination - LOOR016</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor027" xmltv_id="Local Origination - LOOR027">Local Origination - LOOR027</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor1982" xmltv_id="Local Origination - LOOR1982">Local Origination - LOOR1982</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mbc-drama-hd" xmltv_id="MBC Drama HD">MBC Drama HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msg-overflow-ny-zone-1-hd" xmltv_id="MSG 2 HD Overflow Zone 1 (Verizon)">MSG 2 HD Overflow Zone 1 (Verizon)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msg-overflow-ny-zone-1" xmltv_id="MSG Overflow Zone 1 (Verizon)">MSG Overflow Zone 1 (Verizon)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/myx-channel" xmltv_id="MYX Channel">MYX Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/manhattan-neighborhood-net-pa56ny" xmltv_id="Manhattan Neighborhood Net - PA56NY">Manhattan Neighborhood Net - PA56NY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/manhattan-neighborhood-network-pa16ny" xmltv_id="Manhattan Neighborhood Network - PA16NY">Manhattan Neighborhood Network - PA16NY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/manhattan-neighborhood-network-pa34ny" xmltv_id="Manhattan Neighborhood Network - PA34NY">Manhattan Neighborhood Network - PA34NY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/manhattan-neighborhood-network-pa57ny" xmltv_id="Manhattan Neighborhood Network - PA57NY">Manhattan Neighborhood Network - PA57NY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/versus" xmltv_id="NBCSN">NBCSN</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/versus-hd" xmltv_id="NBCSN HD">NBCSN HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ntv-america-htb" xmltv_id="NTV America (HTB)">NTV America (HTB)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nyctv-71" xmltv_id="NYCTV 71">NYCTV 71</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nyctv-93" xmltv_id="NYCTV 93">NYCTV 93</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nyctv-government" xmltv_id="NYCTV Government">NYCTV Government</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nyctv-world" xmltv_id="NYCTV World">NYCTV World</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/new-york-1-news" xmltv_id="New York 1 News">New York 1 News</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/one-america-news-network" xmltv_id="One America News Network">One America News Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/one-america-news-network-hd" xmltv_id="One America News Network HD">One America News Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/premiere-futebol-clube" xmltv_id="Premiere Futebol Clube">Premiere Futebol Clube</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ntv-international" xmltv_id="RTV International">RTV International</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/rang-a-rang-tv" xmltv_id="Rang-A-Rang TV">Rang-A-Rang TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-bosnia" xmltv_id="Tv Bosnia">Tv Bosnia</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv-kanagawa" xmltv_id="Tv Kanagawa">Tv Kanagawa</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/v-me" xmltv_id="V-Me">V-Me</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/verizon-avail-tvn-event-tv" xmltv_id="Verizon Avail-TVN Event TV">Verizon Avail-TVN Event TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/verizon-msg-plus-upstate-ny-zone-1" xmltv_id="Verizon MSG Plus Upstate NY Zone 1">Verizon MSG Plus Upstate NY Zone 1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/verizon-in-demand-ppvhd-hd-events" xmltv_id="Verizon iN Demand PPVHD (HD Events)">Verizon iN Demand PPVHD (HD Events)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wabcdt3-wabc-dt3" xmltv_id="WABCDT3">WABCDT3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wftydt3" xmltv_id="WFTYDT3">WFTYDT3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wfut-telefutura" xmltv_id="WFUT">WFUT</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wow-direct-response-tv" xmltv_id="WOW Direct Response Tv">WOW Direct Response Tv</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wvvhlp" xmltv_id="WVVHLP">WVVHLP</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/willow-cricket-hd" xmltv_id="Willow Cricket HD">Willow Cricket HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/azteca-america-network-eastern" xmltv_id="Azteca America Network">Azteca America Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cnn-en-espanol-united-states" xmltv_id="CNN en Español United States">CNN en Español United States</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cts-korean-christian-channel" xmltv_id="CTS Korean Christian Channel">CTS Korean Christian Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cartoon-network-latinam" xmltv_id="Cartoon Network Mexico">Cartoon Network Mexico</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-channel-pacific" xmltv_id="Disney Channel (Pacific)">Disney Channel (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ettv-drama" xmltv_id="ETTV Drama">ETTV Drama</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ewtn-latin-america" xmltv_id="EWTN Latin America">EWTN Latin America</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/educational-access-edac077" xmltv_id="Educational Access - EDAC077">Educational Access - EDAC077</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/filmy" xmltv_id="Filmy">Filmy</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/g4" xmltv_id="G4">G4</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gma-life-tv" xmltv_id="GMA Life TV">GMA Life TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hoa-channel" xmltv_id="HOA Channel">HOA Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/infinito-latin-america" xmltv_id="Infinito (Latin America)">Infinito (Latin America)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/leased-access-leac035" xmltv_id="Leased Access - LEAC035">Leased Access - LEAC035</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/link-tv" xmltv_id="Link TV">Link TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor008" xmltv_id="Local Origination - LOOR008">Local Origination - LOOR008</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor010" xmltv_id="Local Origination - LOOR010">Local Origination - LOOR010</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor014" xmltv_id="Local Origination - LOOR014">Local Origination - LOOR014</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor015" xmltv_id="Local Origination - LOOR015">Local Origination - LOOR015</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor022" xmltv_id="Local Origination - LOOR022">Local Origination - LOOR022</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor056" xmltv_id="Local Origination - LOOR056">Local Origination - LOOR056</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor057" xmltv_id="Local Origination - LOOR057">Local Origination - LOOR057</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor095" xmltv_id="Local Origination - LOOR095">Local Origination - LOOR095</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor096" xmltv_id="Local Origination - LOOR096">Local Origination - LOOR096</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor097" xmltv_id="Local Origination - LOOR097">Local Origination - LOOR097</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor098" xmltv_id="Local Origination - LOOR098">Local Origination - LOOR098</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msg-plus-upstate-ny" xmltv_id="MSG Plus Zone 2">MSG Plus Zone 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/msg-zone-2" xmltv_id="MSG Zone 2">MSG Zone 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mavtv" xmltv_id="MavTV">MavTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movieplex" xmltv_id="MoviePlex">MoviePlex</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ndtv-24-7" xmltv_id="NDTV 24/7">NDTV 24/7</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ntv-plus" xmltv_id="NTV Plus">NTV Plus</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ppvp-pay-per-view-previews" xmltv_id="PPVP/Pay-Per-View Previews">PPVP/Pay-Per-View Previews</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/phoenix-info-news" xmltv_id="Phoenix Info News">Phoenix Info News</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/public-access-puac076" xmltv_id="Public Access - PUAC076">Public Access - PUAC076</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/qubo-channel" xmltv_id="Qubo Channel">Qubo Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-sports-northwest-alt-fsn2" xmltv_id="ROOT Sports Northwest (Alt.) - RTN2">ROOT Sports Northwest (Alt.) - RTN2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/scola-news-of-all-nations" xmltv_id="Scola/News of All Nations">Scola/News of All Nations</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/star-gold-us" xmltv_id="Star Gold US">Star Gold US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvb-viet-nam" xmltv_id="TVB Viet Nam">TVB Viet Nam</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvb1" xmltv_id="TVB1">TVB1</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvb2" xmltv_id="TVB2">TVB2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvk1-aka-tvk24" xmltv_id="TVK1 (AKA TVK24)">TVK1 (AKA TVK24)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/africa-channel" xmltv_id="The Africa Channel">The Africa Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/chinese-channel/5821" xmltv_id="The Chinese Channel">The Chinese Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/net" xmltv_id="The NET">The NET</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/time-warner-sports-milwaukee" xmltv_id="Time Warner Cable SportsChannel">Time Warner Cable SportsChannel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/americanlife-tv-network" xmltv_id="YOUTOO">YOUTOO</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bein-sport" xmltv_id="beIN Sports">beIN Sports</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bein-sport-en-espanol" xmltv_id="beIN Sports En Español">beIN Sports En Español</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/star-news-us" xmltv_id="ABP NEWS US">ABP NEWS US</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/automotive-on-demand" xmltv_id="Automotive On Demand">Automotive On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bollywood-on-demand" xmltv_id="Bollywood On Demand">Bollywood On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/canal-24-horas" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cinemax-on-demand" xmltv_id="Cinemax On Demand">Cinemax On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/cutting-edge-on-demand" xmltv_id="Cutting Edge On Demand">Cutting Edge On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-on-demand" xmltv_id="Disney On Demand">Disney On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/dom-kino" xmltv_id="Dom Kino">Dom Kino</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-on-demand" xmltv_id="ENCORE On Demand">ENCORE On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/et-china" xmltv_id="ET China">ET China</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/et-global-ny" xmltv_id="ET Global NY">ET Global NY</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ettv-news" xmltv_id="ETTV News">ETTV News</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/entertainment-on-demand/8195" xmltv_id="Entertainment On Demand">Entertainment On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/filipino-on-demand" xmltv_id="Filipino on Demand">Filipino on Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fuel-tv-hd" xmltv_id="Fox Sports 2 HD">Fox Sports 2 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/free-movies-on-demand" xmltv_id="Free Movies On Demand">Free Movies On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/htv-hispano-television" xmltv_id="HTV Hispano Television">HTV Hispano Television</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/help-on-demand" xmltv_id="Help on Demand">Help on Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/information-channel-info099" xmltv_id="Information Channel - INFO099">Information Channel - INFO099</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/kids-kids-channel-on-demand" xmltv_id="KIDS (Kids Channel) On Demand">KIDS (Kids Channel) On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/kids-and-teens-on-demand" xmltv_id="Kids and Teens On Demand">Kids and Teens On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/leased-access-leac" xmltv_id="Leased Access - LEAC">Leased Access - LEAC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/lifestyle-on-demand" xmltv_id="Lifestyle On Demand">Lifestyle On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-on-demand" xmltv_id="Local On Demand">Local On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mega-greek-variety" xmltv_id="Mega Cosmos (US)">Mega Cosmos (US)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movies-on-demand" xmltv_id="Movies On Demand">Movies On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/music-choice-on-demand" xmltv_id="Music Choice On Demand">Music Choice On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/music-on-demand" xmltv_id="Music On Demand">Music On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/muzika-pervogo-m1-ny" xmltv_id="Muzika Pervogo (M1-NY)">Muzika Pervogo (M1-NY)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nasa-tv" xmltv_id="NASA TV">NASA TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/nhk-world-tv" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ny1-noticias-for-time-warner" xmltv_id="NY1 Noticias for Time Warner">NY1 Noticias for Time Warner</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/new-york-state-legislative-channel" xmltv_id="New York State Legislative Channel">New York State Legislative Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/outdoor-on-demand" xmltv_id="Outdoor On Demand">Outdoor On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/russia-today" xmltv_id="RT">RT</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/rossiya-24" xmltv_id="Rossiya 24">Rossiya 24</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/showtime-on-demand" xmltv_id="Showtime On Demand">Showtime On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-and-fitness-on-demand" xmltv_id="Sports and Fitness On Demand">Sports and Fitness On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tmc-on-demand" xmltv_id="TMC On Demand">TMC On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvbs" xmltv_id="TVBS">TVBS</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvn-24" xmltv_id="TVN 24">TVN 24</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvn-international" xmltv_id="TVN International">TVN International</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/arabic-channel" xmltv_id="The Arabic Channel">The Arabic Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/jewish-channel-on-demand" xmltv_id="The Jewish Channel On Demand">The Jewish Channel On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/korean-channel-tkc" xmltv_id="The Korean Channel (TKC)">The Korean Channel (TKC)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/universal-sports" xmltv_id="Universal Sports">Universal Sports</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/video-on-demand" xmltv_id="Video On Demand">Video On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vremya" xmltv_id="Vremya">Vremya</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/yoyo-tv" xmltv_id="YOYO-TV">YOYO-TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/here-on-demand" xmltv_id="here! On Demand">here! On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/3d-tv1-time-warner" xmltv_id="3D-TV1 Time Warner">3D-TV1 Time Warner</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/banglavision" xmltv_id="BanglaVision">BanglaVision</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/big-ten-network-new-york" xmltv_id="Big Ten Network (New York)">Big Ten Network (New York)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/channel-guide" xmltv_id="Channel Guide">Channel Guide</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/crime-and-investigation-network-hd" xmltv_id="Crime &amp; Investigation Network HD">Crime &amp; Investigation Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/crossings-tv" xmltv_id="Crossings TV - New York/New Jersey">Crossings TV - New York/New Jersey</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-family-movies-on-demand" xmltv_id="Disney Family Movies On Demand">Disney Family Movies On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/do-it-yourself-network-hd" xmltv_id="Do-It-Yourself Network HD">Do-It-Yourself Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/espn-goal-line" xmltv_id="ESPN Goal Line">ESPN Goal Line</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ebru-tv" xmltv_id="Ebru TV">Ebru TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epix-pacific" xmltv_id="Epix (Pacific)">Epix (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/3-from-epix" xmltv_id="Epix Drive-in">Epix Drive-in</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epix-on-demand" xmltv_id="Epix On Demand">Epix On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/style-hd" xmltv_id="Esquire HD">Esquire HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/g4-hd" xmltv_id="G4 HD">G4 HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/gsn-hd" xmltv_id="GSN HD">GSN HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hbo-on-demand/10812" xmltv_id="HBO on Demand">HBO on Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hln-hd" xmltv_id="HLN HD">HLN HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/hallmark-channel-hd" xmltv_id="Hallmark Channel HD">Hallmark Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/home-shopping-network-2" xmltv_id="Home Shopping Network 2">Home Shopping Network 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/jewish-life-tv" xmltv_id="Jewish Life TV">Jewish Life TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/korean-broadcasting-network" xmltv_id="Korean Broadcasting Network">Korean Broadcasting Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/lo-mejor-on-demand" xmltv_id="Lo Mejor On Demand">Lo Mejor On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor994" xmltv_id="Local Origination - LOOR994">Local Origination - LOOR994</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/korean-digital-tv-koread2" xmltv_id="Media Korea TV">Media Korea TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/moviepass-on-demand" xmltv_id="MoviePass On Demand">MoviePass On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movies-on-demand-hits" xmltv_id="Movies on Demand-Hits">Movies on Demand-Hits</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ny1-traffic-channel" xmltv_id="NY1 Traffic Channel">NY1 Traffic Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/history-and-nature-on-demand" xmltv_id="Nature &amp; Knowledge on Demand">Nature &amp; Knowledge on Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/one-caribbean-weather" xmltv_id="One Caribbean Weather">One Caribbean Weather</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/primetime-free-on-demand" xmltv_id="Primetime Free On Demand">Primetime Free On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/reelzchannel-hd" xmltv_id="ReelzChannel HD">ReelzChannel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/russian-kino" xmltv_id="Russian Kino">Russian Kino</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-ppv-01-premium" xmltv_id="SPORTS PPV 01 (Premium)">SPORTS PPV 01 (Premium)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-ppv-02-premium" xmltv_id="SPORTS PPV 02 (Premium)">SPORTS PPV 02 (Premium)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-ppv-03-premium" xmltv_id="SPORTS PPV 03 (Premium)">SPORTS PPV 03 (Premium)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-ppv-04-premium" xmltv_id="SPORTS PPV 04 (Premium)">SPORTS PPV 04 (Premium)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-ppv-05-premium" xmltv_id="SPORTS PPV 05 (Premium)">SPORTS PPV 05 (Premium)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sports-ppv-06-premium" xmltv_id="SPORTS PPV 06 (Premium)">SPORTS PPV 06 (Premium)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/smithsonian-hd-on-demand" xmltv_id="Smithsonian HD On Demand">Smithsonian HD On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/starz-on-demand/13137" xmltv_id="Starz On Demand">Starz On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tvk2" xmltv_id="TVK2">TVK2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tw-cust-ontwc" xmltv_id="TW CUST ONTWC">TW CUST ONTWC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/movie-channel-extra-hd-pacific" xmltv_id="The Movie Channel Extra HD (Pacific)">The Movie Channel Extra HD (Pacific)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/time-warner-cable-sports-2/14167" xmltv_id="Time Warner Cable Sports 2">Time Warner Cable Sports 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/turner-classic-movies-hd" xmltv_id="Turner Classic Movies HD">Turner Classic Movies HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/utv-movies/12119" xmltv_id="UTV Movies">UTV Movies</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/united-nations-tv" xmltv_id="United Nations TV">United Nations TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wfutdt-wfut-dt-telefutura" xmltv_id="WFUTDT">WFUTDT</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/willow-tv" xmltv_id="Willow Cricket">Willow Cricket</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/time-warner-columbus-3dtv" xmltv_id="3DTV Time Warner">3DTV Time Warner</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/aspire" xmltv_id="ASPiRE">ASPiRE</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/bloom-business-television-hd" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/broadway-channel" xmltv_id="Broadway Channel">Broadway Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ctc" xmltv_id="CTC">CTC</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/disney-junior-us-hd" xmltv_id="Disney Junior US HD">Disney Junior US HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epg-tw-cust-corp-his-on-demand" xmltv_id="EPG TW Cust Corp HIS On Demand">EPG TW Cust Corp HIS On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epix-2-sd-version" xmltv_id="EPIX 2 (SD Version)">EPIX 2 (SD Version)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/et-financial-news" xmltv_id="ET Financial News">ET Financial News</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/encore-action-hd" xmltv_id="Encore Action HD">Encore Action HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/epix-3-sd" xmltv_id="Epix 3 SD">Epix 3 SD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fox-movie-channel-hd" xmltv_id="FX Movie Channel HD">FX Movie Channel HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios1-dc" xmltv_id="FiOS 1 Westchester">FiOS 1 Westchester</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios1-li" xmltv_id="FiOS1 LI">FiOS1 LI</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios1-li-hd" xmltv_id="FiOS1 LI HD">FiOS1 LI HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/giny35" xmltv_id="GINY35">GINY35</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/globecast-tvk" xmltv_id="Globecast TVK">Globecast TVK</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/justice-central-hd" xmltv_id="Justice Central HD">Justice Central HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/justice-central-sd" xmltv_id="Justice Central SD">Justice Central SD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/kbs-world-palau" xmltv_id="KBS World (Palau)">KBS World (Palau)</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/local-origination-loor1983" xmltv_id="Local Origination - LOOR1983">Local Origination - LOOR1983</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/me-tv-network" xmltv_id="Me TV Network">Me TV Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mediaset-italia" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/oprah-winfrey-network-hd" xmltv_id="Oprah Winfrey Network HD">Oprah Winfrey Network HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ovation-tv-hd" xmltv_id="Ovation TV HD">Ovation TV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/pac-12-network" xmltv_id="Pac-12 Network">Pac-12 Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/rt-in-spanish" xmltv_id="RT in Spanish">RT in Spanish</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/real-xx-5-on-demand" xmltv_id="Real XX.5 On Demand">Real XX.5 On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/real-xx-5-premium" xmltv_id="Real XX.5 Premium">Real XX.5 Premium</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/shalom-tv" xmltv_id="Shalom TV">Shalom TV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/zea2y" xmltv_id="Shop Zeal 2">Shop Zeal 2</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/zea3w" xmltv_id="Shop Zeal 3">Shop Zeal 3</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/zea4w" xmltv_id="Shop Zeal 4">Shop Zeal 4</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/zea5y" xmltv_id="Shop Zeal 5">Shop Zeal 5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/sundance-channel-hd" xmltv_id="SundanceTV HD">SundanceTV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-6" xmltv_id="TEAM HD 6">TEAM HD 6</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-7" xmltv_id="TEAM HD 7">TEAM HD 7</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-8" xmltv_id="TEAM HD 8">TEAM HD 8</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/team-hd-9" xmltv_id="TEAM HD 9">TEAM HD 9</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tw-manhattan-chicin" xmltv_id="TW Manhattan CHICIN">TW Manhattan CHICIN</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tw-sports-pass-on-demand" xmltv_id="TW Sports Pass On Demand">TW Sports Pass On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ten-xx-5-on-demand" xmltv_id="Ten XX.5 On Demand">Ten XX.5 On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/ten-xx-5-premium" xmltv_id="Ten XX.5 Premium">Ten XX.5 Premium</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/filipino-channel-east-feed" xmltv_id="The Filipino Channel">The Filipino Channel</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tivo-help" xmltv_id="TiVo Help">TiVo Help</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/time-warner-cable-deportes-sd" xmltv_id="Time Warner Cable Deportes SD">Time Warner Cable Deportes SD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/time-warner-cable-how-to-on-demand" xmltv_id="Time Warner Cable How To On Demand">Time Warner Cable How To On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/time-warner-cable-sportsnet-national-sd" xmltv_id="Time Warner Cable Sportsnet National SD">Time Warner Cable Sportsnet National SD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vividtv" xmltv_id="VividTV">VividTV</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/xtsy-xx5" xmltv_id="XTSY XX5">XTSY XX5</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/comedy-tv-hd" xmltv_id="Comedy.TV HD">Comedy.TV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/el-rey-network" xmltv_id="El Rey Network">El Rey Network</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios1-dc-hd" xmltv_id="FiOS 1 Westchester HD">FiOS 1 Westchester HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios1-nj" xmltv_id="FiOS1 NJ">FiOS1 NJ</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/fios1-nj-hd" xmltv_id="FiOS1 NJ HD">FiOS1 NJ HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/mlb-network-strike-zone" xmltv_id="MLB Network Strike Zone">MLB Network Strike Zone</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/pets-tv-hd" xmltv_id="Pets TV HD">Pets TV HD</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/pro-sports-on-demand" xmltv_id="Pro Sports On Demand">Pro Sports On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/qvc-plus" xmltv_id="QVC Plus">QVC Plus</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/revolt" xmltv_id="Revolt">Revolt</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/tv84" xmltv_id="TV84">TV84</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/time-warner-cable-sportsnet-la-blackout" xmltv_id="Time Warner Cable SportsNet LA Blackout">Time Warner Cable SportsNet LA Blackout</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/vivid-on-demand" xmltv_id="Vivid On Demand">Vivid On Demand</channel>
+    <channel update="i" site="locatetv.com" site_id="/listings/wfutdt3" xmltv_id="WFUTDT3">WFUTDT3</channel>
+  </channels>
+</site>

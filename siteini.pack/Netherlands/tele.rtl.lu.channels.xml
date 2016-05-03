@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/47 -- Jan van Straaten" site="tele.rtl.lu">
+  <channels>
+    <channel update="i" site="tele.rtl.lu" site_id="?programm=1" xmltv_id="Programm 1. RTL">Programm 1. RTL</channel>
+    <channel update="i" site="tele.rtl.lu" site_id="?programm=2" xmltv_id="Programm 2. RTL">Programm 2. RTL</channel>
+  </channels>
+</site>

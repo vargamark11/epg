@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus version 1.0.8 Beta -- Jan van Straaten" site="toptv.co.za">
+  <channels>
+    <channel update="i" site="toptv.co.za" site_id="58" xmltv_id="Top One">Top One</channel>
+    <channel update="i" site="toptv.co.za" site_id="50" xmltv_id="Top Explore">Top Explore</channel>
+    <channel update="i" site="toptv.co.za" site_id="51" xmltv_id="Top Gospel">Top Gospel</channel>
+    <channel update="i" site="toptv.co.za" site_id="52" xmltv_id="Top History">Top History</channel>
+    <channel update="i" site="toptv.co.za" site_id="53" xmltv_id="Top Junior">Top Junior</channel>
+    <channel update="i" site="toptv.co.za" site_id="54" xmltv_id="Top Learn">Top Learn</channel>
+    <channel update="i" site="toptv.co.za" site_id="55" xmltv_id="Top Movies +2">Top Movies +2</channel>
+    <channel update="i" site="toptv.co.za" site_id="56" xmltv_id="Top Movies +24">Top Movies +24</channel>
+    <channel update="i" site="toptv.co.za" site_id="57" xmltv_id="Top Movies">Top Movies</channel>
+    <channel update="i" site="toptv.co.za" site_id="62" xmltv_id="1KZN">1KZN</channel>
+    <channel update="i" site="toptv.co.za" site_id="2" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="toptv.co.za" site_id="3" xmltv_id="Al Mizan">Al Mizan</channel>
+    <channel update="i" site="toptv.co.za" site_id="4" xmltv_id="ASTV">ASTV</channel>
+    <channel update="i" site="toptv.co.za" site_id="5" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="toptv.co.za" site_id="6" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="toptv.co.za" site_id="7" xmltv_id="BET">BET</channel>
+    <channel update="i" site="toptv.co.za" site_id="8" xmltv_id="C MUSIC TV">C MUSIC TV</channel>
+    <channel update="i" site="toptv.co.za" site_id="9" xmltv_id="Channel [V]">Channel [V]</channel>
+    <channel update="i" site="toptv.co.za" site_id="10" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="toptv.co.za" site_id="11" xmltv_id="Current TV">Current TV</channel>
+    <channel update="i" site="toptv.co.za" site_id="12" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="toptv.co.za" site_id="14" xmltv_id="E TV">E TV</channel>
+    <channel update="i" site="toptv.co.za" site_id="15" xmltv_id="Eurosport News">Eurosport News</channel>
+    <channel update="i" site="toptv.co.za" site_id="16" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="toptv.co.za" site_id="17" xmltv_id="Fine Living Network">Fine Living Network</channel>
+    <channel update="i" site="toptv.co.za" site_id="1" xmltv_id="Fox Entertainment">Fox Entertainment</channel>
+    <channel update="i" site="toptv.co.za" site_id="18" xmltv_id="Fox News Channel">Fox News Channel</channel>
+    <channel update="i" site="toptv.co.za" site_id="19" xmltv_id="Fox Retro">Fox Retro</channel>
+    <channel update="i" site="toptv.co.za" site_id="20" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="toptv.co.za" site_id="21" xmltv_id="FUEL TV">FUEL TV</channel>
+    <channel update="i" site="toptv.co.za" site_id="22" xmltv_id="FX">FX</channel>
+    <channel update="i" site="toptv.co.za" site_id="23" xmltv_id="God TV">God TV</channel>
+    <channel update="i" site="toptv.co.za" site_id="24" xmltv_id="Hi Nolly">Hi Nolly</channel>
+    <channel update="i" site="toptv.co.za" site_id="25" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+    <channel update="i" site="toptv.co.za" site_id="26" xmltv_id="Inspiration">Inspiration</channel>
+    <channel update="i" site="toptv.co.za" site_id="27" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="toptv.co.za" site_id="28" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="toptv.co.za" site_id="30" xmltv_id="Kiss">Kiss</channel>
+    <channel update="i" site="toptv.co.za" site_id="31" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="toptv.co.za" site_id="32" xmltv_id="MGM">MGM</channel>
+    <channel update="i" site="toptv.co.za" site_id="33" xmltv_id="MSNBC">MSNBC</channel>
+    <channel update="i" site="toptv.co.za" site_id="34" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="toptv.co.za" site_id="35" xmltv_id="Natura">Natura</channel>
+    <channel update="i" site="toptv.co.za" site_id="36" xmltv_id="One Music">One Music</channel>
+    <channel update="i" site="toptv.co.za" site_id="37" xmltv_id="Q">Q</channel>
+    <channel update="i" site="toptv.co.za" site_id="38" xmltv_id="RTP International">RTP International</channel>
+    <channel update="i" site="toptv.co.za" site_id="39" xmltv_id="SABC 1">SABC 1</channel>
+    <channel update="i" site="toptv.co.za" site_id="40" xmltv_id="SABC 2">SABC 2</channel>
+    <channel update="i" site="toptv.co.za" site_id="41" xmltv_id="SABC 3">SABC 3</channel>
+    <channel update="i" site="toptv.co.za" site_id="42" xmltv_id="Setanta Africa">Setanta Africa</channel>
+    <channel update="i" site="toptv.co.za" site_id="43" xmltv_id="Showtime">Showtime</channel>
+    <channel update="i" site="toptv.co.za" site_id="44" xmltv_id="Silver">Silver</channel>
+    <channel update="i" site="toptv.co.za" site_id="45" xmltv_id="Smash Hits!">Smash Hits!</channel>
+    <channel update="i" site="toptv.co.za" site_id="46" xmltv_id="Star Gold">Star Gold</channel>
+    <channel update="i" site="toptv.co.za" site_id="47" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="toptv.co.za" site_id="48" xmltv_id="Star!">Star!</channel>
+    <channel update="i" site="toptv.co.za" site_id="13" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="toptv.co.za" site_id="59" xmltv_id="Vijay">Vijay</channel>
+    <channel update="i" site="toptv.co.za" site_id="60" xmltv_id="Zee Cinema">Zee Cinema</channel>
+  </channels>
+</site>

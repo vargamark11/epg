@@ -1,0 +1,31 @@
+Customize locatetv.com.ini Rev 2 and higher     
+										Francis De Paemeleere 26/06/2014
+
+* this site needs a cookie file to work correctly. (only for .channel.xml generation!)
+* steps to do
+
+**************************************************************************************************
+*           configure your settings on the site
+**************************************************************************************************
+01. go to the site  (http://www.locatetv.com/listings)
+02. on the page locate 'local listings for:' and set your prefs
+03. save the settings (click "Save")
+**************************************************************************************************
+*           save the cookie file
+**************************************************************************************************
+04. get the cookie file for this site and save it as "locatetv.com_cookies.txt"
+    see http://webgrabplus.com/documentation/configuration/cookie
+	for more info about cookie saving
+05. put "locatetv.com_cookies.txt" into the same directory as the .ini
+**************************************************************************************************
+*           generate your own locatetv.com.channel.xml file
+**************************************************************************************************
+06. open locatetv.com.ini with a text editor
+07. remove the FIRST * in all the lines between @auto_xml_channel_start and @auto_xml_channel_end
+08. in the WebGrab++.config.xml file, add a dummy channel like this:
+    <channel update="i" site="locatetv.com" site_id="" xmltv_id="dummy">dummy</channel>
+09. run WG++ once.
+10. your should get a locatetv.com.channel.xml file in the same directory as the .ini file
+11. put the first * back in all the lines between @auto_xml_channel_start and @auto_xml_channel_end
+12. use the locatetv.com.channel.xml to setup your WebGrab++.config.xml file (you can now remove the dummy channels from 08.)
+13. in locatetv.com.ini, adjust the value for timezone=US/Eastern (e.g. US/Central US/Mountain US/Alaska etc or simply GB for the UK and Ireland)

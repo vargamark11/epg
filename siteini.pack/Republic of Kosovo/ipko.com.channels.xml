@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/49 -- Jan van Straaten" site="ipko.com">
+  <channels>
+    <channel update="i" site="ipko.com" site_id="EXP%20shkence" xmltv_id="EXP shkence">EXP shkence</channel>
+    <channel update="i" site="ipko.com" site_id="EXP%20histori" xmltv_id="EXP histori">EXP histori</channel>
+    <channel update="i" site="ipko.com" site_id="EXP%20natyra" xmltv_id="EXP natyra">EXP natyra</channel>
+    <channel update="i" site="ipko.com" site_id="Nat%20Geo%20HD" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="ipko.com" site_id="National%20Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="ipko.com" site_id="Nat%20Geo%20Wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="ipko.com" site_id="Travel" xmltv_id="Travel">Travel</channel>
+    <channel update="i" site="ipko.com" site_id="Fox%20Crime" xmltv_id="Fox Crime">Fox Crime</channel>
+    <channel update="i" site="ipko.com" site_id="Fox%20Life" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="ipko.com" site_id="T" xmltv_id="T">T</channel>
+    <channel update="i" site="ipko.com" site_id="Top%20Channel" xmltv_id="Top Channel">Top Channel</channel>
+    <channel update="i" site="ipko.com" site_id="TopNews" xmltv_id="TopNews">TopNews</channel>
+    <channel update="i" site="ipko.com" site_id="Bang%20Bang" xmltv_id="Bang Bang">Bang Bang</channel>
+    <channel update="i" site="ipko.com" site_id="Cufo" xmltv_id="Cufo">Cufo</channel>
+    <channel update="i" site="ipko.com" site_id="Junior%20TV" xmltv_id="Junior TV">Junior TV</channel>
+    <channel update="i" site="ipko.com" site_id="Disney%20Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport-1" xmltv_id="SuperSport-1">SuperSport-1</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport-2" xmltv_id="SuperSport-2">SuperSport-2</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport-3" xmltv_id="SuperSport-3">SuperSport-3</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport-4" xmltv_id="SuperSport-4">SuperSport-4</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport-5" xmltv_id="SuperSport-5">SuperSport-5</channel>
+    <channel update="i" site="ipko.com" site_id="EuroSport%20HD" xmltv_id="EuroSport HD">EuroSport HD</channel>
+    <channel update="i" site="ipko.com" site_id="EuroSport%202%20HD" xmltv_id="EuroSport 2 HD">EuroSport 2 HD</channel>
+    <channel update="i" site="ipko.com" site_id="Film%20Nje%20HD" xmltv_id="Film Nje HD">Film Nje HD</channel>
+    <channel update="i" site="ipko.com" site_id="Film%20Dy%20HD" xmltv_id="Film Dy HD">Film Dy HD</channel>
+    <channel update="i" site="ipko.com" site_id="Plus%20HD" xmltv_id="Plus HD">Plus HD</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport%20HD%201" xmltv_id="SuperSport HD 1">SuperSport HD 1</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport%20HD%202" xmltv_id="SuperSport HD 2">SuperSport HD 2</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport%20HD%203" xmltv_id="SuperSport HD 3">SuperSport HD 3</channel>
+    <channel update="i" site="ipko.com" site_id="SuperSport%20HD%204" xmltv_id="SuperSport HD 4">SuperSport HD 4</channel>
+  </channels>
+</site>

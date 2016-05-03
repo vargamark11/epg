@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.55.11/0.02 -- Jan van Straaten" site="elcinema.com">
+<channels>
+<channel update="i" site="elcinema.ar.com" site_id="1268" xmltv_id="بانوراما سينما">بانوراما سينما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1132" xmltv_id="إم بي سي ماكس">إم بي سي ماكس</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1262" xmltv_id="زي أفلام">زي أفلام</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1128" xmltv_id="إم بي سي 2">إم بي سي 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1130" xmltv_id="إم بي سي أكشن">إم بي سي أكشن</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1125" xmltv_id="فوكس موفيز">فوكس موفيز</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1163" xmltv_id="بانوراما فيلم ">بانوراما فيلم </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1219" xmltv_id="بانوراما أكشن">بانوراما أكشن</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1237" xmltv_id="النهار موفيز">النهار موفيز</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1234" xmltv_id="ماجيستيك سينما 50/50">ماجيستيك سينما 50/50</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1212" xmltv_id="ستار موفيز">ستار موفيز</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1249" xmltv_id="أو إس إن موفيز فستيفال">أو إس إن موفيز فستيفال</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1213" xmltv_id="أو إس إن بريميير">أو إس إن بريميير</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1214" xmltv_id="أو إس ان بريميير 2+">أو إس ان بريميير 2+</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1209" xmltv_id="أو إس إن موفيز">أو إس إن موفيز</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1210" xmltv_id="أو إس إن موفيز 2">أو إس إن موفيز 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1230" xmltv_id="أو أس إن أكشن">أو أس إن أكشن</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1211" xmltv_id="أو إس إن موفيز أكشن">أو إس إن موفيز أكشن</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1232" xmltv_id="أو إس إن موفيز كيدز">أو إس إن موفيز كيدز</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1229" xmltv_id="أو أس إن موفيز دراما">أو أس إن موفيز دراما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1238" xmltv_id="أو إس ان موفيز دراما +2">أو إس ان موفيز دراما +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1231" xmltv_id="أو إس إن موفيز كوميدي">أو إس إن موفيز كوميدي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1195" xmltv_id="إيه آر تي سينما">إيه آر تي سينما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1120" xmltv_id="إيه آر تي أفلام 1">إيه آر تي أفلام 1</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1121" xmltv_id="إيه آر تي افلام 2  ">إيه آر تي افلام 2  </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1217" xmltv_id="روتانا كلاسيك">روتانا كلاسيك</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1148" xmltv_id="روتانا سينما ">روتانا سينما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1218" xmltv_id="روتانا أفلام">روتانا أفلام</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1144" xmltv_id="الشاشة ">الشاشة </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1150" xmltv_id="أوربت سينما 1">أوربت سينما 1</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1151" xmltv_id="أوربت سينما 2">أوربت سينما 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1215" xmltv_id="السبكي سينما">السبكي سينما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1196" xmltv_id="سما سينما ">سما سينما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1154" xmltv_id="ميلودي أفلام ">ميلودي أفلام </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1157" xmltv_id="نايل سينما ">نايل سينما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1139" xmltv_id="الحياة سينما ">الحياة سينما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1152" xmltv_id="كايرو سينما ">كايرو سينما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1176" xmltv_id="سيما ">سيما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1189" xmltv_id="أورينت ">أورينت </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1207" xmltv_id="القناة السابعة المغربية للأفلام">القناة السابعة المغربية للأفلام</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1173" xmltv_id="دبي وان">دبي وان</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1247" xmltv_id="تي سي إم">تي سي إم</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1248" xmltv_id="إم جي إم">إم جي إم</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1259" xmltv_id="إم بي سي بوليوود">إم بي سي بوليوود</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1147" xmltv_id="روتانا زمان ">روتانا زمان </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1129" xmltv_id="إم بي سي 4">إم بي سي 4</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1228" xmltv_id="فوكس">فوكس</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1126" xmltv_id="أف إكس">أف إكس</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1254" xmltv_id="أو إس إن فرست">أو إس إن فرست</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1256" xmltv_id=" أو إس إن فرست +2"> أو إس إن فرست +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1255" xmltv_id=" أو إس إن فرست مور"> أو إس إن فرست مور</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1257" xmltv_id="أو إس إن فرست كوميدي">أو إس إن فرست كوميدي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1258" xmltv_id=" أو إس إن فرست كوميدي +2"> أو إس إن فرست كوميدي +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1253" xmltv_id="المحور دراما">المحور دراما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1138" xmltv_id="الحياة مسلسلات">الحياة مسلسلات</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1187" xmltv_id="الحياة  2">الحياة  2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1202" xmltv_id="إيه آر تي حكايات كمان">إيه آر تي حكايات كمان</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1122" xmltv_id="إيه آر تي حكايات ">إيه آر تي حكايات </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1182" xmltv_id="إيه آر تي حكايات 2">إيه آر تي حكايات 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1155" xmltv_id="ميلودي دراما ">ميلودي دراما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1180" xmltv_id="ميلودي دراما 2">ميلودي دراما 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1223" xmltv_id="النهار دراما">النهار دراما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1224" xmltv_id="النهار دراما +2">النهار دراما +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1161" xmltv_id="أوربت مسلسلات ">أوربت مسلسلات </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1186" xmltv_id="أوربت مسلسلات +4 ">أوربت مسلسلات +4 </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1164" xmltv_id="بانوراما دراما ">بانوراما دراما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1165" xmltv_id="بانوراما دراما 2">بانوراما دراما 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1227" xmltv_id="صدى البلد دراما">صدى البلد دراما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1204" xmltv_id="آي فيلم">آي فيلم</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1178" xmltv_id="أبو ظبي دراما ">أبو ظبي دراما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1170" xmltv_id="الراي ">الراي </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1153" xmltv_id="كايرو دراما ">كايرو دراما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1199" xmltv_id="سي بي سي دراما">سي بي سي دراما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1194" xmltv_id="إم بي سي دراما ">إم بي سي دراما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1131" xmltv_id="إم بي سي دراما +">إم بي سي دراما +</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1200" xmltv_id="أرابيا دراما">أرابيا دراما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1167" xmltv_id="أوسكار دراما ">أوسكار دراما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1156" xmltv_id="نايل دراما ">نايل دراما </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1184" xmltv_id="نايل دراما +2">نايل دراما +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1183" xmltv_id="نايل دراما 2 ">نايل دراما 2 </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1185" xmltv_id="نايل دراما 2  +2">نايل دراما 2  +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1236" xmltv_id="بلاي حكايات">بلاي حكايات</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1240" xmltv_id="بلاي حكايات +2">بلاي حكايات +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1246" xmltv_id="ال بي سي دراما">ال بي سي دراما</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1271" xmltv_id="بي بي سي إنترتينمنت">بي بي سي إنترتينمنت</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1273" xmltv_id="إي إنترتينمنت">إي إنترتينمنت</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1274" xmltv_id="آي تي في تشويس">آي تي في تشويس</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1276" xmltv_id="تي إل سي">تي إل سي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1278" xmltv_id="إم بي سي مصر 2">إم بي سي مصر 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1261" xmltv_id="زي ألوان">زي ألوان</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1162" xmltv_id="اليوم">اليوم</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1191" xmltv_id="الوطن ">الوطن </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1192" xmltv_id="الوطن بلس ">الوطن بلس </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1169" xmltv_id="دبي ">دبي </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1177" xmltv_id="سما دبي ">سما دبي </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1127" xmltv_id="إم بي سي">إم بي سي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1239" xmltv_id="إم بي سي مصر">إم بي سي مصر</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1101" xmltv_id="الأولى">الأولى</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1118" xmltv_id="الثانية ">الثانية </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1119" xmltv_id="الفضائية المصرية ">الفضائية المصرية </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1145" xmltv_id="المحور ">المحور </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1221" xmltv_id="المحور 2">المحور 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1193" xmltv_id="النهار">النهار</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1222" xmltv_id="النهار +2">النهار +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1179" xmltv_id="دريم 1">دريم 1</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1146" xmltv_id="دريم 2 ">دريم 2 </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1136" xmltv_id="أبو ظبي الأولي ">أبو ظبي الأولي </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1135" xmltv_id="أبو ظبي الإمارات ">أبو ظبي الإمارات </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1225" xmltv_id="إل بي سي أوروبا">إل بي سي أوروبا</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1168" xmltv_id="إل بي سي إنترناشونال">إل بي سي إنترناشونال</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1206" xmltv_id="روتانا مصرية">روتانا مصرية</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1149" xmltv_id="روتانا خليجية ">روتانا خليجية </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1203" xmltv_id="أون تي في ">أون تي في </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1134" xmltv_id="أون تي في رمضان">أون تي في رمضان</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1159" xmltv_id="نايل لايف ">نايل لايف </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1137" xmltv_id="الحياة ">الحياة </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1226" xmltv_id="صدى البلد">صدى البلد</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1216" xmltv_id="الجديد">الجديد</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1205" xmltv_id="أو إس إن ياهلا">أو إس إن ياهلا</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1250" xmltv_id="أو إس إن ياهلا شباب HD">أو إس إن ياهلا شباب HD</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1251" xmltv_id="أو إس إن ياهلا دراما HD">أو إس إن ياهلا دراما HD</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1171" xmltv_id="المستقبل ">المستقبل </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1172" xmltv_id="انفينيتي">انفينيتي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1160" xmltv_id="الصفوة ">الصفوة </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1198" xmltv_id="سي بي سي">سي بي سي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1220" xmltv_id="سي بي سي 2">سي بي سي 2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1197" xmltv_id="التحرير">التحرير</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1208" xmltv_id="اﻵن">اﻵن</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1188" xmltv_id="الشارقة ">الشارقة </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1174" xmltv_id="القاهرة والناس ">القاهرة والناس </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1252" xmltv_id="القاهرة والناس +2">القاهرة والناس +2</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1264" xmltv_id="الظفرة">الظفرة</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1265" xmltv_id="حواس">حواس</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1201" xmltv_id="نايل العائلة">نايل العائلة</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1181" xmltv_id="مودرن مصر ">مودرن مصر </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1269" xmltv_id="الشرقية">الشرقية</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1270" xmltv_id="بي بي سي لايف ستايل">بي بي سي لايف ستايل</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1233" xmltv_id="فن">فن</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1277" xmltv_id="ديزني">ديزني</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1241" xmltv_id="إم بي سي 3">إم بي سي 3</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1242" xmltv_id="نتورك بالعربية">نتورك بالعربية</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1243" xmltv_id="براعم">براعم</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1244" xmltv_id="قناة الجزيرة للأطفال">قناة الجزيرة للأطفال</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1263" xmltv_id="سي بي سي إكسترا">سي بي سي إكسترا</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1272" xmltv_id="ديسكفري">ديسكفري</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1275" xmltv_id="ناشيونال جيوجرافيك">ناشيونال جيوجرافيك</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1266" xmltv_id="ناشونال جيوجرافيك أبو ظبي">ناشونال جيوجرافيك أبو ظبي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1267" xmltv_id="أنيمال بلانت">أنيمال بلانت</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1245" xmltv_id="فتافيت">فتافيت</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1260" xmltv_id="سي بي سي سفرة">سي بي سي سفرة</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1235" xmltv_id="بانوراما كوميدي">بانوراما كوميدي</channel>
+<channel update="i" site="elcinema.ar.com" site_id="1166" xmltv_id="موجه كوميدي ">موجه كوميدي </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1158" xmltv_id="نايل كوميدي ">نايل كوميدي </channel>
+<channel update="i" site="elcinema.ar.com" site_id="1190" xmltv_id="فنون ">فنون </channel>
+</channels>
+</site>
