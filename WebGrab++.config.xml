@@ -35,7 +35,7 @@ examples:
   <postprocess>mdb</postprocess>  same as above (uses defaults for grab and run)
   <postprocess grab="no">rex</postprocess>  runs rex without grab (existing xmltv file)
 -->
-  <postprocess run="y" grab="y">mdb</postprocess>
+  <postprocess run="n" grab="n">mdb</postprocess>
   
   <!-- proxy:
 This setting is only required if your computer is connected to internet behind a proxy
