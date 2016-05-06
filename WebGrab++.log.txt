@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 05/05/2016 21:00:02
+[        ] Job started at 06/05/2016 09:01:26
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -402,5 +402,5 @@
 [Error   ] Could find existing channel (xmltv_id=Heart TV) in the config file
 [Error   ] Could find existing channel (xmltv_id=CAPITAL TV) in the config file
 [        ] no epg update requested!
-[        ] Job finished at 05/05/2016 21:02:59 done in 2m 57s
+[        ] Job finished at 06/05/2016 09:04:30 done in 3m 4s
 [  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.
