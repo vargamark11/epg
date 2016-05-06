@@ -113,64 +113,30 @@ The xmltv_id can be any string that suits your needs, you will find it back as t
 Be aware that all channels entered here will be included in the xmltv channel table even if no update is requested. This allows the update of individual channels without affecting the data of the others in the list. A channel not in this list will be removed from your xmltv listing together with all the show data of it if found there by WebGrab+Plus. (If you use WebGrab+Plus with a xmltv input file from another source, it will remove all data from channels not in this list and create an entry for new channels)
 WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
    -->
-   <channel update="i" site="uk-sky.com" site_id="3510" xmltv_id="Nollywood">Nollywood</channel>
-    <channel update="i" site="uk-sky.com" site_id="4033" xmltv_id="Sky ShowcseHD">Sky ShowcseHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4015" xmltv_id="SkyStarWarsHD">SkyStarWarsHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4013" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4018" xmltv_id="Sky Family HD">Sky Family HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4014" xmltv_id="Sky Action HD">Sky Action HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4019" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4062" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4016" xmltv_id="Sky DraRomHD">Sky DraRomHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4017" xmltv_id="Sky ScFi\/HorHD">Sky ScFi\/HorHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4020" xmltv_id="Sky Select HD">Sky Select HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="3811" xmltv_id="TCM HD">TCM HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4044" xmltv_id="Film4 HD">Film4 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="5252" xmltv_id="TalkingPictures">TalkingPictures</channel>
-    <channel update="i" site="uk-sky.com" site_id="1314" xmltv_id="Sky Sp NewsHQ">Sky Sp NewsHQ</channel>
-    <channel update="i" site="uk-sky.com" site_id="1301" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
-    <channel update="i" site="uk-sky.com" site_id="1302" xmltv_id="Sky Spts Ashes">Sky Spts Ashes</channel>
-    <channel update="i" site="uk-sky.com" site_id="1333" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
-    <channel update="i" site="uk-sky.com" site_id="1322" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
-    <channel update="i" site="uk-sky.com" site_id="1303" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
-    <channel update="i" site="uk-sky.com" site_id="1306" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
-    <channel update="i" site="uk-sky.com" site_id="4049" xmltv_id="Sky SpN HQ HD">Sky SpN HQ HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4002" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="1726" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="uk-sky.com" site_id="1841" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="uk-sky.com" site_id="4004" xmltv_id="Eurosport HD">Eurosport HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="3661" xmltv_id="BT Sport 1">BT Sport 1</channel>
-    <channel update="i" site="uk-sky.com" site_id="5032" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
-    <channel update="i" site="uk-sky.com" site_id="1354" xmltv_id="At The Races">At The Races</channel>
-    <channel update="i" site="uk-sky.com" site_id="3663" xmltv_id="BT Sport 2">BT Sport 2</channel>
-    <channel update="i" site="uk-sky.com" site_id="1834" xmltv_id="MUTV">MUTV</channel>
-    <channel update="i" site="uk-sky.com" site_id="3101" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="uk-sky.com" site_id="1757" xmltv_id="Chelsea TV">Chelsea TV</channel>
-    <channel update="i" site="uk-sky.com" site_id="4038" xmltv_id="Chelsea TV HD">Chelsea TV HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="3141" xmltv_id="BT Sport\/\/ESPN">BT Sport\/\/ESPN</channel>
-    <channel update="i" site="uk-sky.com" site_id="3625" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="5311" xmltv_id="Premier Sports">Premier Sports</channel>
-    <channel update="i" site="uk-sky.com" site_id="3732" xmltv_id="LFCTV">LFCTV</channel>
-    <channel update="i" site="uk-sky.com" site_id="3636" xmltv_id="Racing UK">Racing UK</channel>
-    <channel update="i" site="uk-sky.com" site_id="3629" xmltv_id="BT Sport EurHD">BT Sport EurHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4081" xmltv_id="SkySp AshesHD">SkySp AshesHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4022" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="3417" xmltv_id="BoxNation">BoxNation</channel>
-    <channel update="i" site="uk-sky.com" site_id="4026" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4010" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4009" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="3735" xmltv_id="MOTORS TV UK">MOTORS TV UK</channel>
-    <channel update="i" site="uk-sky.com" site_id="3835" xmltv_id="Sky Spts F1 HD">Sky Spts F1 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="1003" xmltv_id="MUTV HD">MUTV HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="3845" xmltv_id="LFCTV HD">LFCTV HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="3627" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4040" xmltv_id="BTSpt\/\/ESPNHD">BTSpt\/\/ESPNHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="5153" xmltv_id="Premier HD">Premier HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="5039" xmltv_id="BoxNation HD">BoxNation HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="1034" xmltv_id="SkySpBoxOff">SkySpBoxOff</channel>
-    <channel update="i" site="uk-sky.com" site_id="1035" xmltv_id="SkySpBoxOffHD">SkySpBoxOffHD</channel>
-    <channel update="i" site="uk-sky.com" site_id="1404" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="Bloomberg">Bloomberg</channel>
+   <channels>
+    <channel update="i" site="uk-sky.com" site_id="2002" xmltv_id="BBC One Lon">BBC One Lon</channel>
+    <channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BBC Two Eng">BBC Two Eng</channel>
+    <channel update="i" site="uk-sky.com" site_id="6000" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="uk-sky.com" site_id="1621" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="uk-sky.com" site_id="1801" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="uk-sky.com" site_id="1402" xmltv_id="Sky1">Sky1</channel>
+    <channel update="i" site="uk-sky.com" site_id="2201" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="uk-sky.com" site_id="1412" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="uk-sky.com" site_id="2617" xmltv_id="Watch">Watch</channel>
+    <channel update="i" site="uk-sky.com" site_id="2304" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="uk-sky.com" site_id="2306" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="uk-sky.com" site_id="2510" xmltv_id="ComedyCentral">ComedyCentral</channel>
+    <channel update="i" site="uk-sky.com" site_id="1842" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="uk-sky.com" site_id="2505" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="uk-sky.com" site_id="2061" xmltv_id="BBC Three">BBC Three</channel>
+    <channel update="i" site="uk-sky.com" site_id="2018" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="uk-sky.com" site_id="5090" xmltv_id="London Live">London Live</channel>
+    <channel update="i" site="uk-sky.com" site_id="6240" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="uk-sky.com" site_id="6260" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="uk-sky.com" site_id="6272" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="uk-sky.com" site_id="1752" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="uk-sky.com" site_id="2205" xmltv_id="Sky Living+1">Sky Living+1</channel>
+	 </channels>
    
    
 </settings>

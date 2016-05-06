@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 06/05/2016 12:08:42
+[        ] Job started at 06/05/2016 12:21:55
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -18,65 +18,29 @@
 [  Debug ] Reading config file: /var/www/epg/WebGrab++.config.xml
 [  Info  ] found: /var/www/epg/uk-sky.com.ini -- Revision 06
 [  Debug ] xmltv input file - /var/www/epg/guide.xml - found
-[  Debug ] 509 superfluous shows removed
-[Error   ] Could find existing channel (xmltv_id=Nollywood) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky ShowcseHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=SkyStarWarsHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Disney HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Family HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Action HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Comedy HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Thriller HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky DraRomHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky ScFi\/HorHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Select HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=TCM HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Film4 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=TalkingPictures) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sp NewsHQ) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 1) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Spts Ashes) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 3) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 4) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 5) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports F1) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky SpN HQ HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 1 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Eurosport) in the config file
-[Error   ] Could find existing channel (xmltv_id=Eurosport 2) in the config file
-[Error   ] Could find existing channel (xmltv_id=Eurosport HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=BT Sport 1) in the config file
-[Error   ] Could find existing channel (xmltv_id=BT Sport Europe) in the config file
-[Error   ] Could find existing channel (xmltv_id=At The Races) in the config file
-[Error   ] Could find existing channel (xmltv_id=BT Sport 2) in the config file
-[Error   ] Could find existing channel (xmltv_id=MUTV) in the config file
-[Error   ] Could find existing channel (xmltv_id=Extreme Sports) in the config file
-[Error   ] Could find existing channel (xmltv_id=Chelsea TV) in the config file
-[Error   ] Could find existing channel (xmltv_id=Chelsea TV HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=BT Sport\/\/ESPN) in the config file
-[Error   ] Could find existing channel (xmltv_id=BT Sport 1 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Premier Sports) in the config file
-[Error   ] Could find existing channel (xmltv_id=LFCTV) in the config file
-[Error   ] Could find existing channel (xmltv_id=Racing UK) in the config file
-[Error   ] Could find existing channel (xmltv_id=BT Sport EurHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=SkySp AshesHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 3 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=BoxNation) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 4 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 5 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Eurosport 2 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=MOTORS TV UK) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Spts F1 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=MUTV HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=LFCTV HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=BT Sport 2 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=BTSpt\/\/ESPNHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Premier HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=BoxNation HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=SkySpBoxOff) in the config file
-[Error   ] Could find existing channel (xmltv_id=SkySpBoxOffHD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky News) in the config file
-[Error   ] Could find existing channel (xmltv_id=Bloomberg) in the config file
+[  Debug ] 249 superfluous shows removed
+[Error   ] Could find existing channel (xmltv_id=BBC One Lon) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC Two Eng) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Living) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Atlantic) in the config file
+[Error   ] Could find existing channel (xmltv_id=Watch) in the config file
+[Error   ] Could find existing channel (xmltv_id=GOLD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Dave) in the config file
+[Error   ] Could find existing channel (xmltv_id=ComedyCentral) in the config file
+[Error   ] Could find existing channel (xmltv_id=Universal) in the config file
+[Error   ] Could find existing channel (xmltv_id=Syfy) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC Three) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC Four) in the config file
+[Error   ] Could find existing channel (xmltv_id=London Live) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Arts) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Living+1) in the config file
 [        ] no epg update requested!
-[        ] Job finished at 06/05/2016 12:10:15 done in 1m 33s
+[        ] Job finished at 06/05/2016 12:22:54 done in 59s
 [  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.
