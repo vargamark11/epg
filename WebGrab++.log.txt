@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/05/2016 08:21:07
+[        ] Job started at 09/05/2016 09:13:08
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -17,9 +17,11 @@
 [  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
 [  Debug ] Reading config file: /var/www/epg/WebGrab++.config.xml
 [  Info  ] found: /var/www/epg/uk-sky.com.ini -- Revision 06
-[  Info  ] found: /var/www/epg/tvguide.co.uk.ini -- Revision 13
+[  Info  ] found: /var/www/epg/tvguide.co.uk.ini -- Revision 14
+[  Info  ] found: /var/www/epg/tvhebdo.com.ini -- Revision 01
+[  Info  ] found: /var/www/epg/cthbpl.com.ini -- Revision 00
 [  Debug ] xmltv input file - /var/www/epg/guide.xml - found
-[  Debug ] 531 superfluous shows removed
+[  Debug ] 6513 superfluous shows removed
 [Error   ] Could find existing channel (xmltv_id=Sky Action HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky ScFi/HorHD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Channel 4) in the config file
@@ -75,10 +77,6 @@
 [Error   ] Could find existing channel (xmltv_id=BBC2 South) in the config file
 [Error   ] Could find existing channel (xmltv_id=BBC2 Wales) in the config file
 [Error   ] Could find existing channel (xmltv_id=BBC2 West) in the config file
-[Error   ] Could find existing channel (xmltv_id=BBC2 West Midlands) in the config file
-[Error   ] Could find existing channel (xmltv_id=BBC3) in the config file
-[Error   ] Could find existing channel (xmltv_id=BBC3 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=BBC4) in the config file
 [Error   ] Could find existing channel (xmltv_id=BBC4 HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=BT Sport 1) in the config file
 [Error   ] Could find existing channel (xmltv_id=BT Sport 1 HD) in the config file
@@ -101,14 +99,12 @@
 [Error   ] Could find existing channel (xmltv_id=E4 HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Eurosport 2 HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Eurosport HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Extreme Sports) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV Granada) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV Granada +1) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV2) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV2 +1) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV2 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=ITV3) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV3 HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV3+1) in the config file
 [Error   ] Could find existing channel (xmltv_id=ITV3+1 (Freeview)) in the config file
@@ -120,12 +116,12 @@
 [Error   ] Could find existing channel (xmltv_id=Liverpool FC TV) in the config file
 [Error   ] Could find existing channel (xmltv_id=Setanta Ireland) in the config file
 [Error   ] Could find existing channel (xmltv_id=Setanta Sports 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=MOTORS TV UK) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Christmas) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Christmas HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Comedy) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Comedy HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Crime  Thriller) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Movies Disney) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Disney HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Drama  Romance) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Movies Drama  Romance HD) in the config file
@@ -143,14 +139,10 @@
 [Error   ] Could find existing channel (xmltv_id=Sky News) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky News HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports 1) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 1 Interactive) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports 2) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports 2 HD) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 2 Interactive) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports 3) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 3 Interactive) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports 4) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 4 Interactive) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports 5) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports 5 HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Sports F1) in the config file
@@ -170,636 +162,924 @@
 [Error   ] Could find existing channel (xmltv_id=RTÉ Two) in the config file
 [Error   ] Could find existing channel (xmltv_id=RTÉ Two HD) in the config file
 [Error   ] Could find existing channel (xmltv_id=GOLD) in the config file
-[Error   ] Could find existing channel (xmltv_id=GOLD +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sports Net EST) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sports Net Ontario) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sports Net West) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sports Net Pacifique) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sportsnet World) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN1) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN2) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN3) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN4) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 1 (CTH 211 SD / 56HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 2 (CTH 212 SD / 57 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 3 (CTH 213 SD / 58 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 4 (CTH 214 SD / 59 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 5 (CTH 216 SD / 60 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 6 (CTH 216 SD / 61 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM X (CTH 217 SD / 62 HD)) in the config file
 [  Info  ] 
 [  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
 [  Info  ] 
 [  Info  ] 
 [  Info  ] Group (0) :
-[  Info  ] update requested for - 0 - out of - 151 - channels for 2 day(s)
+[  Info  ] update requested for - 0 - out of - 157 - channels for 2 day(s)
 [  Info  ] 
 [  Info  ] Group (1) :
-[  Info  ] update requested for - 151 - out of - 151 - channels for 2 day(s)
+[  Info  ] update requested for - 157 - out of - 157 - channels for 2 day(s)
 [  Debug ] 
-[  Info  ] (   1/151 ) UK-SKY.COM -- chan. (xmltv_id=Sky Action HD) -- mode Force
+[  Info  ] (   1/157 ) UK-SKY.COM -- chan. (xmltv_id=Sky Action HD) -- mode Force
 [  Debug ]   skipped fully overlapping show from 10/05/2016 07:00
 [  Debug ]                                    to 10/05/2016 09:00
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   2/151 ) UK-SKY.COM -- chan. (xmltv_id=Sky ScFi/HorHD) -- mode Force
+[  Info  ] (   2/157 ) UK-SKY.COM -- chan. (xmltv_id=Sky ScFi/HorHD) -- mode Force
 [  Debug ]   skipped fully overlapping show from 10/05/2016 06:00
 [  Debug ]                                    to 10/05/2016 08:10
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   3/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4) -- mode Force
+[  Info  ] (   3/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   4/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 + 1) -- mode Force
+[  Info  ] (   4/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 + 1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   5/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 HD) -- mode Force
+[  Info  ] (   5/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   6/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 HD +1) -- mode Force
+[  Info  ] (   6/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 HD +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   7/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5) -- mode Force
+[  Info  ] (   7/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   8/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5 +1) -- mode Force
+[  Info  ] (   8/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5 +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   9/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5 HD) -- mode Force
+[  Info  ] (   9/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  10/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5+24) -- mode Force
+[  Info  ] (  10/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5+24) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  11/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=British Eurosport) -- mode Force
+[  Info  ] (  11/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=British Eurosport) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  12/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=British Eurosport 2) -- mode Force
+[  Info  ] (  12/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=British Eurosport 2) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  13/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ESPN) -- mode Force
+[  Info  ] (  13/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ESPN) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  14/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ESPN HD) -- mode Force
+[  Info  ] (  14/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ESPN HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  15/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4) -- mode Force
+[  Info  ] (  15/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  16/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4 +1) -- mode Force
+[  Info  ] (  16/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4 +1) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  17/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4 HD) -- mode Force
+[  Info  ] (  17/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4 HD) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  18/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5+24 (Freeview)) -- mode Force
+[  Info  ] (  18/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5+24 (Freeview)) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  19/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Channel Islands) -- mode Force
+[  Info  ] (  19/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Channel Islands) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  20/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Digital) -- mode Force
+[  Info  ] (  20/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Digital) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  21/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 East) -- mode Force
+[  Info  ] (  21/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 East) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  22/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 East Midlands) -- mode Force
+[  Info  ] (  22/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 East Midlands) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  23/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD) -- mode Force
+[  Info  ] (  23/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  24/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD N Ireland) -- mode Force
+[  Info  ] (  24/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD N Ireland) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  25/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD Scotland) -- mode Force
+[  Info  ] (  25/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD Scotland) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  26/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 London) -- mode Force
+[  Info  ] (  26/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 London) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  27/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Midlands) -- mode Force
+[  Info  ] (  27/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Midlands) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  28/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N East) -- mode Force
+[  Info  ] (  28/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N East) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  29/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N Ireland) -- mode Force
+[  Info  ] (  29/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N Ireland) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  30/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N West) -- mode Force
+[  Info  ] (  30/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N West) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  31/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 North) -- mode Force
+[  Info  ] (  31/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 North) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  32/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Oxfordshire) -- mode Force
+[  Info  ] (  32/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Oxfordshire) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  33/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 S East) -- mode Force
+[  Info  ] (  33/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 S East) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  34/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 S West) -- mode Force
+[  Info  ] (  34/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 S West) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  35/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Scotland) -- mode Force
+[  Info  ] (  35/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Scotland) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  36/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Scotland Digital) -- mode Force
+[  Info  ] (  36/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Scotland Digital) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  37/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 South) -- mode Force
+[  Info  ] (  37/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 South) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  38/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Wales) -- mode Force
+[  Info  ] (  38/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Wales) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  39/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 West) -- mode Force
+[  Info  ] (  39/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 West) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  40/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2) -- mode Force
+[  Info  ] (  40/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  41/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 East) -- mode Force
+[  Info  ] (  41/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 East) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  42/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 East Midlands) -- mode Force
+[  Info  ] (  42/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 East Midlands) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  43/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 HD) -- mode Force
+[  Info  ] (  43/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  44/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 London) -- mode Force
+[  Info  ] (  44/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 London) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  45/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Midlands) -- mode Force
+[  Info  ] (  45/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Midlands) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  46/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N East) -- mode Force
+[  Info  ] (  46/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N East) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  47/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N Ireland) -- mode Force
+[  Info  ] (  47/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N Ireland) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  48/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N West) -- mode Force
+[  Info  ] (  48/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N West) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  49/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 North) -- mode Force
+[  Info  ] (  49/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 North) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  50/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 S East) -- mode Force
+[  Info  ] (  50/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 S East) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  51/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 S West) -- mode Force
+[  Info  ] (  51/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 S West) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  52/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Scotland) -- mode Force
+[  Info  ] (  52/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Scotland) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  53/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 South) -- mode Force
+[  Info  ] (  53/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 South) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  54/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Wales) -- mode Force
+[  Info  ] (  54/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Wales) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  55/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 West) -- mode Force
+[  Info  ] (  55/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 West) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  56/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 West Midlands) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  57/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC3) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  58/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC3 HD) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  59/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC4) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  60/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC4 HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  61/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  62/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 1 HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  63/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 2) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  64/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 2 HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  65/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  66/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central +1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  67/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central Extra) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  68/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central Extra +1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  69/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  70/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  71/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  72/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave ja vu) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  73/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E!) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  74/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! +1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  75/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! Entertainment Europe) -- mode Force
+[  Info  ] (  56/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC4 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  76/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! Entertainment HD) -- mode Force
+[  Info  ] (  57/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  77/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4) -- mode Force
+[  Info  ] (  58/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 1 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  78/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4 +1) -- mode Force
+[  Info  ] (  59/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 2) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  79/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4 HD) -- mode Force
+[  Info  ] (  60/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 2 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  80/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Eurosport 2 HD) -- mode Force
+[  Info  ] (  61/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central) -- mode Force
 [  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  81/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Eurosport HD) -- mode Force
-[  Debug ]    skipped  : last show, no next startime to use as stop
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  82/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Extreme Sports) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  83/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV Granada) -- mode Force
+[  Info  ] (  62/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  84/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV Granada +1) -- mode Force
+[  Info  ] (  63/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central Extra) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  85/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV HD) -- mode Force
+[  Info  ] (  64/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central Extra +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  86/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2) -- mode Force
+[  Info  ] (  65/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  87/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2 +1) -- mode Force
+[  Info  ] (  66/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  88/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2 HD) -- mode Force
+[  Info  ] (  67/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  89/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3) -- mode Force
+[  Info  ] (  68/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave ja vu) -- mode Force
 [Warning ] error downloading page: The request timed out (1sec)
 [Warning ] Retry 1 of 4 times
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  90/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3 HD) -- mode Force
+[  Info  ] (  69/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E!) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  91/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3+1) -- mode Force
+[  Info  ] (  70/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  92/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3+1 (Freeview)) -- mode Force
+[  Info  ] (  71/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! Entertainment Europe) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! Entertainment HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4 +1) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4 HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Eurosport 2 HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Eurosport HD) -- mode Force
 [  Debug ]    skipped  : last show, no next startime to use as stop
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  93/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4) -- mode Force
+[  Info  ] (  78/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV Granada) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  94/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4 + 1) -- mode Force
+[  Info  ] (  79/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV Granada +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  95/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4 HD) -- mode Force
+[  Info  ] (  80/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  96/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=More4) -- mode Force
+[  Info  ] (  81/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  97/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=More4 +1) -- mode Force
+[  Info  ] (  82/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2 +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  98/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Liverpool FC TV) -- mode Force
+[  Info  ] (  83/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  99/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Setanta Ireland) -- mode Force
+[  Info  ] (  84/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 100/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Setanta Sports 1) -- mode Force
+[  Info  ] (  85/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3+1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 101/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Christmas) -- mode Force
+[  Info  ] (  86/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3+1 (Freeview)) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 102/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Christmas HD) -- mode Force
+[  Info  ] (  88/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4 + 1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 103/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Comedy) -- mode Force
+[  Info  ] (  89/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 104/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Comedy HD) -- mode Force
+[  Info  ] (  90/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=More4) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 105/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Crime  Thriller) -- mode Force
+[  Info  ] (  91/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=More4 +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 106/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Disney) -- mode Force
+[  Info  ] (  92/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Liverpool FC TV) -- mode Force
+[Warning ] error downloading page: The operation has timed out. (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Setanta Ireland) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Setanta Sports 1) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/157 ) UK-SKY.COM -- chan. (xmltv_id=MOTORS TV UK) -- mode Force
+[  Debug ]   skipped fully overlapping show from 10/05/2016 08:00
+[  Debug ]                                    to 10/05/2016 09:05
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Christmas) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Christmas HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Comedy) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Comedy HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Crime  Thriller) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Disney HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 102/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Drama  Romance) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Drama  Romance HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Family) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 105/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Family HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 106/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Modern Greats) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 107/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Modern Greats HD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 108/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 109/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere +1) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 110/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 111/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Select) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 112/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Select HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 113/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Showcase) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 114/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Showcase HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 115/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky News) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 116/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky News HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 117/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 1) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 118/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 2) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 119/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 2 HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 120/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 3) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 121/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 4) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 122/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 5) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 123/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 5 HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 124/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports F1) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 125/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports F1 HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 126/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD1) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 127/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD3) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 128/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD4) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 129/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports News) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 130/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports News HD) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 131/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1) -- mode Force
 [Warning ] error downloading page: The request timed out (1sec)
 [Warning ] Retry 1 of 4 times
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 107/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Disney HD) -- mode Force
+[  Info  ] ( 132/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1 +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 108/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Drama  Romance) -- mode Force
+[  Info  ] ( 133/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1 HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 109/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Drama  Romance HD) -- mode Force
+[  Info  ] ( 134/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky2) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 110/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Family) -- mode Force
+[  Info  ] ( 135/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 111/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Family HD) -- mode Force
+[  Info  ] ( 136/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One +1) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 112/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Modern Greats) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 113/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Modern Greats HD) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 114/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere) -- mode Force
+[  Info  ] ( 137/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 115/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere +1) -- mode Force
+[  Info  ] ( 138/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ Two) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 116/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere HD) -- mode Force
+[  Info  ] ( 139/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ Two HD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 117/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Select) -- mode Force
+[  Info  ] ( 140/157 ) TVGUIDE.CO.UK -- chan. (xmltv_id=GOLD) -- mode Force
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Info  ] ( 118/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Select HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 119/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Showcase) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 120/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Showcase HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 121/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky News) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 122/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky News HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 123/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 124/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 1 Interactive) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 125/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 2) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 126/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 2 HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 127/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 2 Interactive) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 128/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 3) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 129/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 3 Interactive) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 130/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 4) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 131/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 4 Interactive) -- mode Force
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 132/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 5) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 133/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 5 HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 134/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports F1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 135/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports F1 HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 136/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 137/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD3) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 138/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD4) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 139/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports News) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 140/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports News HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 141/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 142/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1 +1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 143/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1 HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 144/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky2) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 145/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 146/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One +1) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 147/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 148/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ Two) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 149/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ Two HD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 150/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=GOLD) -- mode Force
-[  Debug ]    skipped 
-[  Info  ] 
-[  Debug ] 
-[  Info  ] ( 151/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=GOLD +1) -- mode Force
+[  Info  ] ( 141/157 ) TVHEBDO.COM -- chan. (xmltv_id=Sports Net EST) -- mode Force
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
 [Warning ] error downloading page: The request timed out (1sec)
 [Warning ] Retry 1 of 4 times
 [  Debug ]    skipped 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 6646 shows in 151 channels
-[  Debug ] 0 updated shows
-[  Debug ] 6646 new shows added
+[  Info  ] ( 142/157 ) TVHEBDO.COM -- chan. (xmltv_id=Sports Net Ontario) -- mode Force
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Circuit mondial de poker
+[  Debug ]       differs from title in showdetails = World Poker Tour
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (2sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
 [  Info  ] 
+[  Debug ] 
+[  Info  ] ( 143/157 ) TVHEBDO.COM -- chan. (xmltv_id=Sports Net West) -- mode Force
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
 [  Info  ] 
-[        ] Job finished at 09/05/2016 09:07:44 done in 46m 37s
-[  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.
+[  Debug ] 
+[  Info  ] ( 144/157 ) TVHEBDO.COM -- chan. (xmltv_id=Sports Net Pacifique) -- mode Force
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 145/157 ) TVHEBDO.COM -- chan. (xmltv_id=Sportsnet World) -- mode Force
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 146/157 ) TVHEBDO.COM -- chan. (xmltv_id=TSN1) -- mode Force
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Championnat du monde de hockey de l'IIHF
+[  Debug ]       differs from title in showdetails = World Hockey Championship
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (2sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
