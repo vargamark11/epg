@@ -1,16 +1,32 @@
-﻿[  Debug ] WebGrab+Plus/w MDB & REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten 
-[  Debug ] --------------------------------------------------------------------------------
-[  Debug ] job started at 05/09/2016 08:08:41
+﻿[        ] 
+[        ]             WebGrab+Plus/w MDB & REX Postprocess -- version V1.56.23            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 09/05/2016 08:13:06
 [  Debug ] 
-[  Debug ] reading config file: /var/www/epg/WebGrab++.config.xml
-[  Debug ] loading timezone data
-[  Debug ] embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
-[  Debug ] found: /var/www/epg/uk-sky.com.ini -- Revision 6
+[  Debug ] Running  on: Unix 4.1.7.7
+[  Debug ] Environment: 4.0.30319.17020
+[  Debug ] Mono version: 3.2.8 (Debian 3.2.8+dfsg-10)
 [  Debug ] 
-[  Debug ] running  on: Unix 4.1.7.7
-[  Debug ] environment: 4.0.30319.17020
-[  Debug ] mono version: 3.2.8 (Debian 3.2.8+dfsg-10)
-[  Debug ] xmltv input file - /var/www/epg/guide.xml - found
-[  Debug ] 207 superfluous shows removed
-[  Info  ] no epg update requested!
-[  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
+[  Debug ] Reading config file: /var/www/epg/WebGrab++.config.xml
+[  Info  ] found: /var/www/epg/uk-sky.com.ini -- Revision 06
+[        ] Job finished at 09/05/2016 08:13:09 done in 2s
+[Critical] Unhandled Exception
+[Critical] 
+Unable to find the siteini: tvguide.co.uk.ini.
+Looked in:
+/var/www/epg
+/var/www/epg/siteini.user (+ subfolders max.depth = 6)
+/var/www/epg/siteini.pack (+ subfolders max.depth = 6)
+[Critical] 
+  at WG.Common.Utils.LocateIni (System.String Folder, System.String site) [0x00000] in <filename unknown>:0 
+  at WGconsole.Config..ctor (System.String ConfigurationFilePath) [0x00000] in <filename unknown>:0 
+[Critical] For detailed info, see log file /var/www/epg/WebGrab++.log.txt
+[Critical] Execution stopped
