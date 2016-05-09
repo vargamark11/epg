@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/05/2016 08:02:58
+[        ] Job started at 09/05/2016 08:05:54
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -16,12 +16,24 @@
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
 [  Debug ] Reading config file: /var/www/epg/WebGrab++.config.xml
-[Warning ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
-[  Info  ] found: /var/www/epg/theguardian.com.xmltv_ns.ini -- Revision 01
+[  Info  ] found: /var/www/epg/uk-sky.com.ini -- Revision 06
 [  Debug ] xmltv input file - /var/www/epg/guide.xml - found
-[  Debug ] 29 superfluous shows removed
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 1) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 2) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 3) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports 4) in the config file
-[Error   ] Could find existing channel (xmltv_id=Sky Sports News) in the config file
+[  Debug ] 207 superfluous shows removed
+[Error   ] Could find existing channel (xmltv_id=BBC One Lon) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC Two Eng) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Living) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Atlantic) in the config file
+[Error   ] Could find existing channel (xmltv_id=Watch) in the config file
+[Error   ] Could find existing channel (xmltv_id=GOLD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Dave) in the config file
+[Error   ] Could find existing channel (xmltv_id=ComedyCentral) in the config file
+[Error   ] Could find existing channel (xmltv_id=Universal) in the config file
+[Error   ] Could find existing channel (xmltv_id=Syfy) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC Three) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC Four) in the config file
+[Error   ] Could find existing channel (xmltv_id=London Live) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2) in the config file

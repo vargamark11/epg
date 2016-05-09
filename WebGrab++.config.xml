@@ -114,11 +114,24 @@ Be aware that all channels entered here will be included in the xmltv channel ta
 WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
    -->
    <channels>
-       <channel update="i" site="theguardian.com.xmltv_ns" site_id="Sky Sports 1" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
-    <channel update="i" site="theguardian.com.xmltv_ns" site_id="Sky Sports 2" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
-    <channel update="i" site="theguardian.com.xmltv_ns" site_id="Sky Sports 3" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
-    <channel update="i" site="theguardian.com.xmltv_ns" site_id="Sky Sports 4" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
-    <channel update="i" site="theguardian.com.xmltv_ns" site_id="Sky Sports News" xmltv_id="Sky Sports News">Sky Sports News</channel>
+   <channel update="i" site="uk-sky.com" site_id="2002" xmltv_id="BBC One Lon">BBC One Lon</channel>
+    <channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BBC Two Eng">BBC Two Eng</channel>
+    <channel update="i" site="uk-sky.com" site_id="6000" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="uk-sky.com" site_id="1621" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="uk-sky.com" site_id="1801" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="uk-sky.com" site_id="1402" xmltv_id="Sky1">Sky1</channel>
+    <channel update="i" site="uk-sky.com" site_id="2201" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="uk-sky.com" site_id="1412" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="uk-sky.com" site_id="2617" xmltv_id="Watch">Watch</channel>
+    <channel update="i" site="uk-sky.com" site_id="2304" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="uk-sky.com" site_id="2306" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="uk-sky.com" site_id="2510" xmltv_id="ComedyCentral">ComedyCentral</channel>
+    <channel update="i" site="uk-sky.com" site_id="1842" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="uk-sky.com" site_id="2505" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="uk-sky.com" site_id="2061" xmltv_id="BBC Three">BBC Three</channel>
+    <channel update="i" site="uk-sky.com" site_id="2018" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="uk-sky.com" site_id="5090" xmltv_id="London Live">London Live</channel>
+    <channel update="i" site="uk-sky.com" site_id="6240" xmltv_id="ITV2">ITV2</channel>
 	 </channels>
    
    
