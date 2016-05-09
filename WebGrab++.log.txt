@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/05/2016 11:44:50
+[        ] Job started at 09/05/2016 11:45:26
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -17,25 +17,10 @@
 [  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
 [  Debug ] Reading config file: /var/www/epg/WebGrab++.config.xml
 [  Info  ] found: /var/www/epg/tvguide.co.uk.ini -- Revision 14
-[        ] Job finished at 09/05/2016 11:44:54 done in 3s
+[        ] Job finished at 09/05/2016 11:45:30 done in 3s
 [Critical] Config syntax exception:
 [Critical]       file: /var/www/epg/WebGrab++.config.xml
 [Critical]    message: 
-[Error   ] error in channel list of the config file!!
-[Error   ]      duplicate xmltv_id value --  -- !!
-[Error   ]      in :
-[Error   ] <channel update="i" site="tvguide.co.uk" site_id="108" xmltv_id="BBC3">BBC3</channel>
-[Error   ] <channel update="i" site="tvguide.co.uk" site_id="848" xmltv_id="BBC3">BBC3</channel>
-[Error   ] error in channel list of the config file!!
-[Error   ]      duplicate xmltv_id value --  -- !!
-[Error   ]      in :
-[Error   ] <channel update="i" site="tvguide.co.uk" site_id="849" xmltv_id="BBC4">BBC4</channel>
-[Error   ] <channel update="i" site="tvguide.co.uk" site_id="109" xmltv_id="BBC4">BBC4</channel>
-[Error   ] error in channel list of the config file!!
-[Error   ]      duplicate xmltv_id value --  -- !!
-[Error   ]      in :
-[Error   ] <channel update="i" site="tvguide.co.uk" site_id="959" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-[Error   ] <channel update="i" site="tvguide.co.uk" site_id="758" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
 [Error   ] error in channel list of the config file!!
 [Error   ]      duplicate xmltv_id value --  -- !!
 [Error   ]      in :

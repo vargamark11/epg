@@ -101,11 +101,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="106" xmltv_id="BBC2 Wales">BBC2 Wales</channel>
     <channel update="i" site="tvguide.co.uk" site_id="107" xmltv_id="BBC2 West">BBC2 West</channel>
     <channel update="i" site="tvguide.co.uk" site_id="105" xmltv_id="BBC2 West Midlands">BBC2 West Midlands</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="108" xmltv_id="BBC3">BBC3</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="848" xmltv_id="BBC3">BBC3</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="892" xmltv_id="BBC3 HD">BBC3 HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="849" xmltv_id="BBC4">BBC4</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="109" xmltv_id="BBC4">BBC4</channel>
     <channel update="i" site="tvguide.co.uk" site_id="893" xmltv_id="BBC4 HD">BBC4 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="936" xmltv_id="BEN">BEN</channel>
     <channel update="i" site="tvguide.co.uk" site_id="458" xmltv_id="Best Direct">Best Direct</channel>
@@ -226,7 +221,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="502" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="400" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tvguide.co.uk" site_id="959" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="758" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="143" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel update="i" site="tvguide.co.uk" site_id="631" xmltv_id="FAB TV">FAB TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="145" xmltv_id="Film4">Film4</channel>
