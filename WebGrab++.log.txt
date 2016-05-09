@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/05/2016 08:13:06
+[        ] Job started at 09/05/2016 08:13:43
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -17,16 +17,206 @@
 [  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
 [  Debug ] Reading config file: /var/www/epg/WebGrab++.config.xml
 [  Info  ] found: /var/www/epg/uk-sky.com.ini -- Revision 06
-[        ] Job finished at 09/05/2016 08:13:09 done in 2s
-[Critical] Unhandled Exception
-[Critical] 
-Unable to find the siteini: tvguide.co.uk.ini.
-Looked in:
-/var/www/epg
-/var/www/epg/siteini.user (+ subfolders max.depth = 6)
-/var/www/epg/siteini.pack (+ subfolders max.depth = 6)
-[Critical] 
-  at WG.Common.Utils.LocateIni (System.String Folder, System.String site) [0x00000] in <filename unknown>:0 
-  at WGconsole.Config..ctor (System.String ConfigurationFilePath) [0x00000] in <filename unknown>:0 
-[Critical] For detailed info, see log file /var/www/epg/WebGrab++.log.txt
-[Critical] Execution stopped
+[  Info  ] found: /var/www/epg/tvguide.co.uk.ini -- Revision 13
+[  Debug ] xmltv input file - /var/www/epg/guide.xml - found
+[  Debug ] 534 superfluous shows removed
+[Error   ] Could find existing channel (xmltv_id=Sky Action HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky ScFi/HorHD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4 + 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4 HD +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5+24) in the config file
+[Error   ] Could find existing channel (xmltv_id=British Eurosport) in the config file
+[Error   ] Could find existing channel (xmltv_id=British Eurosport 2) in the config file
+[Error   ] Could find existing channel (xmltv_id=ESPN) in the config file
+[Error   ] Could find existing channel (xmltv_id=ESPN HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Film4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Film4 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Film4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5+24 (Freeview)) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Channel Islands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Digital) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 East Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 HD N Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 HD Scotland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 London) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 N East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 N Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 N West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 North) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Oxfordshire) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 S East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 S West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Scotland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Scotland Digital) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 South) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Wales) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 East Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 London) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 N East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 N Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 N West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 North) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 S East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 S West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 Scotland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 South) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 Wales) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 West Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC3) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC3 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC4) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 2) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central Extra) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central Extra +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Dave) in the config file
+[Error   ] Could find existing channel (xmltv_id=Dave HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Dave ja vu) in the config file
+[Error   ] Could find existing channel (xmltv_id=E!) in the config file
+[Error   ] Could find existing channel (xmltv_id=E! +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=E! Entertainment Europe) in the config file
+[Error   ] Could find existing channel (xmltv_id=E! Entertainment HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=E4) in the config file
+[Error   ] Could find existing channel (xmltv_id=E4 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=E4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Eurosport 2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Eurosport HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Extreme Sports) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV Granada) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV Granada +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3+1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3+1 (Freeview)) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV4) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV4 + 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=More4) in the config file
+[Error   ] Could find existing channel (xmltv_id=More4 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Liverpool FC TV) in the config file
+[Error   ] Could find existing channel (xmltv_id=Setanta Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=Setanta Sports 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Christmas) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Christmas HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Comedy) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Comedy HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Crime  Thriller) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Disney) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Disney HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Drama  Romance) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Drama  Romance HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Family) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Family HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Modern Greats) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Modern Greats HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Premiere) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Premiere +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Premiere HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Select) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Select HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Showcase) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Showcase HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky News) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky News HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 1 Interactive) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 2) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 2 Interactive) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 3) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 3 Interactive) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 4 Interactive) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 5) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 5 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports F1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports F1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports HD1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports HD3) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports HD4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports News) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports News HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky1 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky2) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ One) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ One +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ One HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ Two) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ Two HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=GOLD) in the config file
+[Error   ] Could find existing channel (xmltv_id=GOLD +1) in the config file
+[  Info  ] time offset change detected for site tvguide.co.uk from: +0000 to: +0100
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 0 - out of - 151 - channels for 6 day(s)
+[  Info  ] 
+[  Info  ] Group (1) :
+[  Info  ] update requested for - 151 - out of - 151 - channels for 6 day(s)
+[  Debug ] 
+[  Info  ] (   1/151 ) UK-SKY.COM -- chan. (xmltv_id=Sky Action HD) -- mode Force
+[  Debug ]   skipped fully overlapping show from 10/05/2016 07:00
+[  Debug ]                                    to 10/05/2016 09:00
+[  Debug ]   skipped fully overlapping show from 11/05/2016 05:00
+[  Debug ]                                    to 11/05/2016 07:10
+[  Debug ]   skipped fully overlapping show from 12/05/2016 06:45
+[  Debug ]                                    to 12/05/2016 09:25
+[  Debug ]   skipped fully overlapping show from 13/05/2016 05:55
+[  Debug ]                                    to 13/05/2016 08:10
+[  Debug ]   skipped fully overlapping show from 14/05/2016 05:25
+[  Debug ]                                    to 14/05/2016 07:10
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/151 ) UK-SKY.COM -- chan. (xmltv_id=Sky ScFi/HorHD) -- mode Force
+[  Debug ]   skipped fully overlapping show from 10/05/2016 06:00
+[  Debug ]                                    to 10/05/2016 08:10
+[  Debug ]   skipped fully overlapping show from 11/05/2016 06:45
+[  Debug ]                                    to 11/05/2016 09:40
+[  Debug ]   skipped fully overlapping show from 12/05/2016 05:00
+[  Debug ]                                    to 12/05/2016 07:10
+[  Debug ]   skipped fully overlapping show from 13/05/2016 06:40
+[  Debug ]                                    to 13/05/2016 08:20
+[  Debug ]   skipped fully overlapping show from 14/05/2016 07:00
+[  Debug ]                                    to 14/05/2016 09:15
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 + 1) -- mode Force
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/151 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 HD) -- mode Force
