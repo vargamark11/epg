@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/05/2016 08:00:39
+[        ] Job started at 09/05/2016 08:01:50
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -42,5 +42,5 @@
 [Error   ] Could find existing channel (xmltv_id=Sky Arts) in the config file
 [Error   ] Could find existing channel (xmltv_id=Sky Living+1) in the config file
 [        ] no epg update requested!
-[        ] Job finished at 09/05/2016 08:01:37 done in 58s
+[        ] Job finished at 09/05/2016 08:02:50 done in 59s
 [  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.
