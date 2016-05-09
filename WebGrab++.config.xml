@@ -496,10 +496,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="701" xmltv_id="STV +1">STV +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="178" xmltv_id="STV Central">STV Central</channel>
     <channel update="i" site="tvguide.co.uk" site_id="951" xmltv_id="STV Glasgow">STV Glasgow</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="654" xmltv_id="STV HD">STV HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="164" xmltv_id="STV North">STV North</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="166" xmltv_id="STV North+1">STV North+1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="167" xmltv_id="STV North+1">STV North+1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="238" xmltv_id="Syfy">Syfy</channel>
     <channel update="i" site="tvguide.co.uk" site_id="411" xmltv_id="Syfy +1">Syfy +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="545" xmltv_id="Syfy HD">Syfy HD</channel>
