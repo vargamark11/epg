@@ -8,7 +8,7 @@
   <postprocess grab="y" run="n">mdb</postprocess>
   <logging>on</logging>
   <retry time-out="1">4</retry>
-  <timespan>5</timespan>
+  <timespan>1</timespan>
   <update>f</update>
  
   <!-- replace the next dummy channel entry with the channels you want -->
@@ -167,7 +167,23 @@
 <channel update="i" site="tvguide.co.uk" site_id="718" xmltv_id="RTÉ Two HD">RTÉ Two HD</channel>
 <channel update="i" site="tvguide.co.uk" site_id="517" xmltv_id="GOLD">GOLD</channel>
 <channel update="i" site="tvguide.co.uk" site_id="519" xmltv_id="GOLD +1">GOLD +1</channel>
-
+<channel update="i" site="tvhebdo.com" site_id="snet/RSNE" xmltv_id="Sports Net EST">Sports Net EST</channel>
+<channel update="i" site="tvhebdo.com" site_id="snet/RSNO" xmltv_id="Sports Net Ontario">Sports Net Ontario</channel>
+<channel update="i" site="tvhebdo.com" site_id="snet/RSNW" xmltv_id="Sports Net West">Sports Net West</channel>
+<channel update="i" site="tvhebdo.com" site_id="snet/RSNP" xmltv_id="Sports Net Pacifique">Sports Net Pacifique</channel>
+<channel update="i" site="tvhebdo.com" site_id="seta/SNWL" xmltv_id="Sportsnet World">Sportsnet World</channel>
+<channel update="i" site="tvhebdo.com" site_id="tsn/TSN1" xmltv_id="TSN1">TSN1</channel>
+<channel update="i" site="tvhebdo.com" site_id="tsn/TSN2" xmltv_id="TSN2">TSN2</channel>
+<channel update="i" site="tvhebdo.com" site_id="tsn/TSN3" xmltv_id="TSN3">TSN3</channel>
+<channel update="i" site="tvhebdo.com" site_id="tsn/TSN4" xmltv_id="TSN4">TSN4</channel>
+<channel update="i" site="tvhebdo.com" site_id="tsn/TSN5" xmltv_id="TSN">TSN</channel>
+<channel update="i" site="cthbpl.com" site_id="1563" xmltv_id="STADIUM 1 (CTH 211 SD / 56HD)">STADIUM 1 (CTH 211 SD / 56HD)</channel>
+<channel update="i" site="cthbpl.com" site_id="1565" xmltv_id="STADIUM 2 (CTH 212 SD / 57 HD)">STADIUM 2 (CTH 212 SD / 57 HD)</channel>
+<channel update="i" site="cthbpl.com" site_id="1567" xmltv_id="STADIUM 3 (CTH 213 SD / 58 HD)">STADIUM 3 (CTH 213 SD / 58 HD)</channel>
+<channel update="i" site="cthbpl.com" site_id="1568" xmltv_id="STADIUM 4 (CTH 214 SD / 59 HD)">STADIUM 4 (CTH 214 SD / 59 HD)</channel>
+<channel update="i" site="cthbpl.com" site_id="1570" xmltv_id="STADIUM 5 (CTH 216 SD / 60 HD)">STADIUM 5 (CTH 216 SD / 60 HD)</channel>
+<channel update="i" site="cthbpl.com" site_id="1571" xmltv_id="STADIUM 6 (CTH 216 SD / 61 HD)">STADIUM 6 (CTH 216 SD / 61 HD)</channel>
+<channel update="i" site="cthbpl.com" site_id="11734" xmltv_id="STADIUM X (CTH 217 SD / 62 HD)">STADIUM X (CTH 217 SD / 62 HD)</channel>
    
 
     
