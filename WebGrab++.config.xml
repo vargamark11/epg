@@ -9,7 +9,7 @@
   <logging>on</logging>
   <retry time-out="1">4</retry>
   <timespan>1</timespan>
-  <update>f</update>
+  <update>i</update>
  
   <!-- replace the next dummy channel entry with the channels you want -->
   <!-- see http://webgrabplus.com/node/94 for the available sites/channels -->

@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/05/2016 10:13:36
+[        ] Job started at 09/05/2016 10:14:23
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.1.7.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -21,3 +21,999 @@
 [  Info  ] found: /var/www/epg/tvhebdo.com.ini -- Revision 01
 [  Info  ] found: /var/www/epg/cthbpl.com.ini -- Revision 00
 [  Debug ] xmltv input file - /var/www/epg/guide.xml - found
+[  Debug ] 0 superfluous shows removed
+[Error   ] Could find existing channel (xmltv_id=Sky Action HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky ScFi/HorHD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4 + 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 4 HD +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5+24) in the config file
+[Error   ] Could find existing channel (xmltv_id=British Eurosport) in the config file
+[Error   ] Could find existing channel (xmltv_id=British Eurosport 2) in the config file
+[Error   ] Could find existing channel (xmltv_id=ESPN) in the config file
+[Error   ] Could find existing channel (xmltv_id=ESPN HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Film4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Film4 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Film4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Channel 5+24 (Freeview)) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Channel Islands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Digital) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 East Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 HD N Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 HD Scotland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 London) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 N East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 N Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 N West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 North) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Oxfordshire) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 S East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 S West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Scotland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Scotland Digital) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 South) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 Wales) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC1 West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 East Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 London) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 Midlands) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 N East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 N Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 N West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 North) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 S East) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 S West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 Scotland) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 South) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 Wales) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC2 West) in the config file
+[Error   ] Could find existing channel (xmltv_id=BBC4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 2) in the config file
+[Error   ] Could find existing channel (xmltv_id=BT Sport 2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central Extra) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central Extra +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Comedy Central HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Dave) in the config file
+[Error   ] Could find existing channel (xmltv_id=Dave HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=E!) in the config file
+[Error   ] Could find existing channel (xmltv_id=E! +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=E! Entertainment Europe) in the config file
+[Error   ] Could find existing channel (xmltv_id=E! Entertainment HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=E4) in the config file
+[Error   ] Could find existing channel (xmltv_id=E4 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=E4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Eurosport 2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Eurosport HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV Granada) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV Granada +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3+1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV3+1 (Freeview)) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV4) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV4 + 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=ITV4 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=More4) in the config file
+[Error   ] Could find existing channel (xmltv_id=More4 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Setanta Ireland) in the config file
+[Error   ] Could find existing channel (xmltv_id=Setanta Sports 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=MOTORS TV UK) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Christmas) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Christmas HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Comedy) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Comedy HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Crime  Thriller) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Disney HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Drama  Romance) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Drama  Romance HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Family) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Family HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Modern Greats) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Modern Greats HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Premiere) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Premiere +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Premiere HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Select) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Select HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Showcase) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Movies Showcase HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky News HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 2) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 2 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 3) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 5) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports 5 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports F1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports F1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports HD1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports HD3) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports HD4) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports News) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky Sports News HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky1 +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky1 HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Sky2) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ One) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ One +1) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ One HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ Two) in the config file
+[Error   ] Could find existing channel (xmltv_id=RTÉ Two HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=GOLD) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN1) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN2) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN3) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN4) in the config file
+[Error   ] Could find existing channel (xmltv_id=TSN) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 1 (CTH 211 SD / 56HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 2 (CTH 212 SD / 57 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 3 (CTH 213 SD / 58 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 4 (CTH 214 SD / 59 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 5 (CTH 216 SD / 60 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM 6 (CTH 216 SD / 61 HD)) in the config file
+[Error   ] Could find existing channel (xmltv_id=STADIUM X (CTH 217 SD / 62 HD)) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 0 - out of - 148 - channels for 2 day(s)
+[  Info  ] 
+[  Info  ] Group (1) :
+[  Info  ] update requested for - 148 - out of - 148 - channels for 2 day(s)
+[  Debug ] 
+[  Info  ] (   1/148 ) UK-SKY.COM -- chan. (xmltv_id=Sky Action HD) -- mode Incremental
+[  Debug ]   skipped fully overlapping show from 10/05/2016 09:00
+[  Debug ]                                    to 10/05/2016 11:15
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/148 ) UK-SKY.COM -- chan. (xmltv_id=Sky ScFi/HorHD) -- mode Incremental
+[  Debug ]   skipped fully overlapping show from 10/05/2016 08:10
+[  Debug ]                                    to 10/05/2016 10:35
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 + 1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 4 HD +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5 +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5+24) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=British Eurosport) -- mode Incremental
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=British Eurosport 2) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ESPN) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ESPN HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4) -- mode Incremental
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4 +1) -- mode Incremental
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Film4 HD) -- mode Incremental
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Channel 5+24 (Freeview)) -- mode Incremental
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Channel Islands) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Digital) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 East) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 East Midlands) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD N Ireland) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 HD Scotland) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 London) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Midlands) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N East) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N Ireland) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 N West) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 North) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Oxfordshire) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 S East) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 S West) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Scotland) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Scotland Digital) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 South) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 Wales) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC1 West) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 East) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 East Midlands) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 London) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Midlands) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N East) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N Ireland) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 N West) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 North) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 S East) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 S West) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Scotland) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 South) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 Wales) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC2 West) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BBC4 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 1 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 2) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=BT Sport 2 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central Extra) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central Extra +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Comedy Central HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Dave HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E!) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! Entertainment Europe) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E! Entertainment HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4 +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=E4 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Eurosport 2 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Eurosport HD) -- mode Incremental
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV Granada) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV Granada +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2 +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV2 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3+1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV3+1 (Freeview)) -- mode Incremental
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4 + 1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=ITV4 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=More4) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=More4 +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Setanta Ireland) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Setanta Sports 1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/148 ) UK-SKY.COM -- chan. (xmltv_id=MOTORS TV UK) -- mode Incremental
+[  Debug ]   skipped fully overlapping show from 10/05/2016 09:05
+[  Debug ]                                    to 10/05/2016 09:35
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Christmas) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Christmas HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Comedy) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Comedy HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Crime  Thriller) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Disney HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Drama  Romance) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Drama  Romance HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 102/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Family) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Family HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Modern Greats) -- mode Incremental
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 105/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Modern Greats HD) -- mode Incremental
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 106/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 107/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 108/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Premiere HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 109/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Select) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 110/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Select HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 111/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Showcase) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 112/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Movies Showcase HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 113/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky News HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 114/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 115/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 2) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 116/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 2 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 117/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 3) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 118/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 4) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 119/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 5) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 120/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports 5 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 121/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports F1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 122/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports F1 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 123/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 124/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD3) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 125/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports HD4) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 126/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports News) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 127/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky Sports News HD) -- mode Incremental
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 128/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1 +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 129/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky1 HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 130/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=Sky2) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 131/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 132/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One +1) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 133/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ One HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 134/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ Two) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 135/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=RTÉ Two HD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 136/148 ) TVGUIDE.CO.UK -- chan. (xmltv_id=GOLD) -- mode Incremental
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 137/148 ) TVHEBDO.COM -- chan. (xmltv_id=TSN1) -- mode Incremental
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Championnat du monde de hockey de l'IIHF
+[  Debug ]       differs from title in showdetails = World Hockey Championship
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 138/148 ) TVHEBDO.COM -- chan. (xmltv_id=TSN2) -- mode Incremental
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Championnat du monde de hockey de l'IIHF
+[  Debug ]       differs from title in showdetails = World Hockey Championship
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Sportscentre Top 10 Presents
+[  Debug ]       differs from title in showdetails = SC Top 10
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Jeux Invictus 2016
+[  Debug ]       differs from title in showdetails = 2016 Invictus Games
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 139/148 ) TVHEBDO.COM -- chan. (xmltv_id=TSN3) -- mode Incremental
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Challenge de bûcherons
+[  Debug ]       differs from title in showdetails = Lumberjacks
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Championnat du monde de hockey de l'IIHF
+[  Debug ]       differs from title in showdetails = World Hockey Championship
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 140/148 ) TVHEBDO.COM -- chan. (xmltv_id=TSN4) -- mode Incremental
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Sportscentre Top 10 Presents
+[  Debug ]       differs from title in showdetails = SC Top 10
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    suspicious      title in index page  = Sportscentre Top 10 Presents
+[  Debug ]       differs from title in showdetails = SC Top 10
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 141/148 ) TVHEBDO.COM -- chan. (xmltv_id=TSN) -- mode Incremental
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The request timed out (1sec)
+[Warning ] Retry 1 of 4 times
+[  Debug ]    skipped negative show time! at 10/05/2016 05:00:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 142/148 ) CTHBPL.COM -- chan. (xmltv_id=STADIUM 1 (CTH 211 SD / 56HD)) -- mode Incremental
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[Error   ] Unable to update channel STADIUM 1 (CTH 211 SD / 56HD)
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from STADIUM 1 (CTH 211 SD / 56HD)
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 142/148 ) CTHBPL.COM -- chan. (xmltv_id=STADIUM 2 (CTH 212 SD / 57 HD)) -- mode Incremental
+[Error   ] Unable to update channel STADIUM 2 (CTH 212 SD / 57 HD)
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from STADIUM 2 (CTH 212 SD / 57 HD)
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 142/148 ) CTHBPL.COM -- chan. (xmltv_id=STADIUM 3 (CTH 213 SD / 58 HD)) -- mode Incremental
+[Error   ] Unable to update channel STADIUM 3 (CTH 213 SD / 58 HD)
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from STADIUM 3 (CTH 213 SD / 58 HD)
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 142/148 ) CTHBPL.COM -- chan. (xmltv_id=STADIUM 4 (CTH 214 SD / 59 HD)) -- mode Incremental
+[Error   ] Unable to update channel STADIUM 4 (CTH 214 SD / 59 HD)
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from STADIUM 4 (CTH 214 SD / 59 HD)
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 142/148 ) CTHBPL.COM -- chan. (xmltv_id=STADIUM 5 (CTH 216 SD / 60 HD)) -- mode Incremental
+[Error   ] Unable to update channel STADIUM 5 (CTH 216 SD / 60 HD)
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from STADIUM 5 (CTH 216 SD / 60 HD)
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 142/148 ) CTHBPL.COM -- chan. (xmltv_id=STADIUM 6 (CTH 216 SD / 61 HD)) -- mode Incremental
+[Error   ] Unable to update channel STADIUM 6 (CTH 216 SD / 61 HD)
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from STADIUM 6 (CTH 216 SD / 61 HD)
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 142/148 ) CTHBPL.COM -- chan. (xmltv_id=STADIUM X (CTH 217 SD / 62 HD)) -- mode Incremental
+[Error   ] Unable to update channel STADIUM X (CTH 217 SD / 62 HD)
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from STADIUM X (CTH 217 SD / 62 HD)
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Debug ] 6415 shows in 148 channels
+[  Debug ] 0 updated shows
+[  Debug ] 119 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 09/05/2016 11:05:27 done in 51m 3s
+[  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.
