@@ -6,7 +6,7 @@
     <channel update="i" site="musor.tv" site_id="M3" xmltv_id="m3">m3</channel>
     <channel update="i" site="musor.tv" site_id="DUNA" xmltv_id="Duna TV (HD)">Duna TV (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DUNAWORLD" xmltv_id="Duna World (HD)">Duna World (HD)</channel>
-    <channel update="i" site="musor.tv" site_id="RTL" xmltv_id="RTL Klub (HD)">RTL Klub (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="RTL" xmltv_id="(HU) RTL Klub (HD)">RTL Klub (HD)</channel>
     <channel update="i" site="musor.tv" site_id="RTL2" xmltv_id="RTL2 (RTL II)">RTL2 (RTL II)</channel>
     <channel update="i" site="musor.tv" site_id="TV2" xmltv_id="TV2 (HD)">TV2 (HD)</channel>
     <channel update="i" site="musor.tv" site_id="SUPERTV2" xmltv_id="Super TV2 (HD)">Super TV2 (HD)</channel>
